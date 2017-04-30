@@ -1,12 +1,12 @@
 Dragon Dune 
 
 Formally Dragons, Usurpers, and Empires [DU&E],
-but the internet hates am
+but the internet hates amperdands in your project name.
 
-A game for 4 players.
+A game for 4 players, inspired by Avalon-Hill's Dune Boardgame.
 
-Contact: duae.game@gmail.com
-Github: duae-game
+Contact: dragon.dune.game@gmail.com
+Github: dragon-dune
 
 
 Board:  
