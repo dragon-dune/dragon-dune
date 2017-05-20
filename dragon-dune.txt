@@ -88,7 +88,7 @@ cards goes to the bank.
 Ace: You may use an ace as a Sabotaged Artifact (Jack) of 
 the same suit.
 Alliance Power: The Dwarves may use their traitor and 
-sabotaged artifact cards on your behalf in battle.
+sabotaged artifact cards on their allies behalf in battle.
 
 Elves:
 ------
@@ -105,7 +105,7 @@ conflict. Hidden units act in every way as though they did not exist.
 Hidden units may only come out of hiding if they move into a new
 territory or at the beginning of a turn.
 Ace: You may place up to five tokens on any one territory for free.
-Alliance Power: Elves may ask a battle question on your behalf.
+Alliance Power: Elves may ask a battle question on their allies behalf.
 
 
 Goblins:
