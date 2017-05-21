@@ -7,6 +7,10 @@ Formally Dragons, Usurpers, and Empires \[DU&E\],
 
 but the Internet hates ampersands in your project name.
 
+Dune is a great game, but it has it’s drawbacks:
+
+-   It’s hard to get six people for a proper game.
+
 About This Game
 ---------------
 
@@ -20,9 +24,9 @@ What You Need to Play:
 ----------------------
 
 1.  The Board
-2.  Tokens (approximately 200)
-3.  A deck of cards
-4.  Faction tokens (4 or 5 for each faction)
+2.  Faction Tokens (20 per faction)
+3.  Gold Tokens (approximately 100)
+4.  Deck of Standard Playing Cards
 
 Board:
 ======
@@ -47,7 +51,9 @@ Factions:
 Dwarves:
 --------
 
-The Dwarves empire has fallen. The are forced to sell
+The Dwarves empire has fallen. The are forced to sell artifacts from
+their treasuries with the hope of one day reestablishing their mighty
+kingdom.
 
 Start With: 10 Gold, 1 artifact.
 
@@ -58,9 +64,9 @@ Special:
 1.  The Dwarves collect all gold spent by other players on on
     artifact cards. Gold spent by the Dwarves on artifact cards goes to
     the bank.
-2.  The Dwarve have two special tokens, which act as normal tokens in
-    every way except that they count as two tokens for the purpose
-    of combat.
+2.  The Dwarves are fierce warriors. They have two special tokens, which
+    act as normal tokens in every way except that each token counts as
+    two tokens for the purpose of combat.
 3.  Special Card (Ace): You may use an ace as a Sabotaged
     Artifact (Jack) of the same suit.
 4.  Alliance Power: The Dwarves may use their traitor and sabotaged
@@ -69,7 +75,7 @@ Special:
 Elves:
 ------
 
-The
+The ancient Elves have vast arcane knowledge,
 
 Start With: 10 Gold, 1 artifact.
 
@@ -77,22 +83,27 @@ Starting Tokens: 10 tokens in 5c.
 
 Special:
 
-1.  The Elves may see the value of the artifact that is up for bid.
+1.  The Elves may see the artifact that is up for bid before
+    bidding begins.
 2.  In battle with the Elves (or their allies), the Elves may ask the
     color of their opponents artifact card, the value of the artifact
     card, or to know how many tokens they are sending in to battle
     before selecting their own card and tokens.
-3.  Elven units may go into hiding in a territory in order to
+3.  At the beginning of the Recruitment and Movement Round, the Elves
+    may see what the next event card will be.
+4.  Elven units may go into hiding in a territory in order to
     escape conflict. Hidden units act in every way as though they did
     not exist. Hidden units may only come out of hiding if they move
     into a new territory or at the beginning of a turn.
-4.  Special Card (Ace): You may place up to five tokens on any one
+5.  Special Card (Ace): You may place up to five tokens on any one
     territory for free.
-5.  Alliance Power: Elves may ask a battle question on their
+6.  Alliance Power: Elves may ask a battle question on their
     allies behalf.
 
 Goblins:
 --------
+
+The Goblins are greedy mercenaries.
 
 Start With: 5 Gold, 2 artifacts.
 
@@ -107,13 +118,17 @@ Special:
 3.  When the Goblins win an artifact cards, they get a second artifact
     card that is hidden from the Elves.
 4.  The Goblins may have up to 8 artifact cards (instead of 4).
-5.  Special Card (Ace): You may stop a player from hiring
+5.  The Goblins may disband tokens at the beginning of the movement
+    round (instead of at the end).
+6.  Special Card (Ace): You may stop a player from hiring
     Goblin mercenaries.
-6.  Alliance Power: You pay half price (rounded up) for
+7.  Alliance Power: You pay half price (rounded up) for
     Goblin mercenaries.
 
 Orcs:
 -----
+
+The Orcs
 
 Start With: 5 Gold, 1 artifact.
 
@@ -121,8 +136,8 @@ Starting Tokens: 10 tokens split between 1c, 9s & 16s.
 
 Special:
 
-1.  Orcs do not need to hire mercenaries, and instead my raise armies in
-    Orcish territories (16, 16s , 17, 18, 1, 1c, 2, & 2s) at no cost.
+1.  Orcs may not hire mercenaries. Instead, they my raise armies in
+    Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2s) at no cost.
 2.  When you win a battle, you may steal one of your opponents artifacts
     (randomly chosen), which you may then keep or sell for its value
     in gold.
@@ -173,13 +188,10 @@ Special Card Actions:
 
 Players may use Special Cards to:
 
-1\. Not pay for an artifact card.
-
-2\. Pay half of regular price for mercenaries.
-
-3\. Make one extra movement in the Movement Round.
-
-4\. May be played as an artifact in battle with a value of 1.
+1.  Not pay for an artifact card.
+2.  Pay half of regular price for mercenaries.
+3.  Make one extra movement in the Movement Round.
+4.  May be played as an artifact in battle with a value of 1.
 
 Rounds:
 =======
@@ -225,9 +237,8 @@ Bidding Round:
 Recruitment and Movement Rounds:
 --------------------------------
 
-Starting with the Emperor, and the proceeding in player
-
-order, all players may (in the following order):
+Starting with the Emperor, and the proceeding in player order, all
+players may (in the following order):
 
 1.  Move five tokens from the players graveyard to the bank.
 2.  Conscript up to 2 tokens onto any territory where they already
