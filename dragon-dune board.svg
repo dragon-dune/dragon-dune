@@ -27,9 +27,9 @@
      inkscape:window-height="916"
      id="namedview148"
      showgrid="false"
-     inkscape:zoom="0.61699345"
-     inkscape:cx="558.34813"
-     inkscape:cy="531.22222"
+     inkscape:zoom="0.8725605"
+     inkscape:cx="97.931202"
+     inkscape:cy="741.36188"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -349,16 +349,6 @@
        id="tspan4394"
        x="938.68695"
        y="654.74512" /></text>
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#9eabb0;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path4340"
-     d="m 496.60835,262.21545 -10.08238,5.51024 9.98279,-5.68104 0.16187,-11.29471 0.0392,11.29574 9.9205,5.78447 z" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#9eabb0;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path4340-7"
-     d="m 848.25726,129.23963 -10.08238,5.51023 9.98279,-5.68103 0.16187,-11.29471 0.0392,11.29574 9.9205,5.78447 z" />
   <text
      sodipodi:linespacing="125%"
      xml:space="preserve"
@@ -860,4 +850,51 @@
        id="tspan3964-6"
        x="226.28392"
        y="418.93741">17</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="309.89319"
+     y="693.66382"
+     id="text3471"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3525"
+       x="309.89319"
+       y="693.66382">Key:   ★Castle    •Fort    ➟Travel Bonus</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="831.97638"
+     y="141.43234"
+     id="text3475"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3477"
+       x="831.97638"
+       y="141.43234"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr;text-anchor:start">➟</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="477.07468"
+     y="276.72528"
+     id="text3475-2"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3477-4"
+       x="477.07468"
+       y="276.72528"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">➟</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="361.62668"
+     y="702.16925"
+     id="text3475-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3477-7"
+       x="361.62668"
+       y="702.16925"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
 </svg>

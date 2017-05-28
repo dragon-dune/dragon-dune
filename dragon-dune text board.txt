@@ -1,7 +1,7 @@
 Dragon Dune Text Board
 CC-SA
 
-Key: c = city, f = fort, t = travel bonus
+Key: c = castle, f = fort, t = travel bonus
 #########################################################
 #      #      #      #      3      #  4f  #   5c  (t)   #
 #  1c  #  1   #  2   #             #      #             #
