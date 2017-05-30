@@ -1,15 +1,23 @@
 Dragon Dune
 ===========
 
-A game for 4 players, inspired by Avalon-Hill's Dune Boardgame.
+A game for 4 players, inspired by Avalon-Hill's Dune board game.
 
-Formally Dragons, Usurpers, and Empires \[DU&E\],
+Formally Dragons, Usurpers, and Empires (DU&E),
 
 but the Internet hates ampersands in your project name.
 
-Dune is a great game, but it has it’s drawbacks:
+So, let’s justify this things existence. Dune is a great game, but it
+has it’s drawbacks. The rules are kind of ambiguous. It can take a while
+to play. It can be a little cutthroat for beginners. Actually, it can be
+cutthroat for everyone. Rex attempted to iron out some of these
+idiosyncrasies, but they got rid of things like binding agreements,
+which seem fundamentally important to the game dune.
 
--   It’s hard to get six people for a proper game.
+This is an attempt to make a resource light game in the style of Dune,
+that is friendlier to beginners, easier logistically (4 players instead
+of 6), with greater rule clarity, and with a strong sense of theme
+(taking place in a fantasy setting).
 
 About This Game
 ---------------
@@ -27,9 +35,12 @@ What You Need to Play:
 2.  Faction Tokens (20 per faction)
 3.  Gold Tokens (approximately 100)
 4.  Deck of Standard Playing Cards
+5.  One Six-Sided Die
 
 Board:
 ======
+
+See “dragon-dune board.png” or “dragon-dune text board.txt”.
 
 Special Rules:
 --------------
@@ -42,18 +53,17 @@ Special Rules:
     round (instead of 2).
 4.  Players may never have more than 20 player tokens between on the
     board and the player's graveyard at any one time.
-5.  No more than two players may have tokens in a city at one time. This
-    does not count hidden tokens.
+5.  No more than two players may have tokens in a castle at one time.
+    This does not count hidden tokens.
 
 Factions:
 =========
 
-Dwarves:
---------
+Dwarves (King of Diamonds):
+---------------------------
 
 The Dwarves empire has fallen. The are forced to sell artifacts from
-their treasuries with the hope of one day reestablishing their mighty
-kingdom.
+their treasuries with the hope of one day reclaiming their birthright.
 
 Start With: 10 Gold, 1 artifact.
 
@@ -72,10 +82,11 @@ Special:
 4.  Alliance Power: The Dwarves may use their traitor and sabotaged
     artifact cards on their allies behalf in battle.
 
-Elves:
-------
+Elves (King of Hearts):
+-----------------------
 
-The ancient Elves have vast arcane knowledge,
+The ancient Elves have vast arcane knowledge, but they will need to be
+clever to turn knowledge into gain.
 
 Start With: 10 Gold, 1 artifact.
 
@@ -100,10 +111,12 @@ Special:
 6.  Alliance Power: Elves may ask a battle question on their
     allies behalf.
 
-Goblins:
---------
+Goblins (King of Clubs):
+------------------------
 
-The Goblins are greedy mercenaries.
+The Goblins are ruthless mercenaries who fight for coin, even against
+their own king. Their thirst for treasure finds them with a trove of
+artifacts.
 
 Start With: 5 Gold, 2 artifacts.
 
@@ -125,14 +138,15 @@ Special:
 7.  Alliance Power: You pay half price (rounded up) for
     Goblin mercenaries.
 
-Orcs:
------
+Orcs (King of Spades):
+----------------------
 
-The Orcs
+The Orcs control the wild territories of the west. They worship the
+mighty Red Dragon.
 
 Start With: 5 Gold, 1 artifact.
 
-Starting Tokens: 10 tokens split between 1c, 9s & 16s.
+Starting Tokens: 10 tokens split between 1★, 9• & 16•.
 
 Special:
 
@@ -143,45 +157,33 @@ Special:
     in gold.
 3.  The Orcs may move tokens three territories in the movement round
     (instead of 2).
-4.  The Orcs may choose to halve their losses (rounded up) against any
-    dragon attack.
+4.  The Orcs take only half losses (rounded up) against Wild Dragons.
 5.  The Orcs may conscript 4 tokens (instead of 2).
-6.  If no player has won at the end of the game, then Orcs are the
+6.  The Orcs may ride the Red Dragon when it appears, if they are in the
+    same location.
+7.  If no player has won at the end of the game, then Orcs are the
     default winner.
-7.  Special Card (Ace): In the Dragon round, you may move one stack of
+8.  Special Card (Ace): In the Dragon round, you may move one stack of
     tokens to any location.
-8.  Alliance Power: You may share your default victory.
+9.  Alliance Power: You may share your default victory.
 
 Cards:
 ======
 
-Dwarves (King of Diamonds)
-
-Elves (King of Hearts)
-
-Goblins (King of Clubs)
-
-Orcs (King of Spades)
-
-Orc Usurper (Queen of Spades)
-
-Dwarven Usurper (Queen of Diamonds)
-
-Elven Usurper (Queen of Hearts)
-
-Goblin Usurper (Queen of Clubs)
-
-Sabotaged Clubs Artifact (Jack of Clubs)
-
-Sabotaged Diamond Artifact (Jack of Diamonds)
-
-Sabotaged Heart Artifact (Jack of Hearts)
-
-Sabotaged Spade Artifact (Jack of Spades)
-
-Special Card (Aces, All Suits)
-
-Artifacts (2 to 6, All Suits)
+-   Dwarves (King of Diamonds)
+-   Elves (King of Hearts)
+-   Goblins (King of Clubs)
+-   Orcs (King of Spades)
+-   Orc Usurper (Queen of Spades)
+-   Dwarven Usurper (Queen of Diamonds)
+-   Elven Usurper (Queen of Hearts)
+-   Goblin Usurper (Queen of Clubs)
+-   Sabotaged Clubs Artifact (Jack of Clubs)
+-   Sabotaged Diamond Artifact (Jack of Diamonds)
+-   Sabotaged Heart Artifact (Jack of Hearts)
+-   Sabotaged Spade Artifact (Jack of Spades)
+-   Special Card (Aces, All Suits)
+-   Artifacts (2 to 6, All Suits)
 
 Special Card Actions:
 ---------------------
@@ -199,40 +201,57 @@ Rounds:
 Setup:
 ------
 
-The board is set up. Players are given their starting tokens.
+1.  The board is set up. Players place their starting tokens.
+2.  One player is picked at random to be the Emperor.
+3.  Each player is given the King of their faction from the deck.
+4.  Each player is dealt one of the Queens face down. Players may look
+    at them.
+5.  Each player is dealt one of the Jacks face down. Players may look
+    at them.
+6.  Each player is dealt one artifact card face down. Players may look
+    at them.
+7.  The Goblins are given a second artifact card face down, which they
+    may look at.
 
-One player is picked at random to be the Emperor.
+Wild Dragon Round:
+------------------
 
-Dragon Round:
--------------
-
-1.  A six-sided dice is rolled, and the dragon is moved from its
-    starting position that amount through the board. Any player or gold
-    tokens the dragon encounters are are not in a castle or fort are
-    removed form the game.
+1.  A six-sided dice is rolled, and the Wild Dragon marker is moved from
+    its starting position that amount through the board, in
+    numerical order. Any player or gold tokens the wild dragons
+    encounter are are not in a castle or fortress are removed form
+    the game.
+2.  Note that Orcs only take half losses, rounded up.
 
 Event Round:
 ------------
 
 1.  An event card is flipped over.
-2.  Gold is placed on that location.
+2.  Gold is placed on that location, unless the Wild Dragon marker is at
+    that location. If the Wild Dragon marker is at that location, then
+    no gold is placed this turn.
 3.  If the event card is the same color as the games current Emperor,
-    then a Great Dragon has attacked the previous event territory. All
+    then the Red Dragon has attacked the previous event territory. All
     units and gold in that territory are lost.
-4.  In response to the appearance of a Great Dragon, a Great Council
-    is called. This is the only time players may form or
-    break alliances.
+4.  If the Orcs are in the same territory as the Red Dragon, they may
+    move some or all of their tokens at that location to any
+    other location.
+5.  In response to the appearance of the Red Dragon, a Great Council is
+    called immediately. This is the only time players may form or
+    break alliances. The Geat Council continues until
 
 Bidding Round:
 --------------
 
-1.  One card is placed up for bid for each player that does not have
-    their maximum number of cards.
-2.  For each card up for bid, one at a time:
+One card is placed up for bid for each player that does not have their
+maximum number of cards. For each card up for bid, one at a time.
 
-    a)  The Elves, and only the Elves are shown the card;
-    b)  Players, starting with the Emperor, bid on card;
-    c)  The winner receives the card and pays.
+1.  The Elves, and only the Elves are shown the card.
+2.  Players, starting with the Emperor, bid on card.
+3.  The winner receives the card and pays the Dwarves.
+4.  If the Dwarves win the artifact, their payment is payed to the bank.
+5.  The winner may play a Special Card to avoid paying.
+6.  Then the whole process repeats for the next player in player order.
 
 Recruitment and Movement Rounds:
 --------------------------------
@@ -240,24 +259,41 @@ Recruitment and Movement Rounds:
 Starting with the Emperor, and the proceeding in player order, all
 players may (in the following order):
 
-1.  Move five tokens from the players graveyard to the bank.
-2.  Conscript up to 2 tokens onto any territory where they already
-    have tokens. This action is free.
-3.  Hire Goblin mercenaries at a cost of 1 gold per mercenary if it is
-    in a city, or 2 gold per mercenary if it is into any
-    other territory.
-4.  Move one stack of tokens through two territories, or through four
-    territories if they have access to griffins.
-5.  Disband some or all of one stack of tokens.
+1.  If they current player is the Goblins, they may disband some or all
+    of one stack of tokens.
+2.  The current player may remove five tokens from the
+    players graveyard.
+3.  The current player may conscript up to 2 tokens onto any territory
+    where they already have tokens. This action is free.
+4.  The current player may hire Goblin mercenaries at a cost of 1 gold
+    per mercenary if it is in a city, or 2 gold per mercenary if it is
+    into any other territory. The payment is made directly to
+    the Goblins.
+
+    -   Payments made by the Goblins are half price, rounded up.
+    -   Payments made by the Goblins are paid to the bank
+    -   The player may play a Special Card to pay half price,
+        rounded up.
+
+5.  The current player may move one stack of tokens through
+    two territories.
+
+    -   The Orcs may move through three territories.
+    -   If the player has access to griffins (If they control of 3★
+        or 5★) then they may move through four territories.
+    -   The player may play a Special Card to make a second movement
+        this round.
+
+6.  If the current player is not the Goblins, they may disband some or
+    all of one stack of tokens.
+7.  Then the whole process repeats for the next player in player order.
 
 Battle Round:
 -------------
 
-Starting with the Emperor, and the proceeding in player order,
-
-if a player has tokens in the same territory another player,
-
-they shall do the following (in the following order):
+Starting with the Emperor, and the proceeding in player order, if a
+player has tokens in the same territory another player, they shall do
+the following (in the following order):
 
 1.  The player whose turn it is is the attacking player.
 2.  If the Elves are taking part in the battle, they may ask what one of
@@ -283,6 +319,7 @@ they shall do the following (in the following order):
 8.  The winner removes any tokens used in the battle from the territory,
     and can choose to discard artifacts used in the battle.
 9.  This process continues until all battles for a player are resolved.
+10. Then the whole process repeats for the next player in player order.
 
 Collection Round:
 -----------------
@@ -291,15 +328,73 @@ Collection Round:
 2.  Players collect gold from any territories they control. They can
     collect two gold for every token in the territory, up to the amount
     of gold in the territory.
-3.  If any lone player controls three cities, or if any alliance
-    controls 4 cities, then they have won the game.
+3.  If any lone player controls three castles, or if any alliance
+    controls 4 castles, then they have won the game.
 4.  If six turns have passed without a winner, then the Orcs win.
 
-Balancing Options
-=================
+Balancing Options:
+==================
 
 -   Give players more conscription to weaken the Goblins.
 -   Take away special tokens or starting gold to weaken the Dwarves
 -   Give players (more) special tokens.
 -   Give players (more) gold.
 
+Special Thanks:
+===============
+
+-   https://opengameart.org/content/jinns-icons
+-   https://opengameart.org/content/wyvern-and-girl
+
+Dragon-Dune Text Board
+======================
+
+    Key: c = castle, f = fort, t = travel bonus
+    #########################################################
+    #      #      #      #      3      #  4f  #   5c  (t)   #
+    #  1c  #  1   #  2   #             #      #             #
+    #      #      #      ####################################
+    #      #      #      ####       ####      ########      #
+    #      #      #      ####  3c   ####  4   ########  6   #
+    #########################  (t)  ####      #      #      # 
+    #      ########      ####       ####      #  7   #      #
+    #  18  ########  2f  ####       ####      #      #      #
+    #      ########      #################################  #
+    #      ########      #             #      #      #####  #
+    #      ########      #             #  8f  #  8   #####  #
+    ######################     0f      #      #      ########
+    #        17          #             #      #      #####  #
+    #                    #             #      #      #####  #
+    ######################################################  #
+    #     16f     #      #     12f     #      #      #      #
+    #             #      #             #  11  #  9f  #  9   #
+    ###############      ###############      #      #      #
+    #  16  ########  14  #      ########      #      ########
+    #      ########      #  13  ########      #      ########
+    ###############      #      #############################
+    #  15c #  15  #      #      #      10     #     10c     #
+    #      #      #      #      #             #             #
+    #########################################################
+
+
+Event Cards:
+============
+Format: 
+(Card : Territory : Gold)
+
+* (7C: 1: $6)
+* (7D: 2: $8)
+* (7H: 3: $6)
+* (7S: 4: $8)
+* (8C: 6: $6)
+* (8D: 7: $6)
+* (8H: 8: $8)
+* (8S: 9: $8)
+* (9C: 10: $10)
+* (9D: 11: $8)
+* (9H: 13: $12)
+* (9S: 14: $6)
+* (10C: 15: $10)
+* (10D: 16: $8)
+* (10H: 17: $10)
+* (10S: 18: $6)

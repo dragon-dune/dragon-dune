@@ -3,7 +3,7 @@ Dragon Dune
 
 A game for 4 players, inspired by Avalon-Hill's Dune board game.
 
-Formally Dragons, Usurpers, and Empires \[DU&E\],
+Formally Dragons, Usurpers, and Empires (DU&E),
 
 but the Internet hates ampersands in your project name.
 
@@ -253,10 +253,6 @@ maximum number of cards. For each card up for bid, one at a time.
 5.  The winner may play a Special Card to avoid paying.
 6.  Then the whole process repeats for the next player in player order.
 
-<!-- -->
-
-1.  i.  
-
 Recruitment and Movement Rounds:
 --------------------------------
 
@@ -350,3 +346,55 @@ Special Thanks:
 -   https://opengameart.org/content/jinns-icons
 -   https://opengameart.org/content/wyvern-and-girl
 
+Dragon-Dune Text Board
+======================
+
+    Key: c = castle, f = fort, t = travel bonus
+    #########################################################
+    #      #      #      #      3      #  4f  #   5c  (t)   #
+    #  1c  #  1   #  2   #             #      #             #
+    #      #      #      ####################################
+    #      #      #      ####       ####      ########      #
+    #      #      #      ####  3c   ####  4   ########  6   #
+    #########################  (t)  ####      #      #      # 
+    #      ########      ####       ####      #  7   #      #
+    #  18  ########  2f  ####       ####      #      #      #
+    #      ########      #################################  #
+    #      ########      #             #      #      #####  #
+    #      ########      #             #  8f  #  8   #####  #
+    ######################     0f      #      #      ########
+    #        17          #             #      #      #####  #
+    #                    #             #      #      #####  #
+    ######################################################  #
+    #     16f     #      #     12f     #      #      #      #
+    #             #      #             #  11  #  9f  #  9   #
+    ###############      ###############      #      #      #
+    #  16  ########  14  #      ########      #      ########
+    #      ########      #  13  ########      #      ########
+    ###############      #      #############################
+    #  15c #  15  #      #      #      10     #     10c     #
+    #      #      #      #      #             #             #
+    #########################################################
+
+
+Event Cards:
+============
+Format: 
+(Card : Territory : Gold)
+
+* (7C: 1: $6)
+* (7D: 2: $8)
+* (7H: 3: $6)
+* (7S: 4: $8)
+* (8C: 6: $6)
+* (8D: 7: $6)
+* (8H: 8: $8)
+* (8S: 9: $8)
+* (9C: 10: $10)
+* (9D: 11: $8)
+* (9H: 13: $12)
+* (9S: 14: $6)
+* (10C: 15: $10)
+* (10D: 16: $8)
+* (10H: 17: $10)
+* (10S: 18: $6)

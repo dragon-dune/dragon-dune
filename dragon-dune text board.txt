@@ -1,4 +1,4 @@
-Dragon Dune Text Board
+Dragon-Dune Text Board
 ======================
 
     Key: c = castle, f = fort, t = travel bonus
@@ -31,7 +31,9 @@ Dragon Dune Text Board
 
 Event Cards:
 ============
-Format: (Card : Territory : Gold)
+Format: 
+(Card : Territory : Gold)
+
 * (7C: 1: $6)
 * (7D: 2: $8)
 * (7H: 3: $6)
