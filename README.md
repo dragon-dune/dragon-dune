@@ -44,9 +44,9 @@ See “dragon-dune board.png” or “dragon-dune text board.txt”.
 Special Rules:
 --------------
 
-1.  Territory 0• is the Imperial palace and is neutral territory.
+1.  Territory 0• is the Imperial Palace and is neutral territory.
     Players will never battle in territory 0•.
-2.  A player controls a city if they alone have unit there.
+2.  A player controls a city if they alone have at least one unit there.
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
     round (instead of 2).
@@ -64,18 +64,18 @@ Dwarves (King of Diamonds):
 The Dwarves empire has fallen. The are forced to sell artifacts from
 their treasuries with the hope of one day reclaiming their birthright.
 
-Start With: 10 Gold, 1 artifact.
+Start With: 10 Gold, 1 Artifact.
 
-Starting Tokens: None.
+Starting Units: None.
 
 Special:
 
 1.  The Dwarves collect all gold spent by other players on on
     artifact cards. Gold spent by the Dwarves on artifact cards goes to
     the bank.
-2.  The Dwarves are fierce warriors. They have two special tokens, which
-    act as normal tokens in every way except that each token counts as
-    two tokens for the purpose of combat.
+2.  The Dwarves are fierce warriors. They have two special units, which
+    act as normal units in every way except that each unit counts as two
+    units for the purpose of combat.
 3.  Special Card (Ace): You may use an ace as a Sabotaged
     Artifact (Jack) of the same suit.
 4.  Alliance Power: The Dwarves may use their traitor and sabotaged
@@ -87,9 +87,9 @@ Elves (King of Hearts):
 The ancient Elves have vast arcane knowledge, but they will need to be
 clever to turn knowledge into gain.
 
-Start With: 10 Gold, 1 artifact.
+Start With: 10 Gold, 1 Artifact.
 
-Starting Tokens: 10 tokens in 5c.
+Starting units: 10 units in 5★.
 
 Special:
 
@@ -97,15 +97,15 @@ Special:
     bidding begins.
 2.  In battle with the Elves (or their allies), the Elves may ask the
     color of their opponents artifact card, the value of the artifact
-    card, or to know how many tokens they are sending in to battle
-    before selecting their own card and tokens.
+    card, or to know how many units they are sending in to battle before
+    selecting their own card and units.
 3.  At the beginning of the Recruitment and Movement Round, the Elves
     may see what the next event card will be.
 4.  Elven units may go into hiding in a territory in order to
     escape conflict. Hidden units act in every way as though they did
     not exist. Hidden units may only come out of hiding if they move
     into a new territory or at the beginning of a turn.
-5.  Special Card (Ace): You may place up to five tokens on any one
+5.  Special Card (Ace): You may place up to five units on any one
     territory for free.
 6.  Alliance Power: Elves may ask a battle question on their
     allies behalf.
@@ -119,7 +119,7 @@ artifacts.
 
 Start With: 5 Gold, 2 artifacts.
 
-Starting Tokens: 5 tokens in 10c.
+Starting units: 5 units in 10★.
 
 Special:
 
@@ -130,8 +130,8 @@ Special:
 3.  When the Goblins win an artifact cards, they get a second artifact
     card that is hidden from the Elves.
 4.  The Goblins may have up to 8 artifact cards (instead of 4).
-5.  The Goblins may disband tokens at the beginning of the movement
-    round (instead of at the end).
+5.  The Goblins may disband units at the beginning of the movement round
+    (instead of at the end).
 6.  Special Card (Ace): You may stop a player from hiring
     Goblin mercenaries.
 7.  Alliance Power: You pay half price (rounded up) for
@@ -145,7 +145,7 @@ mighty Red Dragon.
 
 Start With: 5 Gold, 1 artifact.
 
-Starting Tokens: 10 tokens split between 1★, 9• & 16•.
+Starting units: 10 units split between 1★, 9• & 16•.
 
 Special:
 
@@ -154,16 +154,16 @@ Special:
 2.  When you win a battle, you may steal one of your opponents artifacts
     (randomly chosen), which you may then keep or sell for its value
     in gold.
-3.  The Orcs may move tokens three territories in the movement round
+3.  The Orcs may move units three territories in the movement round
     (instead of 2).
 4.  The Orcs take only half losses (rounded up) against Wild Dragons.
-5.  The Orcs may conscript 4 tokens (instead of 2).
+5.  The Orcs may conscript 4 units (instead of 2).
 6.  The Orcs may ride the Red Dragon when it appears, if they are in the
     same location.
 7.  If no player has won at the end of the game, then Orcs are the
     default winner.
 8.  Special Card (Ace): In the Dragon round, you may move one stack of
-    tokens to any location.
+    units to any location.
 9.  Alliance Power: You may share your default victory.
 
 Cards:
@@ -205,7 +205,7 @@ Rounds:
 Setup:
 ------
 
-1.  The board is set up. Players place their starting tokens.
+1.  The board is set up. Players place their starting units.
 2.  One player is picked at random to be the Emperor.
 3.  Each player is given the King of their faction from the deck.
 4.  Each player is dealt one of the Queens face down. Players may look
@@ -222,9 +222,8 @@ Wild Dragon Round:
 
 1.  A six-sided dice is rolled, and the Wild Dragon marker is moved from
     its starting position that amount through the board, in
-    numerical order. Any player or gold tokens the wild dragons
-    encounter are are not in a castle or fortress are removed form
-    the game.
+    numerical order. Any units or gold the wild dragons encounter are
+    are not in a castle or fortress are removed form the game.
 2.  Note that Orcs only take half losses, rounded up.
 
 Event Round:
@@ -348,42 +347,29 @@ Balancing Options:
 Special Thanks:
 ===============
 
+I would like to thank
+
 I would like to thank artists that make their work available to the open
 source community.
 
--   Jinn’s Icons (by Jinn), https://opengameart.org/content/jinns-icons
--   Wyvern and Girl (by 5hiroi),
+-   Jinn’s Icons (by Jinn) https://opengameart.org/content/jinns-icons
+-   Wyvern and Girl (by 5hiroi)
     https://opengameart.org/content/wyvern-and-girl
--   Dragon head icon (Lorc under CC BY 3.0)
+-   Dragon head icon (by Lorc)
     http://game-icons.net/lorc/originals/dragon-head.html
--   Crossed swords icon
-
-    -   http://game-icons.net/lorc/originals/crossed-swords.html
-    -   by Lorc under CC BY 3.0
--   Locked chest icon
-
-    -   http://game-icons.net/lorc/originals/locked-chest.html
-    -   by Lorc under CC BY 3.0
--   Card pickup icon
-
-    -   http://game-icons.net/quoting/originals/card-pickup.html
-    -   by Quoting under CC BY 3.0
--   Mounted knight icon
-
-    -   http://game-icons.net/skoll/originals/mounted-knight.html
-    -   by Skoll under CC BY 3.0
--   Coins icon
-
-    -   http://game-icons.net/delapouite/originals/coins.html
-    -   by Delapouite under CC BY 3.0
--   Poker Hand icon
-
-    -   http://game-icons.net/lorc/originals/poker-hand.html
-    -   by Lorc under CC BY 3.0
--   Ace icon
-
-    -   http://game-icons.net/lorc/originals/ace.html
-    -   by Lorc under CC BY 3.0
+-   Crossed swords icon (by Lorc)
+    http://game-icons.net/lorc/originals/crossed-swords.html
+-   Locked chest icon (by Lorc)
+    http://game-icons.net/lorc/originals/locked-chest.html
+-   Card pickup icon (by Quoting)
+    http://game-icons.net/quoting/originals/card-pickup.html
+-   Mounted knight icon (by Skoll)
+    http://game-icons.net/skoll/originals/mounted-knight.html
+-   Coins icon (by Delapouite)
+    http://game-icons.net/delapouite/originals/coins.html
+-   Poker Hand icon (by Lorc)
+    http://game-icons.net/lorc/originals/poker-hand.html
+-   Ace icon (by Lorc) http://game-icons.net/lorc/originals/ace.html
 
 Dragon-Dune Text Board
 ======================
