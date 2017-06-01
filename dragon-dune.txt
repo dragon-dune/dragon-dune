@@ -3,9 +3,8 @@ Dragon Dune
 
 A game for 4 players, inspired by Avalon-Hill's Dune board game.
 
-Formally Dragons, Usurpers, and Empires (DU&E),
-
-but the Internet hates ampersands in your project name.
+Formally Dragons, Usurpers, and Empires (DU&E), but the Internet hates
+ampersands in your project name.
 
 So, let’s justify this things existence. Dune is a great game, but it
 has it’s drawbacks. The rules are kind of ambiguous. It can take a while
@@ -32,8 +31,8 @@ What You Need to Play:
 ----------------------
 
 1.  The Board
-2.  Faction Tokens (20 per faction)
-3.  Gold Tokens (approximately 100)
+2.  Faction Unit Markers (20 per faction)
+3.  Gold Markers (approximately 100)
 4.  Deck of Standard Playing Cards
 5.  One Six-Sided Die
 
@@ -47,14 +46,14 @@ Special Rules:
 
 1.  Territory 0• is the Imperial palace and is neutral territory.
     Players will never battle in territory 0•.
-2.  A player controls a city if they alone have tokens there.
+2.  A player controls a city if they alone have unit there.
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
     round (instead of 2).
-4.  Players may never have more than 20 player tokens between on the
-    board and the player's graveyard at any one time.
-5.  No more than two players may have tokens in a castle at one time.
-    This does not count hidden tokens.
+4.  Players may never have more than 20 units between on the board and
+    the player's graveyard at any one time.
+5.  No more than two players may have units in a castle at one time.
+    This does not count hidden units.
 
 Factions:
 =========
@@ -188,12 +187,17 @@ Cards:
 Special Card Actions:
 ---------------------
 
-Players may use Special Cards to:
+Aces are considered Special Cards.
+
+Players may discard a Special Cards to:
 
 1.  Not pay for an artifact card.
 2.  Pay half of regular price for mercenaries.
-3.  Make one extra movement in the Movement Round.
-4.  May be played as an artifact in battle with a value of 1.
+3.  May be played as an artifact in battle with a value of 1.
+
+Players may discard two Special Cards to:
+
+1.  Make one additional movement in the Recruitment and Movement Round.
 
 Rounds:
 =======
@@ -234,7 +238,7 @@ Event Round:
     then the Red Dragon has attacked the previous event territory. All
     units and gold in that territory are lost.
 4.  If the Orcs are in the same territory as the Red Dragon, they may
-    move some or all of their tokens at that location to any
+    move some or all of their units at that location to any
     other location.
 5.  In response to the appearance of the Red Dragon, a Great Council is
     called immediately. This is the only time players may form or
@@ -260,11 +264,10 @@ Starting with the Emperor, and the proceeding in player order, all
 players may (in the following order):
 
 1.  If they current player is the Goblins, they may disband some or all
-    of one stack of tokens.
-2.  The current player may remove five tokens from the
-    players graveyard.
-3.  The current player may conscript up to 2 tokens onto any territory
-    where they already have tokens. This action is free.
+    of the units in one territory.
+2.  The current player may remove five units from the players graveyard.
+3.  The current player may conscript up to 2 units from the bank onto
+    any territory where they already have a unit. This action is free.
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
     into any other territory. The payment is made directly to
@@ -275,8 +278,8 @@ players may (in the following order):
     -   The player may play a Special Card to pay half price,
         rounded up.
 
-5.  The current player may move one stack of tokens through
-    two territories.
+5.  The current player may move some or all units from one location
+    through two territories.
 
     -   The Orcs may move through three territories.
     -   If the player has access to griffins (If they control of 3★
@@ -285,22 +288,22 @@ players may (in the following order):
         this round.
 
 6.  If the current player is not the Goblins, they may disband some or
-    all of one stack of tokens.
+    all of the units in one territory.
 7.  Then the whole process repeats for the next player in player order.
 
 Battle Round:
 -------------
 
 Starting with the Emperor, and the proceeding in player order, if a
-player has tokens in the same territory another player, they shall do
-the following (in the following order):
+player has units in the same territory another player, they shall do the
+following (in the following order):
 
 1.  The player whose turn it is is the attacking player.
 2.  If the Elves are taking part in the battle, they may ask what one of
     the artifacts is that their opponent will play, or ask the size of
     the army they will send into battle. The answers to these questions
     are binding.
-3.  Each player secretly records how many tokens they will send as an
+3.  Each player secretly records how many units they will send as an
     army into battle, and they may select one artifact to use in
     the battle.
 4.  Players reveal the size of their armies and their
@@ -314,9 +317,9 @@ the following (in the following order):
     their usurper, and has a sabotaged artifact of the same suit as the
     artifact their opponent played, then they may declare their
     treachery and automatically win the battle, taking no losses. The
-    loser removes all tokens from the territory (even those not used in
+    loser removes all units from the territory (even those not used in
     the battle), and discards any artifacts used in the battle.
-8.  The winner removes any tokens used in the battle from the territory,
+8.  The winner removes any units used in the battle from the territory,
     and can choose to discard artifacts used in the battle.
 9.  This process continues until all battles for a player are resolved.
 10. Then the whole process repeats for the next player in player order.
@@ -326,25 +329,61 @@ Collection Round:
 
 1.  All players receive two gold.
 2.  Players collect gold from any territories they control. They can
-    collect two gold for every token in the territory, up to the amount
+    collect two gold for every unit in the territory, up to the amount
     of gold in the territory.
-3.  If any lone player controls three castles, or if any alliance
-    controls 4 castles, then they have won the game.
-4.  If six turns have passed without a winner, then the Orcs win.
+3.  The next player in player order becomes the Emperor.
+4.  If players wish, they may discard some or all of their artifacts.
+5.  If any lone player controls three castles, or if any alliance
+    controls four castles, then they have won the game.
+6.  If six turns have passed without a winner, then the Orcs win.
 
 Balancing Options:
 ==================
 
 -   Give players more conscription to weaken the Goblins.
--   Take away special tokens or starting gold to weaken the Dwarves
--   Give players (more) special tokens.
+-   Take away special units or starting gold to weaken the Dwarves
+-   Give players (more) special units.
 -   Give players (more) gold.
 
 Special Thanks:
 ===============
 
--   https://opengameart.org/content/jinns-icons
--   https://opengameart.org/content/wyvern-and-girl
+I would like to thank artists that make their work available to the open
+source community.
+
+-   Jinn’s Icons (by Jinn), https://opengameart.org/content/jinns-icons
+-   Wyvern and Girl (by 5hiroi),
+    https://opengameart.org/content/wyvern-and-girl
+-   Dragon head icon (Lorc under CC BY 3.0)
+    http://game-icons.net/lorc/originals/dragon-head.html
+-   Crossed swords icon
+
+    -   http://game-icons.net/lorc/originals/crossed-swords.html
+    -   by Lorc under CC BY 3.0
+-   Locked chest icon
+
+    -   http://game-icons.net/lorc/originals/locked-chest.html
+    -   by Lorc under CC BY 3.0
+-   Card pickup icon
+
+    -   http://game-icons.net/quoting/originals/card-pickup.html
+    -   by Quoting under CC BY 3.0
+-   Mounted knight icon
+
+    -   http://game-icons.net/skoll/originals/mounted-knight.html
+    -   by Skoll under CC BY 3.0
+-   Coins icon
+
+    -   http://game-icons.net/delapouite/originals/coins.html
+    -   by Delapouite under CC BY 3.0
+-   Poker Hand icon
+
+    -   http://game-icons.net/lorc/originals/poker-hand.html
+    -   by Lorc under CC BY 3.0
+-   Ace icon
+
+    -   http://game-icons.net/lorc/originals/ace.html
+    -   by Lorc under CC BY 3.0
 
 Dragon-Dune Text Board
 ======================
