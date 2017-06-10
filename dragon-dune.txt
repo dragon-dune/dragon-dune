@@ -23,9 +23,11 @@ About This Game
 
 This game is licensed Creative Commons Share-Alike 4.0.
 
-Contact: dragon.dune.game@gmail.com
+Contact: <dragon.dune.game@gmail.com>
 
 Github: dragon-dune
+
+Web: dragondune.inkfox.org
 
 What You Need to Play:
 ----------------------
@@ -347,8 +349,6 @@ Balancing Options:
 Special Thanks:
 ===============
 
-I would like to thank
-
 I would like to thank artists that make their work available to the open
 source community.
 
@@ -374,7 +374,8 @@ source community.
 Dragon-Dune Text Board
 ======================
 
-    Key: c = castle, f = fort, t = travel bonus
+    Key: 
+    c (star) = castle, f (dot) = fort, t (arrow) = travel bonus
     #########################################################
     #      #      #      #      3      #  4f  #   5c  (t)   #
     #  1c  #  1   #  2   #             #      #             #
