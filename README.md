@@ -1,3 +1,5 @@
+![](art/A_Girl_and_her_Wyvern.png)
+
 Dragon Dune
 ===========
 
@@ -25,9 +27,9 @@ This game is licensed Creative Commons Share-Alike 4.0.
 
 Contact: <dragon.dune.game@gmail.com>
 
-Github: dragon-dune
+Github: <https://github.com/dragon-dune/dragon-dune>
 
-Web: dragondune.inkfox.org
+Web: <http://dragondune.inkfox.org>
 
 What You Need to Play:
 ----------------------
@@ -60,6 +62,8 @@ Special Rules:
 Factions:
 =========
 
+![](art/dwarf_portrait.png)
+
 Dwarves (King of Diamonds):
 ---------------------------
 
@@ -82,6 +86,8 @@ Special:
     Artifact (Jack) of the same suit.
 4.  Alliance Power: The Dwarves may use their traitor and sabotaged
     artifact cards on their allies behalf in battle.
+
+![](art/elf_portrait.png)
 
 Elves (King of Hearts):
 -----------------------
@@ -112,6 +118,8 @@ Special:
 6.  Alliance Power: Elves may ask a battle question on their
     allies behalf.
 
+![](art/goblin_portrait.png)
+
 Goblins (King of Clubs):
 ------------------------
 
@@ -138,6 +146,8 @@ Special:
     Goblin mercenaries.
 7.  Alliance Power: You pay half price (rounded up) for
     Goblin mercenaries.
+
+![](art/orc_portrait.png)
 
 Orcs (King of Spades):
 ----------------------
@@ -168,6 +178,8 @@ Special:
     units to any location.
 9.  Alliance Power: You may share your default victory.
 
+![](art/poker-hand.png)
+
 Cards:
 ======
 
@@ -186,6 +198,8 @@ Cards:
 -   Special Card (Aces, All Suits)
 -   Artifacts (2 to 6, All Suits)
 
+![](art/ace.png)
+
 Special Card Actions:
 ---------------------
 
@@ -193,13 +207,18 @@ Aces are considered Special Cards.
 
 Players may discard a Special Cards to:
 
-1.  Not pay for an artifact card.
-2.  Pay half of regular price for mercenaries.
-3.  May be played as an artifact in battle with a value of 1.
+1.  Not pay for an artifact card in the bidding round.
+2.  Pay half of regular price for mercenaries in the Bidding and 
+    Rrecrutement round.
+3.  Move through one additional territory with your moved units in
+    in the Bidding and Recrutement round.
+4.  Ask what artifact is going to be played by your opponent in battle.
+5.  May be played as an artifact in battle with a value of 1.
 
-Players may discard two Special Cards to:
+How To Play:
+============
 
-1.  Make one additional movement in the Recruitment and Movement Round.
+![](art/red_dragon1.png)
 
 Rounds:
 =======
@@ -219,6 +238,8 @@ Setup:
 7.  The Goblins are given a second artifact card face down, which they
     may look at.
 
+![](art/dragon-head.png)
+
 Wild Dragon Round:
 ------------------
 
@@ -227,6 +248,8 @@ Wild Dragon Round:
     numerical order. Any units or gold the wild dragons encounter are
     are not in a castle or fortress are removed form the game.
 2.  Note that Orcs only take half losses, rounded up.
+
+![](art/locked-chest.png)
 
 Event Round:
 ------------
@@ -245,6 +268,8 @@ Event Round:
     called immediately. This is the only time players may form or
     break alliances. The Geat Council continues until
 
+![](art/card-pickup.png)
+
 Bidding Round:
 --------------
 
@@ -257,6 +282,8 @@ maximum number of cards. For each card up for bid, one at a time.
 4.  If the Dwarves win the artifact, their payment is payed to the bank.
 5.  The winner may play a Special Card to avoid paying.
 6.  Then the whole process repeats for the next player in player order.
+
+![](art/mounted-knight.png)
 
 Recruitment and Movement Rounds:
 --------------------------------
@@ -292,6 +319,8 @@ players may (in the following order):
     all of the units in one territory.
 7.  Then the whole process repeats for the next player in player order.
 
+![](art/crossed-swords.png)
+
 Battle Round:
 -------------
 
@@ -325,6 +354,8 @@ following (in the following order):
 9.  This process continues until all battles for a player are resolved.
 10. Then the whole process repeats for the next player in player order.
 
+![](art/coins.png)
+
 Collection Round:
 -----------------
 
@@ -352,7 +383,8 @@ Special Thanks:
 I would like to thank artists that make their work available to the open
 source community.
 
--   Jinn’s Icons (by Jinn) https://opengameart.org/content/jinns-icons
+-   Jinn’s Icons (by Jinn) 
+    https://opengameart.org/content/jinns-icons
 -   Wyvern and Girl (by 5hiroi)
     https://opengameart.org/content/wyvern-and-girl
 -   Dragon head icon (by Lorc)
@@ -369,13 +401,14 @@ source community.
     http://game-icons.net/delapouite/originals/coins.html
 -   Poker Hand icon (by Lorc)
     http://game-icons.net/lorc/originals/poker-hand.html
--   Ace icon (by Lorc) http://game-icons.net/lorc/originals/ace.html
-
-Dragon-Dune Text Board
+-   Ace icon (by Lorc) 
+    http://game-icons.net/lorc/originals/ace.html
+-   Overworld Tiles (by Buch) 
+    https://opengameart.org/content/overworld-tiles-0Dragon-Dune Text Board
 ======================
 
     Key: 
-    c (star) = castle, f (dot) = fort, t (arrow) = travel bonus
+    c (star) = castle, f (dot) = forrest, t (arrow) = travel bonus
     #########################################################
     #      #      #      #      3      #  4f  #   5c  (t)   #
     #  1c  #  1   #  2   #             #      #             #
