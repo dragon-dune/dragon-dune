@@ -13,7 +13,7 @@ has it’s drawbacks. The rules are kind of ambiguous. It can take a while
 to play. It can be a little cutthroat for beginners. Actually, it can be
 cutthroat for everyone. Rex attempted to iron out some of these
 idiosyncrasies, but they got rid of things like binding agreements,
-which seem fundamentally important to the game dune.
+which seem as fundamentally important to the game Dune.
 
 This is an attempt to make a resource light game in the style of Dune,
 that is friendlier to beginners, easier logistically (4 players instead
@@ -22,6 +22,8 @@ of 6), with greater rule clarity, and with a strong sense of theme
 
 About This Game
 ---------------
+
+Ver. 1.0
 
 This game is licensed Creative Commons Share-Alike 4.0.
 
@@ -45,22 +47,32 @@ What You Need to Play:
 Board:
 ======
 
-![See “dragon-dune board.png” or “dragon-dune text
-board.txt”.](art/dragon-dune_board_small.png)
+![](art/dragon-dune_board_small.png)
+
+Special Rules:
+--------------
 
 Special Rules:
 --------------
 
 1.  Territory 0• is the Great Mountan and is neutral territory. Players
     will never battle in territory 0•.
-2.  A player controls a city if they alone have at least one unit there.
-3.  Players in control of 3★ or 5★ have access to griffins and receive a
+2.  • territories represent forrests. Units in a forrest territory are
+    safe from dragon attack.
+3.  ★ territories represtent castles. Players or alliances need to
+    control 3 castles in order to win the game.
+4.  A player controls a castle if they alone have at least one
+    unit there.
+5.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
     round (instead of 2).
-4.  Players may never have more than 10 units between on the board and
+6.  Players may never have more than 10 units between on the board and
     the player's graveyard at any one time.
-5.  No more than two players may have units in a castle at one time.
+7.  No more than two players may have units in a castle at one time.
     This does not count hidden units.
+8.  Public agreements made in the game are binding and must be carried
+    out, if possible. Public agreements can only be broken if all
+    parties involved agree to.
 
 ------------------------------------------------------------------------
 
@@ -114,9 +126,10 @@ Special:
 4.  Elven units may go into hiding in a territory in order to
     escape conflict. Hidden units act in every way as though they did
     not exist. Hidden units may only come out of hiding if they move
-    into a new territory or at the beginning of a turn.
-5.  Special Card (Ace): You may place up to five units on any one
-    territory for free.
+    into a empty territory or they may declare that they are coming out
+    of hiding at the end of the at the beginning of a turn.
+5.  Special Card (Ace): You may discard a special card to place up to 2
+    units on any one territory for free.
 6.  Alliance Power: Elves may ask a battle question on their
     allies behalf.
 
@@ -144,8 +157,8 @@ Special:
 4.  The Goblins may have up to 8 artifact cards (instead of 4).
 5.  The Goblins may disband units at the beginning of the movement round
     (instead of at the end).
-6.  Special Card (Ace): You may stop a player from hiring
-    Goblin mercenaries.
+6.  Special Card (Ace): You may discard a special card to stop a player
+    from hiring Goblin mercenaries that turn.
 7.  Alliance Power: You pay half price (rounded up) for
     Goblin mercenaries.
 
@@ -231,7 +244,7 @@ Setup:
 ------
 
 1.  The board is set up. Players place their starting units.
-2.  One player is picked at random to be the Emperor.
+2.  One player is picked at random to be the Stating Player.
 3.  Each player is given the King of their faction from the deck. They
     place this card face up in front of them. This is their graveyard.
 4.  Each player is dealt one of the Queens face down. Players may look
@@ -265,9 +278,9 @@ Event Round:
 2.  Gold is placed on that location, unless the dragon marker is at
     that location. If the dragon marker is at that location, then no
     gold is placed this turn.
-3.  If the event card is the same color as the games current Emperor,
-    then the Red Dragon has attacked the previous event territory. All
-    units and gold in that territory are lost.
+3.  If the event card is the same color as the games current Starting
+    Player, then the Red Dragon has attacked the previous
+    event territory. All units and gold in that territory are lost.
 4.  If the Orcs are in the same territory as the Red Dragon, they may
     move some or all of their units at that location to any
     other location.
@@ -280,23 +293,32 @@ Event Round:
 Bidding Round:
 --------------
 
+The Starting Player is the first Starting Bidder.
+
 One card is placed up for bid for each player that does not have their
 maximum number of cards. For each card up for bid, one at a time.
 
 1.  The Elves, and only the Elves are shown the card.
-2.  Players, starting with the Emperor, bid on card.
+2.  Players, starting with the Starting Bidder, bid on card.
 3.  The winner receives the card and pays the Dwarves.
-4.  If the Dwarves win the artifact, their payment is payed to the bank.
-5.  The winner may play a Special Card to avoid paying.
-6.  Then the whole process repeats for the next player in player order.
+
+    -   If the Dwarves win the artifact, their payment is payed to
+        the bank.
+    -   The winner may play a Special Card to avoid paying.
+
+4.  The whole process repeats for the next player in player order. For
+    each card, the next player after the current Starting Biddder (in
+    player order) becomes the next Starting Bidder.
 
 ![](art/mounted-knight.png)
 
 Recruitment and Movement Rounds:
 --------------------------------
 
-Starting with the Emperor, and the proceeding in player order, all
-players may (in the following order):
+The Elves must declare if any of their units are coming out of hiding.
+
+Then, starting with the Starting Player, and the proceeding in player
+order, all players may (in the following order):
 
 1.  If they current player is the Goblins, they may disband some or all
     of the units in one territory.
@@ -331,9 +353,9 @@ players may (in the following order):
 Battle Round:
 -------------
 
-Starting with the Emperor, and the proceeding in player order, if a
-player has units in the same territory another player, they shall do the
-following (in the following order):
+Starting with the Starting Player, and the proceeding in player order,
+if a player has units in the same territory another player, they shall
+do the following (in the following order):
 
 1.  The player whose turn it is is the attacking player.
 2.  If the Elves are taking part in the battle, they may ask what one of
@@ -369,7 +391,7 @@ following (in the following order):
 Collection Round:
 -----------------
 
-1.  All players receive two gold.
+1.  All players receive 1 gold.
 2.  Players collect gold from any territories they control. They can
     collect two gold for every unit in the territory, up to the amount
     of gold in the territory.
@@ -381,10 +403,12 @@ Victory Round:
 --------------
 
 1.  The next player in player order becomes the Emperor.
-2.  If any lone player controls three castles, or if any alliance
+2.  The next player (in player order) after the current Starting Player
+    becomes the Starting Player for the next turn.
+3.  If any unallied player controls three castles, or if any alliance
     controls four castles, then they have won the game.
-3.  If six turns have passed without a winner, then the Orcs win.
-4.  If then game has not ended, then it goes back to the Dragon Round.
+4.  If 8 turns have passed without a winner, then the Orcs win.
+5.  If then game has not ended, then it goes back to the Dragon Round.
 
 ------------------------------------------------------------------------
 
@@ -402,9 +426,9 @@ balance the game.
     two special units, which act as normal units in every way except
     that each unit counts as two units for the purpose of combat.
 -   Elven Blessing: After the Elves have lost 3 units in combat, they
-    may invoke a blessing for one battle once per turn that gives them
-    an bonus battle point and makes it so they can not be sabotaged for
-    that battle.
+    are given the power to invoke a blessing for one battle once per
+    turn that gives them an bonus battle point and makes it so they can
+    not be sabotaged for that battle.
 -   Goblin Initiative: The Goblins may take their turn in the
     Recruitment and Movement round at any time, regardless of
     player order.
@@ -414,14 +438,17 @@ Balancing Options:
 
 An easy way to balance the game is to give a player more gold or to give
 them a greater reserve of units (for example, having 12 units available
-instead of 10).
+instead of 10). They
+
+Another way balencing the game is to only require 3 castles to win the
+game for alliances.
 
 ------------------------------------------------------------------------
 
 Special Thanks:
 ===============
 
-I would
+I would like to thank the creators of Dune and Rex.
 
 I would like to thank artists that make their work available to the open
 source community.
