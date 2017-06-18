@@ -60,7 +60,8 @@ Special Rules:
 2.  • territories represent forests. Units in a forest territory are 
     safe from dragon attack.
 3.  ★ territories represent castles. Players or alliances need to 
-    control 3 castles in order to win the game.
+    control 3 castles in order to win the game. Units in a castle are 
+    safe from dragon attack.
 2.  A player controls a castle if they alone have at least one unit there.
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
@@ -260,12 +261,12 @@ Setup:
 
 ![](art/dragon-head.png)
 
-Dragon Round:
--------------
+I. Dragon Round:
+----------------
 
 1.  A six-sided dice is rolled, and the dragon marker is moved from
     its starting position that amount through the board, in
-    numerical order. Any units or gold the wild dragons encounter are
+    numerical order. Any units or gold the dragons encounter are
     are not in a castle or fortress are removed form the game. When the 
     dragon marker reaches territory 18, it will next move to the 
     1★ and 1.
@@ -274,8 +275,8 @@ Dragon Round:
 
 ![](art/locked-chest.png)
 
-Event Round:
-------------
+II. Event Round:
+----------------
 
 1.  An event card is flipped over.
 2.  Gold is placed on that location, unless the dragon marker is at
@@ -293,8 +294,8 @@ Event Round:
 
 ![](art/card-pickup.png)
 
-Bidding Round:
---------------
+III. Bidding Round:
+-------------------
 
 The Starting Player is the first Starting Bidder.
 
@@ -314,8 +315,8 @@ maximum number of cards. For each card up for bid, one at a time.
 
 ![](art/mounted-knight.png)
 
-Recruitment and Movement Rounds:
---------------------------------
+IV. Recruitment and Movement Rounds:
+------------------------------------
 
 The Elves must declare if any of their units are coming out of hiding.
 
@@ -356,8 +357,8 @@ order, all players may (in the following order):
 
 ![](art/crossed-swords.png)
 
-Battle Round:
--------------
+V. Battle Round:
+----------------
 
 Starting with the Starting Player, and the proceeding in player order, if 
 a player has units in the same territory another player, they shall do 
@@ -392,8 +393,8 @@ the following (in the following order):
 
 ![](art/coins.png)
 
-Collection Round:
------------------
+VI. Collection Round:
+---------------------
 
 1.  All players receive 1 gold.
 2.  Players collect gold from any territories they control. They can
@@ -403,8 +404,8 @@ Collection Round:
 
 ![](art/throne-king.png)
 
-Victory Round:
---------------
+VII. Victory Round:
+-------------------
 
 1.  The next player in player order becomes the Emperor.
 1.  The next player (in player order) after the current Starting Player
