@@ -266,11 +266,23 @@ I. Dragon Round:
 
 1.  A six-sided dice is rolled, and the dragon marker is moved from its
     starting position that amount through the board, in numerical order.
-    Any units or gold the dragons encounter are are not in a castle or
-    fortress are removed form the game. When the dragon marker reaches
-    territory 18, it will next move to the 1★ and 1.
-2.  The dragon marker never moves to territory 0•
-3.  Note that Orcs only take half losses, rounded up.
+    The dragon goes through all territories with the same numerical
+    value, so the dragon would go to both 1★ and 1 when the dragon was
+    at 1.
+
+    -   Note that the dragon marker never moves to territory 0•
+
+2.  Any units or gold the dragon marker encounters as it moves through
+    the board that are not in a castle or forest are removed form
+    the game.
+
+    -   Note that Orcs only take half losses, rounded up.
+
+3.  When the dragon marker reaches territory 18, it will next move to
+    the 1★ and 1.
+4.  In the Recruitment and Movement round, players may never recruit
+    units at or move units through or to a territory with the
+    dragon marker.
 
 ![](art/locked-chest.png)
 
@@ -282,14 +294,19 @@ II. Event Round:
     that location. If the dragon marker is at that location, then no
     gold is placed this turn.
 3.  If the event card is the same color as the games current Starting
-    Player, then the Red Dragon has attacked the previous
-    event territory. All units and gold in that territory are lost.
-4.  If the Orcs are in the same territory as the Red Dragon, they may
-    move some or all of their units at that location to any
-    other location.
-5.  In response to the appearance of the Red Dragon, a Great Council is
-    called immediately. This is the only time players may form or
-    break alliances. The Great Council continues until
+    Player, then the Red Dragon has attacks the territory at the top of
+    the event discard pile (the territory where the previous event
+    took place). All units and gold in that territory are lost.
+
+    -   If the Orcs are in the same territory as the Red Dragon, they
+        may move some or all of their units at that location to any
+        other location.
+    -   In response to the appearance of the Red Dragon, a Great Council
+        is called immediately. This is the only time players may form or
+        break alliances. The Great Council continues until all players
+        have passed or formed an alliance.
+    -   The dragon marker does NOT go to the Red Dragons location. The
+        dragon marker is only moved on the dragon round.
 
 ![](art/card-pickup.png)
 
@@ -337,6 +354,8 @@ order, all players may (in the following order):
     into any other territory. The payment is made directly to
     the Goblins.
 
+    -   Goblin mercenaries may not be hired in any territory where the
+        dragon marker is present.
     -   Payments made by the Goblins are half price, rounded up.
     -   Payments made by the Goblins are paid to the bank
     -   The player may play a Special Card to pay half price,
@@ -345,6 +364,8 @@ order, all players may (in the following order):
 5.  The current player may move some or all units from one location
     through two territories.
 
+    -   Units may not move through or to any location where the dragon
+        marker is present.
     -   The Orcs may move through three territories.
     -   If the player has access to griffins (if they control of 3★
         or 5★) then they may move through four territories.
