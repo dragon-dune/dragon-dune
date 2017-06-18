@@ -52,9 +52,6 @@ Board:
 Special Rules:
 --------------
 
-Special Rules:
---------------
-
 1.  Territory 0• is the Great Mountain and is neutral territory. Players
     will never battle in territory 0•.
 2.  • territories represent forests. Units in a forest territory are
