@@ -206,9 +206,9 @@ Players may discard a Special Cards to:
 
 1.  Not pay for an artifact card in the bidding round.
 2.  Pay half of regular price for mercenaries in the Bidding and 
-    Rrecrutement round.
+    Recruitment round.
 3.  Move through one additional territory with your moved units in
-    in the Bidding and Recrutement round.
+    in the Bidding and Recruitment round.
 4.  Ask what artifact is going to be played by your opponent in battle.
 5.  May be played as an artifact in battle with a value of 1.
 
@@ -342,7 +342,7 @@ following (in the following order):
 6.  The player with the highest battle value wins the battle. In the case
     of a tie, the attacker wins.
 7.  The winner removes all units used in an army in the battle.
-8.  The loser removes all tokens from the territory, regarless of wheather
+8.  The loser removes all tokens from the territory, regardless of whether
     or not they took part in the battle. The loser also discards all
     artifact cards used.
 9.  If a player who took part in the battle has a their opponent as
@@ -419,7 +419,8 @@ source community.
 -   Overworld Tiles (by Buch) 
     https://opengameart.org/content/overworld-tiles-0
 -   Throne king icon (by Delapouite under CC BY 3.0)
-    http://game-icons.net/delapouite/originals/throne-king.htmlDragon-Dune Text Board
+    http://game-icons.net/delapouite/originals/throne-king.html
+Dragon-Dune Text Board
 ======================
 
     Key: 
