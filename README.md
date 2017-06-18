@@ -181,14 +181,16 @@ Special:
     (instead of 2).
 3.  The Orcs take only half losses (rounded up) against Dragons.
 4.  The Orcs take no losses from the Red Dragon, which they worship.
-4.  The Orcs may conscript 2 units (instead of 1).
-5.  The Orcs may ride the Red Dragon when it appears, if they are in the
+5.  The Orcs may conscript 2 units (instead of 1).
+6.  The Orcs may ride the Red Dragon when it appears, if they are in the
     same location.
-6.  If no player has won at the end of the game, then Orcs are the
+7.  The Orcs may remove 3 units from the graveyard on their Recruitment
+    and Movement round (instead of 2 units).
+8.  If no player has won at the end of the game, then Orcs are the
     default winner.
-7.  Special Card (Ace): In the Dragon round, you may move one stack of
+9.  Special Card (Ace): In the Dragon round, you may move one stack of
     units to any location.
-8.  Alliance Power: You may share your default victory with your ally.
+10. Alliance Power: You may share your default victory with your ally.
 
 * * *
 
@@ -323,7 +325,10 @@ order, all players may (in the following order):
 1.  If they current player is the Goblins, they may disband some or all
     of the units in one territory. Disbanded units are removed from the
     board, but do not go to the graveyard.
-2.  The current player may remove five units from the players graveyard.
+2.  The current player may remove 2 units from the players graveyard.
+
+    - On the Orcs turn, they may remove 3 units from the graveyard.
+
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
