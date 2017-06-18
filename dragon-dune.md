@@ -40,6 +40,8 @@ What You Need to Play:
 4.  Deck of Standard Playing Cards
 5.  One Six-Sided Die
 
+* * *
+
 Board:
 ======
 
@@ -48,8 +50,8 @@ Board:
 Special Rules:
 --------------
 
-1.  Territory 0• is the Imperial Palace and is neutral territory.
-    Players will never battle in territory 0•.
+1.  Territory 0• is the Great Mountan and is neutral territory. Players 
+    will never battle in territory 0•.
 2.  A player controls a city if they alone have at least one unit there.
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
@@ -58,6 +60,8 @@ Special Rules:
     the player's graveyard at any one time.
 5.  No more than two players may have units in a castle at one time.
     This does not count hidden units.
+
+* * *
 
 Factions:
 =========
@@ -79,12 +83,9 @@ Special:
 1.  The Dwarves collect all gold spent by other players on on
     artifact cards. Gold spent by the Dwarves on artifact cards goes to
     the bank.
-2.  The Dwarves are fierce warriors. They have two special units, which
-    act as normal units in every way except that each unit counts as two
-    units for the purpose of combat.
-3.  Special Card (Ace): You may use an ace as a Sabotaged
+2.  Special Card (Ace): You may use an ace as a Sabotaged
     Artifact (Jack) of the same suit.
-4.  Alliance Power: The Dwarves may use their traitor and sabotaged
+3.  Alliance Power: The Dwarves may use their traitor and sabotaged
     artifact cards on their allies behalf in battle.
 
 ![](art/elf_portrait.png)
@@ -165,7 +166,8 @@ Special:
     Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2s) at no cost.
 2.  The Orcs may move units three territories in the movement round
     (instead of 2).
-3.  The Orcs take only half losses (rounded up) against Wild Dragons.
+3.  The Orcs take only half losses (rounded up) against Dragons.
+4.  The Orcs take no losses from the Red Dragon, which they worship.
 4.  The Orcs may conscript 2 units (instead of 1).
 5.  The Orcs may ride the Red Dragon when it appears, if they are in the
     same location.
@@ -173,7 +175,9 @@ Special:
     default winner.
 7.  Special Card (Ace): In the Dragon round, you may move one stack of
     units to any location.
-8.  Alliance Power: You may share your default victory.
+8.  Alliance Power: You may share your default victory with your ally.
+
+* * *
 
 ![](art/poker-hand.png)
 
@@ -212,6 +216,8 @@ Players may discard a Special Cards to:
 4.  Ask what artifact is going to be played by your opponent in battle.
 5.  May be played as an artifact in battle with a value of 1.
 
+* * *
+
 How To Play:
 ============
 
@@ -239,14 +245,17 @@ Setup:
 
 ![](art/dragon-head.png)
 
-Wild Dragon Round:
-------------------
+Dragon Round:
+-------------
 
-1.  A six-sided dice is rolled, and the Wild Dragon marker is moved from
+1.  A six-sided dice is rolled, and the dragon marker is moved from
     its starting position that amount through the board, in
     numerical order. Any units or gold the wild dragons encounter are
-    are not in a castle or fortress are removed form the game.
-2.  Note that Orcs only take half losses, rounded up.
+    are not in a castle or fortress are removed form the game. When the 
+    dragon marker reaches territory 18, it will next move to the 
+    1★ and 1.
+2.  The dragon marker never moves to territory 0•
+3.  Note that Orcs only take half losses, rounded up.
 
 ![](art/locked-chest.png)
 
@@ -254,8 +263,8 @@ Event Round:
 ------------
 
 1.  An event card is flipped over.
-2.  Gold is placed on that location, unless the Wild Dragon marker is at
-    that location. If the Wild Dragon marker is at that location, then
+2.  Gold is placed on that location, unless the dragon marker is at
+    that location. If the dragon marker is at that location, then
     no gold is placed this turn.
 3.  If the event card is the same color as the games current Emperor,
     then the Red Dragon has attacked the previous event territory. All
@@ -302,14 +311,13 @@ players may (in the following order):
 
     -   Payments made by the Goblins are half price, rounded up.
     -   Payments made by the Goblins are paid to the bank
-    -   The player may play a Special Card to pay half price,
-        rounded up.
+    -   The player may play a Special Card to pay half price, rounded up.
 
 5.  The current player may move some or all units from one location
     through two territories.
 
     -   The Orcs may move through three territories.
-    -   If the player has access to griffins (If they control of 3★
+    -   If the player has access to griffins (If they control of 3★ 
         or 5★) then they may move through four territories.
     -   The player may play a Special Card to make a second movement
         this round.
@@ -374,24 +382,44 @@ Victory Round:
 2.  If any lone player controls three castles, or if any alliance
     controls four castles, then they have won the game.
 3.  If six turns have passed without a winner, then the Orcs win.
-4.  If then game has not ended, then it goes back to the Wild 
-    Dragon round.
+4.  If then game has not ended, then it goes back to the Dragon Round.
+
+* * *
+
+Advanced Faction Powers:
+========================
+
+What could be more Dune-like than having optional rules that no one can 
+agree on. Here are additional faction powers that may add depth or help
+balance the game.
+
+-   Orcish Plunder: The Orcs may steal artifacts. When they win a battle, 
+    they may take one of your opponents artifacts (randomly chosen), 
+    which they may then keep or discard for a reward of 1 gold.
+-   Dwarven Elite Warriors: The Dwarves are fierce warriors. They have two 
+    special units, which act as normal units in every way except that 
+    each unit counts as two
+    units for the purpose of combat.
+-   Elven Blessing: After the Elves have lost 3 units in combat, they may
+    invoke a blessing for one battle once per turn that gives them an bonus 
+    battle point and makes it so they can not be sabotaged for that battle.
+-   Goblin Initiative: The Goblins may take their turn in the Recruitment 
+    and Movement round at any time, regardless of player order.
 
 
 Balancing Options:
 ==================
 
--   Give players more conscription to weaken the Goblins.
--   Take away special units or starting gold to weaken the Dwarves
--   Give players (more) special units.
--   Give players (more) gold.
--   Let a player steal artifacts. When they win a battle, they may 
-    take one of your opponents artifacts (randomly chosen), which they
-    may then keep or sell for its value in gold.
+An easy way to balance the game is to give a player more gold or to give
+them a greater reserve of units (for example, having 12 units available 
+instead of 10).
 
+* * *
 
 Special Thanks:
 ===============
+
+I would 
 
 I would like to thank artists that make their work available to the open
 source community.
