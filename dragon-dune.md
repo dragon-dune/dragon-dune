@@ -55,11 +55,11 @@ Special Rules:
 Special Rules:
 --------------
 
-1.  Territory 0• is the Great Mountan and is neutral territory. Players 
+1.  Territory 0• is the Great Mountain and is neutral territory. Players 
     will never battle in territory 0•.
-2.  • territories represent forrests. Units in a forrest territory are 
+2.  • territories represent forests. Units in a forest territory are 
     safe from dragon attack.
-3.  ★ territories represtent castles. Players or alliances need to 
+3.  ★ territories represent castles. Players or alliances need to 
     control 3 castles in order to win the game.
 2.  A player controls a castle if they alone have at least one unit there.
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
@@ -287,7 +287,7 @@ Event Round:
     other location.
 5.  In response to the appearance of the Red Dragon, a Great Council is
     called immediately. This is the only time players may form or
-    break alliances. The Geat Council continues until
+    break alliances. The Great Council continues until
 
 ![](art/card-pickup.png)
 
@@ -307,7 +307,7 @@ maximum number of cards. For each card up for bid, one at a time.
     - The winner may play a Special Card to avoid paying.
 
 4.  The whole process repeats for the next player in player order.
-    For each card, the next player after the current Starting Biddder 
+    For each card, the next player after the current Starting Bidder 
     (in player order) becomes the next Starting Bidder.
 
 ![](art/mounted-knight.png)
@@ -402,7 +402,7 @@ Victory Round:
 1.  The next player in player order becomes the Emperor.
 1.  The next player (in player order) after the current Starting Player
     becomes the Starting Player for the next turn.
-2.  If any unallied player controls three castles, or if any alliance
+2.  If any unallied  player controls three castles, or if any alliance
     controls four castles, then they have won the game.
 3.  If 8 turns have passed without a winner, then the Orcs win.
 4.  If then game has not ended, then it goes back to the Dragon Round.
@@ -437,7 +437,7 @@ An easy way to balance the game is to give a player more gold or to give
 them a greater reserve of units (for example, having 12 units available 
 instead of 10). They 
 
-Another way balencing the game is to only require 3 castles to win the 
+Another way balancing the game is to only require 3 castles to win the 
 game for alliances.
 
 * * *
