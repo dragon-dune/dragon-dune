@@ -23,7 +23,7 @@ of 6), with greater rule clarity, and with a strong sense of theme
 About This Game
 ---------------
 
-The game is version 1.0.
+The game is version 1.1.
 
 This game is licensed Creative Commons Share-Alike 4.0.
 
