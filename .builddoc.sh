@@ -7,16 +7,18 @@ echo "Uses pandoc and libreoffice"
 cp ./dragon-dune.md README.md
 cat "dragon-dune board (text).txt" >> README.md
 
-# makes and copy html
+# make and copy html
 cp ./art/* ./docs/art
 cp ./dragon-dune.md ./docs/README.md
 pandoc -s dragon-dune.md -o dragon-dune.html
 cp ./dragon-dune.html ./docs/dragon-dune.html
 
-# make odt and pdf
-pandoc dragon-dune.md -o dragon-dune.odt
-libreoffice --headless --convert-to pdf dragon-dune.odt
+# make odt
+pandoc dragon-dune.md -o dragon-dune_unformatted.odt
+# Used to make the PDF from the command line with:
+# libreoffice --headless --convert-to pdf dragon-dune_unformatted.odt
+# but now I do it form LibreOffice so I can set the page brakes.
 
 # make text
-cp ./dragon-dune.md dragon-dune.txt
+pandoc dragon-dune.md -o dragon-dune.txt
 cat "dragon-dune board (text).txt" >> dragon-dune.txt

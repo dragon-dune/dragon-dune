@@ -35,15 +35,15 @@ What You Need to Play:
 ----------------------
 
 1.  The Board
-2.  Faction Unit Markers (20 per faction)
-3.  Gold Markers (approximately 100)
+2.  Faction Unit Markers (10 per faction)
+3.  Gold Markers (approximately 50)
 4.  Deck of Standard Playing Cards
 5.  One Six-Sided Die
 
 Board:
 ======
 
-See “dragon-dune board.png” or “dragon-dune text board.txt”.
+![See “dragon-dune board.png” or “dragon-dune text board.txt”.](art/dragon-dune_board_small.png)
 
 Special Rules:
 --------------
@@ -54,7 +54,7 @@ Special Rules:
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
     round (instead of 2).
-4.  Players may never have more than 20 units between on the board and
+4.  Players may never have more than 10 units between on the board and
     the player's graveyard at any one time.
 5.  No more than two players may have units in a castle at one time.
     This does not count hidden units.
@@ -70,7 +70,7 @@ Dwarves (King of Diamonds):
 The Dwarves empire has fallen. The are forced to sell artifacts from
 their treasuries with the hope of one day reclaiming their birthright.
 
-Start With: 10 Gold, 1 Artifact.
+Start With: 5 Gold, 1 Artifact.
 
 Starting Units: None.
 
@@ -95,9 +95,9 @@ Elves (King of Hearts):
 The ancient Elves have vast arcane knowledge, but they will need to be
 clever to turn knowledge into gain.
 
-Start With: 10 Gold, 1 Artifact.
+Start With: 5 Gold, 1 Artifact.
 
-Starting units: 10 units in 5★.
+Starting units: 5 units in 5★.
 
 Special:
 
@@ -127,7 +127,7 @@ The Goblins are ruthless mercenaries who fight for coin, even against
 their own king. Their thirst for treasure finds them with a trove of
 artifacts.
 
-Start With: 5 Gold, 2 artifacts.
+Start With: 3 Gold, 2 artifacts.
 
 Starting units: 5 units in 10★.
 
@@ -155,28 +155,25 @@ Orcs (King of Spades):
 The Orcs control the wild territories of the west. They worship the
 mighty Red Dragon.
 
-Start With: 5 Gold, 1 artifact.
+Start With: 3 Gold, 1 artifact.
 
-Starting units: 10 units split between 1★, 9• & 16•.
+Starting units: 5 units split between 1★, 9• & 16•.
 
 Special:
 
 1.  Orcs may not hire mercenaries. Instead, they my raise armies in
     Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2s) at no cost.
-2.  When you win a battle, you may steal one of your opponents artifacts
-    (randomly chosen), which you may then keep or sell for its value
-    in gold.
-3.  The Orcs may move units three territories in the movement round
+2.  The Orcs may move units three territories in the movement round
     (instead of 2).
-4.  The Orcs take only half losses (rounded up) against Wild Dragons.
-5.  The Orcs may conscript 4 units (instead of 2).
-6.  The Orcs may ride the Red Dragon when it appears, if they are in the
+3.  The Orcs take only half losses (rounded up) against Wild Dragons.
+4.  The Orcs may conscript 2 units (instead of 1).
+5.  The Orcs may ride the Red Dragon when it appears, if they are in the
     same location.
-7.  If no player has won at the end of the game, then Orcs are the
+6.  If no player has won at the end of the game, then Orcs are the
     default winner.
-8.  Special Card (Ace): In the Dragon round, you may move one stack of
+7.  Special Card (Ace): In the Dragon round, you may move one stack of
     units to any location.
-9.  Alliance Power: You may share your default victory.
+8.  Alliance Power: You may share your default victory.
 
 ![](art/poker-hand.png)
 
@@ -229,6 +226,8 @@ Setup:
 1.  The board is set up. Players place their starting units.
 2.  One player is picked at random to be the Emperor.
 3.  Each player is given the King of their faction from the deck.
+    They place this card face up in front of them. This is their
+    graveyard.
 4.  Each player is dealt one of the Queens face down. Players may look
     at them.
 5.  Each player is dealt one of the Jacks face down. Players may look
@@ -294,7 +293,7 @@ players may (in the following order):
 1.  If they current player is the Goblins, they may disband some or all
     of the units in one territory.
 2.  The current player may remove five units from the players graveyard.
-3.  The current player may conscript up to 2 units from the bank onto
+3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
@@ -335,22 +334,23 @@ following (in the following order):
     are binding.
 3.  Each player secretly records how many units they will send as an
     army into battle, and they may select one artifact to use in
-    the battle.
-4.  Players reveal the size of their armies and their
-    artifacts selected.
+    the battle. For each unit sent into battle the army receives two
+    points of battle value.
+4.  Players reveal the size of their armies and their artifacts selected.
 5.  For each color (red and black), whomever played the lower numbered
-    artifact of that color, gets that amount added to their
-    armies value.
-6.  The player with the highest army value wins the battle. In the case
+    artifact of that color, gets that amount added to their battle value.
+6.  The player with the highest battle value wins the battle. In the case
     of a tie, the attacker wins.
-7.  If a player who took part in the battle has a their opponent as
+7.  The winner removes all units used in an army in the battle.
+8.  The loser removes all tokens from the territory, regarless of wheather
+    or not they took part in the battle. The loser also discards all
+    artifact cards used.
+9.  If a player who took part in the battle has a their opponent as
     their usurper, and has a sabotaged artifact of the same suit as the
     artifact their opponent played, then they may declare their
     treachery and automatically win the battle, taking no losses. The
     loser removes all units from the territory (even those not used in
     the battle), and discards any artifacts used in the battle.
-8.  The winner removes any units used in the battle from the territory,
-    and can choose to discard artifacts used in the battle.
 9.  This process continues until all battles for a player are resolved.
 10. Then the whole process repeats for the next player in player order.
 
@@ -363,11 +363,20 @@ Collection Round:
 2.  Players collect gold from any territories they control. They can
     collect two gold for every unit in the territory, up to the amount
     of gold in the territory.
-3.  The next player in player order becomes the Emperor.
 4.  If players wish, they may discard some or all of their artifacts.
-5.  If any lone player controls three castles, or if any alliance
+
+![](art/throne-king.png)
+
+Victory Round:
+--------------
+
+1.  The next player in player order becomes the Emperor.
+2.  If any lone player controls three castles, or if any alliance
     controls four castles, then they have won the game.
-6.  If six turns have passed without a winner, then the Orcs win.
+3.  If six turns have passed without a winner, then the Orcs win.
+4.  If then game has not ended, then it goes back to the Wild 
+    Dragon round.
+
 
 Balancing Options:
 ==================
@@ -376,6 +385,10 @@ Balancing Options:
 -   Take away special units or starting gold to weaken the Dwarves
 -   Give players (more) special units.
 -   Give players (more) gold.
+-   Let a player steal artifacts. When they win a battle, they may 
+    take one of your opponents artifacts (randomly chosen), which they
+    may then keep or sell for its value in gold.
+
 
 Special Thanks:
 ===============
@@ -405,3 +418,5 @@ source community.
     http://game-icons.net/lorc/originals/ace.html
 -   Overworld Tiles (by Buch) 
     https://opengameart.org/content/overworld-tiles-0
+-   Throne king icon (by Delapouite under CC BY 3.0)
+    http://game-icons.net/delapouite/originals/throne-king.html
