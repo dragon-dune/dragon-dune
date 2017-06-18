@@ -23,7 +23,7 @@ of 6), with greater rule clarity, and with a strong sense of theme
 About This Game
 ---------------
 
-Ver. 1.0
+The game is version 1.0.
 
 This game is licensed Creative Commons Share-Alike 4.0.
 
@@ -321,7 +321,8 @@ Then, starting with the Starting Player, and the proceeding in player
 order, all players may (in the following order):
 
 1.  If they current player is the Goblins, they may disband some or all
-    of the units in one territory.
+    of the units in one territory. Disbanded units are removed from the
+    board, but do not go to the graveyard.
 2.  The current player may remove five units from the players graveyard.
 3.  The current player may conscript 1 units from the bank onto any
     territory where they already have a unit. This action is free.
@@ -339,13 +340,14 @@ order, all players may (in the following order):
     through two territories.
 
     -   The Orcs may move through three territories.
-    -   If the player has access to griffins (If they control of 3★
+    -   If the player has access to griffins (if they control of 3★
         or 5★) then they may move through four territories.
     -   The player may play a Special Card to make a second movement
         this round.
 
 6.  If the current player is not the Goblins, they may disband some or
-    all of the units in one territory.
+    all of the units in one territory. Disbanded units are removed from
+    the board, but do not go to the graveyard.
 7.  Then the whole process repeats for the next player in player order.
 
 ![](art/crossed-swords.png)
