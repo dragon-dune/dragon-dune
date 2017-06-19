@@ -3,17 +3,19 @@
 Dragon Dune
 ===========
 
-A game for 4 players, inspired by Avalon-Hill's Dune board game.
+A game for 4 players inspired by Avalon-Hill's Dune board game.
 
 Formally Dragons, Usurpers, and Empires (DU&E), but the Internet hates
 ampersands in your project name.
 
 So, let’s justify this things existence. Dune is a great game, but it
 has it’s drawbacks. The rules are kind of ambiguous. It can take a while
-to play. It can be a little cutthroat for beginners. Actually, it can be
-cutthroat for everyone. Rex attempted to iron out some of these
-idiosyncrasies, but they got rid of things like binding agreements,
-which seem as fundamentally important to the game Dune.
+to play. It can be tough to get 6 players together. It can be a little
+cutthroat for beginners. Actually, it can be cutthroat for everyone.
+
+Rex attempted to iron out some of these idiosyncrasies, but they got rid
+of things like binding agreements, which seem as fundamentally important
+to the game Dune. Dune is a political game.
 
 This is an attempt to make a resource light game in the style of Dune,
 that is friendlier to beginners, easier logistically (4 players instead
@@ -247,6 +249,8 @@ Setup:
 2.  One player is picked at random to be the Stating Player.
 3.  Each player is given the King of their faction from the deck. They
     place this card face up in front of them. This is their graveyard.
+    This is the only card that has to be shown. All other cards may be
+    kept secret until used.
 4.  Each player is dealt one of the Queens face down. Players may look
     at them.
 5.  Each player is dealt one of the Jacks face down. Players may look
@@ -353,8 +357,15 @@ order, all players may (in the following order):
 
     -   Goblin mercenaries may not be hired in any territory where the
         dragon marker is present.
-    -   Payments made by the Goblins are half price, rounded up.
-    -   Payments made by the Goblins are paid to the bank
+    -   Payments made by the Goblins are half price, rounded up, and are
+    -   paid to the bank.
+    -   The Orcs may not hire mercenaries. Instead, they my raise armies
+        in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2s) at
+        no cost.
+    -   If the Orcs are allied with the Goblins then they may hire
+        goblin mercenaries to any valid location at the usual rate, or
+        may raise armies in the Orcish territories, but they may not
+        do both.
     -   The player may play a Special Card to pay half price,
         rounded up.
 
@@ -468,6 +479,10 @@ instead of 10). They
 
 Another way balancing the game is to only require 3 castles to win the
 game for alliances.
+
+You could dial forward or back faction abilities, unit regeneration,
+unit conscription, anything. Really, it's a game. Play it however makes
+you happy.
 
 ------------------------------------------------------------------------
 
