@@ -14,10 +14,9 @@ pandoc -s dragon-dune.md -o dragon-dune.html
 cp ./dragon-dune.html ./docs/dragon-dune.html
 
 # make odt
-pandoc dragon-dune.md -o dragon-dune_unformatted.odt
-# Used to make the PDF from the command line with:
-# libreoffice --headless --convert-to pdf dragon-dune_unformatted.odt
-# but now I do it form LibreOffice so I can set the page brakes.
+pandoc dragon-dune.md -o dragon-dune_unformatted.docx
+pandoc dragon-dune_unformatted.docx -o dragon-dune_unformatted.odt
+rm dragon-dune_unformatted.docx
 
 # make text
 pandoc dragon-dune.md -o dragon-dune.txt

@@ -39,10 +39,12 @@ What You Need to Play:
 ----------------------
 
 1.  The Board
-2.  Faction Unit Markers (10 per faction)
-3.  Gold Markers (approximately 50)
+2.  Faction Unit Markers (4 factions, 10 per faction)
+3.  Gold Markers (approximately 50 total)
 4.  Deck of Standard Playing Cards
 5.  One Six-Sided Die
+6.  One Dragon Marker (you can just use the die).
+7.  One First Player Marker (you can use the joker).
 
 * * *
 
@@ -71,7 +73,10 @@ Special Rules:
     This does not count hidden units.
 6.  Public agreements made in the game are binding and must be carried
     out, if possible. Public agreements can only be broken if all parties 
-    involved agree to.
+    involved terminate the agreement.
+7.  Players may form alliances, but there can still be only one winning
+    player. Forming an alliance grants your ally an alliance power.
+    (This is a change from Dune, which allows to players to share a victory.)
 
 * * *
 
@@ -97,8 +102,7 @@ Special:
     the bank.
 2.  Special Card (Ace): You may use an ace as a Sabotaged
     Artifact (Jack) of the same suit.
-3.  Alliance Power: The Dwarves may use their traitor and sabotaged
-    artifact cards on their allies behalf in battle.
+3.  Alliance Power: You pay half value (rounded down) for artifacts.
 
 ![](art/elf_portrait.png)
 
@@ -129,8 +133,8 @@ Special:
     of hiding at the end of the at the beginning of a turn.
 5.  Special Card (Ace): You may discard a special card to place up to 
     2 units on any one territory for free.
-6.  Alliance Power: Elves may ask a battle question on their
-    allies behalf.
+6.  Alliance Power: Your ally may ask question before a battle just as
+    the elves do.
 
 ![](art/goblin_portrait.png)
 
@@ -158,8 +162,9 @@ Special:
     (instead of at the end).
 6.  Special Card (Ace): You may discard a special card to stop a player 
     from hiring Goblin mercenaries that turn.
-7.  Alliance Power: You pay half price (rounded up) for Goblin 
-    mercenaries.
+7.  Alliance Power: Your ally may may half price (rounded up) for Goblin 
+    mercenaries (even the Orcs may do this) and you may disband units at 
+    the beginning of the movement round.
 
 ![](art/orc_portrait.png)
 
@@ -176,8 +181,8 @@ Starting units: 5 units split between 1★, 9• & 16•.
 Special:
 
 1.  Orcs may not hire mercenaries. Instead, they my raise armies in
-    Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2s) at no cost.
-2.  The Orcs may move units three territories in the movement round
+    Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2•) at no cost.
+2.  The Orcs may move units 3 territories in the movement round
     (instead of 2).
 3.  The Orcs take only half losses (rounded up) against Dragons.
 4.  The Orcs take no losses from the Red Dragon, which they worship.
@@ -188,9 +193,10 @@ Special:
     and Movement round (instead of 2 units).
 8.  If no player has won at the end of the game, then Orcs are the
     default winner.
-9.  Special Card (Ace): In the Dragon round, you may move one stack of
+9.  Special Card (Ace): In the Dragon Round, you may move one stack of
     units to any location.
-10. Alliance Power: You may share your default victory with your ally.
+10. Alliance Power: Your ally may remove 3 units from the graveyard
+    and may conscript 2 units a turn.
 
 * * *
 
@@ -401,6 +407,8 @@ the following (in the following order):
 4.  Players reveal the size of their armies and their artifacts selected.
 5.  For each color (red and black), whomever played the lower numbered
     artifact of that color, gets that amount added to their battle value.
+    If two artifacts of the same color are played, the higher valued 
+    artifact is discarded, regardless of who wins the battle.
 6.  The player with the highest battle value wins the battle. In the case
     of a tie, the attacker wins.
 7.  The winner removes all units used in an army in the battle.
@@ -435,7 +443,7 @@ VII. Victory Round:
 1.  The next player in player order becomes the Emperor.
 1.  The next player (in player order) after the current Starting Player
     becomes the Starting Player for the next turn.
-2.  If any unallied  player controls three castles, or if any alliance
+2.  If any player controls three castles, or if any alliance
     controls four castles, then they have won the game.
 3.  If 8 turns have passed without a winner, then the Orcs win.
 4.  If then game has not ended, then it goes back to the Dragon Round.
@@ -468,14 +476,9 @@ Balancing Options:
 
 An easy way to balance the game is to give a player more gold or to give
 them a greater reserve of units (for example, having 12 units available 
-instead of 10). They 
-
-Another way balancing the game is to only require 3 castles to win the 
-game for alliances.
-
-You could dial forward or back faction abilities, unit regeneration, 
-unit conscription, anything. Really, it's a game. Play it however makes 
-you happy.
+instead of 10). You could dial forward or back faction abilities, unit 
+regeneration, unit conscription, anything. Really, it's a game. Play it 
+however makes you happy.
 
 * * *
 
