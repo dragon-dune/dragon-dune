@@ -106,7 +106,7 @@ Special:
     Queen of Hearts and the Jack of Spades.
 3.  Special Card (Ace): You may use an ace as a Sabotaged
     Artifact (Jack) of the same suit.
-4.  Alliance Power: You pay half value (rounded down) for artifacts.
+4.  Alliance Power: You pay half value (rounded up) for artifacts.
 
 ![](art/elf_portrait.png)
 
