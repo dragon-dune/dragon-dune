@@ -43,8 +43,9 @@ What You Need to Play:
 3.  Gold Markers (approximately 50 total)
 4.  Deck of Standard Playing Cards
 5.  One Six-Sided Die
-6.  One Dragon Marker (you can just use the die).
-7.  One First Player Marker (you can use the joker).
+6.  One Troll Marker
+7.  One Dragon Marker (you can just use the die).
+8.  One First Player Marker (you can use the joker).
 
 * * *
 
@@ -74,9 +75,16 @@ Special Rules:
 6.  Public agreements made in the game are binding and must be carried
     out, if possible. Public agreements can only be broken if all parties 
     involved terminate the agreement.
+7.  If the Event Card is the same suit 
 7.  Players may form alliances, but there can still be only one winning
     player. Forming an alliance grants your ally an alliance power.
+    Alliances can only be formed or broken during a Great Council after
+    a Red Dragon.
     (This is a change from Dune, which allows to players to share a victory.)
+8.  Players placing units in the same territory as the Troll Marker (3★)
+    lose 3 units in that territory at the end of their movement round.
+    If there are still units in the territory after the units are removed,
+    then the Troll Marker is also removed.
 
 * * *
 
@@ -118,7 +126,7 @@ clever to turn knowledge into gain.
 
 Start With: 5 Gold, 1 Artifact.
 
-Starting units: 5 units in 5★.
+Starting Units: 5 units in 5★.
 
 Special:
 
@@ -151,7 +159,7 @@ artifacts.
 
 Start With: 3 Gold, 2 artifacts.
 
-Starting units: 5 units in 10★.
+Starting Units: 3 units in 10★.
 
 Special:
 
@@ -180,7 +188,7 @@ mighty Red Dragon.
 
 Start With: 3 Gold, 1 artifact.
 
-Starting units: 5 units split between 1★, 9• & 16•.
+Starting Units: 5 units split between 1★, 9• & 16•.
 
 Special:
 
@@ -256,6 +264,9 @@ Setup:
 
 1.  The board is set up. Players place their starting units.
 2.  One player is picked at random to be the Stating Player.
+3.  The Dragon Marker is placed. Roll the die three times and add the 
+    numbers. This is the starting location of the Dragon Marker.
+4.  Place the Troll Marker on 3★. 
 3.  Each player is given the King of their faction from the deck.
     They place this card face up in front of them. This is their
     graveyard. This is the only card that has to be shown. All other
@@ -303,8 +314,8 @@ II. Event Round:
 2.  Gold is placed on that location, unless the dragon marker is at
     that location. If the dragon marker is at that location, then
     no gold is placed this turn.
-3.  If the event card is the same color as the games current Starting 
-    Player, then the Red Dragon has attacks the territory at the top
+3.  If the event card is the same suit as the games current Starting 
+    Player, then the Red Dragon has attacked the territory at the top
     of the event discard pile (the territory where the previous event 
     took place). All units and gold in that territory are lost.
 
@@ -349,15 +360,19 @@ The Elves must declare if any of their units are coming out of hiding.
 Then, starting with the Starting Player, and the proceeding in player 
 order, all players may (in the following order):
 
-1.  If they current player is the Goblins, they may disband some or all
-    of the units in one territory. Disbanded units are removed from the
-    board, but do not go to the graveyard.
+1.  If they current player is the Goblins (or their ally) they may 
+    disband some or all of the units in one territory. Disbanded units 
+    are removed from the board, but do not go to the graveyard.
 2.  The current player may remove 2 units from the players graveyard.
 
-    - On the Orcs turn, they may remove 3 units from the graveyard.
+    -  On the Orcs (and their ally's) turn, they may remove 3 units from 
+       the graveyard.
 
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
+
+    -  On the Orcs (and their ally) may conscript 2 units.
+    
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
     into any other territory. The payment is made directly to
@@ -365,8 +380,9 @@ order, all players may (in the following order):
 
     -   Goblin mercenaries may not be hired in any territory where the
         dragon marker is present.
-    -   Payments made by the Goblins are half price, rounded up, and are 
-    -   paid to the bank.
+    -   Payments made by the Goblins (and their ally) are half price, 
+    -   rounded up.
+    -   The Goblin's payment is made to the bank.
     -   The Orcs may not hire mercenaries. Instead, they my raise armies 
         in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2s) at no cost.
     -   If the Orcs are allied with the Goblins then they may hire goblin
@@ -388,6 +404,9 @@ order, all players may (in the following order):
 6.  If the current player is not the Goblins, they may disband some or
     all of the units in one territory.  Disbanded units are removed 
     from the board, but do not go to the graveyard.
+7.  If a player placed units in the same territory as the Troll Marker, 
+    then 3 units in that territory are removed. If there are still units 
+    then the Troll Marker is also removed.
 7.  Then the whole process repeats for the next player in player order.
 
 ![](art/crossed-swords.png)
@@ -400,10 +419,9 @@ a player has units in the same territory another player, they shall do
 the following (in the following order):
 
 1.  The player whose turn it is is the attacking player.
-2.  If the Elves are taking part in the battle, they may ask what one of
-    the artifacts is that their opponent will play, or ask the size of
-    the army they will send into battle. The answers to these questions
-    are binding.
+2.  If the Elves (or their ally) are taking part in the battle, they may 
+    ask what artifact their opponent will play, or ask the size of the army 
+    they will send into battle. The answers to these questions are binding.
 3.  Each player secretly records how many units they will send as an
     army into battle, and they may select one artifact to use in
     the battle. For each unit sent into battle the army receives two
@@ -447,8 +465,7 @@ VII. Victory Round:
 1.  The next player in player order becomes the Emperor.
 1.  The next player (in player order) after the current Starting Player
     becomes the Starting Player for the next turn.
-2.  If any player controls three castles, or if any alliance
-    controls four castles, then they have won the game.
+2.  If any player controls three castles then they have won the game.
 3.  If 8 turns have passed without a winner, then the Orcs win.
 4.  If then game has not ended, then it goes back to the Dragon Round.
 
