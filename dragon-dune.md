@@ -5,17 +5,17 @@ Dragon Dune
 
 A game for 4 players inspired by Avalon-Hill's Dune board game.
 
-Formally Dragons, Usurpers, and Empires (DU&E), but the Internet hates
-ampersands in your project name.
+This was formally called Dragons, Usurpers, and Empires (DU&E), 
+but the Internet hates ampersands.
 
 So, let’s justify this things existence. Dune is a great game, but it
 has it’s drawbacks. The rules are kind of ambiguous. It can take a while
 to play. It can be tough to get 6 players together. It can be a little 
-cutthroat for beginners. Actually, it can be cutthroat for everyone. 
+cutthroat for beginners. It can be cutthroat for everyone. 
 
 Rex attempted to iron out some of these idiosyncrasies, but they got 
 rid of things like binding agreements, which seem as fundamentally 
-important to the game Dune. Dune is a political game.
+important to a political wheeling-and-dealing game like Dune.
 
 This is an attempt to make a resource light game in the style of Dune,
 that is friendlier to beginners, easier logistically (4 players instead
@@ -40,12 +40,12 @@ What You Need to Play:
 
 1.  The Board
 2.  Faction Unit Markers (4 factions, 10 per faction)
-3.  Gold Markers (approximately 50 total)
+3.  Gold Markers (approximately 60 total)
 4.  Deck of Standard Playing Cards
 5.  One Six-Sided Die
 6.  One Troll Marker
-7.  One Dragon Marker (you can just use the die).
-8.  One First Player Marker (you can use the joker).
+7.  One Dragon Marker
+8.  One First Player Marker
 
 * * *
 
@@ -65,6 +65,7 @@ Special Rules:
     control 3 castles in order to win the game. Units in a castle are 
     safe from dragon attack.
 2.  A player controls a castle if they alone have at least one unit there.
+    Hidden units have no effect on castle control.
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
     round (instead of 2).
@@ -75,14 +76,13 @@ Special Rules:
 6.  Public agreements made in the game are binding and must be carried
     out, if possible. Public agreements can only be broken if all parties 
     involved terminate the agreement.
-7.  If the Event Card is the same suit 
 7.  Players may form alliances, but there can still be only one winning
     player. Forming an alliance grants your ally an alliance power.
     Alliances can only be formed or broken during a Great Council after
     a Red Dragon.
     (This is a change from Dune, which allows to players to share a victory.)
 8.  Players placing units in the same territory as the Troll Marker (3★)
-    lose 3 units in that territory at the end of their movement round.
+    lose 5 units in that territory at the end of their movement round.
     If there are still units in the territory after the units are removed,
     then the Troll Marker is also removed.
 
@@ -93,7 +93,7 @@ Factions:
 
 ![](art/dwarf_portrait.png)
 
-Dwarves (King of Diamonds):
+Dwarves (♦):
 ---------------------------
 
 The Dwarves empire has fallen. The are forced to sell artifacts from
@@ -118,7 +118,7 @@ Special:
 
 ![](art/elf_portrait.png)
 
-Elves (King of Hearts):
+Elves (♥):
 -----------------------
 
 The ancient Elves have vast arcane knowledge, but they will need to be
@@ -150,7 +150,7 @@ Special:
 
 ![](art/goblin_portrait.png)
 
-Goblins (King of Clubs):
+Goblins (♣):
 ------------------------
 
 The Goblins are ruthless mercenaries who fight for coin, even against
@@ -180,7 +180,7 @@ Special:
 
 ![](art/orc_portrait.png)
 
-Orcs (King of Spades):
+Orcs (♠):
 ----------------------
 
 The Orcs control the wild territories of the west. They worship the
@@ -217,10 +217,10 @@ Special:
 Cards:
 ======
 
--   Dwarves (King of Diamonds)
--   Elves (King of Hearts)
--   Goblins (King of Clubs)
--   Orcs (King of Spades)
+-   Dwarven Graveyard (King of Diamonds)
+-   Elven Graveyard (King of Hearts)
+-   Goblins Graveyard (King of Clubs)
+-   Orc Graveyard (King of Spades)
 -   Orc Usurper (Queen of Spades)
 -   Dwarven Usurper (Queen of Diamonds)
 -   Elven Usurper (Queen of Hearts)
@@ -314,7 +314,7 @@ II. Event Round:
 2.  Gold is placed on that location, unless the dragon marker is at
     that location. If the dragon marker is at that location, then
     no gold is placed this turn.
-3.  If the event card is the same suit as the games current Starting 
+3.  If the event card is the same color as the games current Starting 
     Player, then the Red Dragon has attacked the territory at the top
     of the event discard pile (the territory where the previous event 
     took place). All units and gold in that territory are lost.
@@ -339,7 +339,7 @@ The Starting Player is the first Starting Bidder.
 One card is placed up for bid for each player that does not have their
 maximum number of cards. For each card up for bid, one at a time.
 
-1.  The Elves, and only the Elves are shown the card.
+1.  The Elves, and only the Elves, are shown the card.
 2.  Players, starting with the Starting Bidder, bid on card.
 3.  The winner receives the card and pays the Dwarves.
 
@@ -371,12 +371,11 @@ order, all players may (in the following order):
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
 
-    -  On the Orcs (and their ally) may conscript 2 units.
+    -  On the Orcs (and their ally's) turn they may conscript 2 units.
     
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
-    into any other territory. The payment is made directly to
-    the Goblins.
+    into any other territory. The payment is made directly to the Goblins.
 
     -   Goblin mercenaries may not be hired in any territory where the
         dragon marker is present.
@@ -388,7 +387,8 @@ order, all players may (in the following order):
     -   If the Orcs are allied with the Goblins then they may hire goblin
         mercenaries to any valid location at the usual rate, or may raise 
         armies in the Orcish territories, but they may not do both.
-    -   The player may play a Special Card to pay half price, rounded up.
+    -   The player may play a Special Card to pay half the standard price, 
+        rounded up.
 
 5.  The current player may move some or all units from one location
     through two territories.
@@ -398,14 +398,14 @@ order, all players may (in the following order):
     -   The Orcs may move through three territories.
     -   If the player has access to griffins (if they control of 3★ 
         or 5★) then they may move through four territories.
-    -   The player may play a Special Card to make a second movement
-        this round.
+    -   The player may play a Special Card to extend their movement 
+        range by 1 territory.
 
-6.  If the current player is not the Goblins, they may disband some or
-    all of the units in one territory.  Disbanded units are removed 
-    from the board, but do not go to the graveyard.
+6.  Players may disband some, or all, of the units in one territory.
+    Disbanded units are removed from the board, but do not go to the 
+    graveyard.
 7.  If a player placed units in the same territory as the Troll Marker, 
-    then 3 units in that territory are removed. If there are still units 
+    then 5 units in that territory are removed. If there are still units 
     then the Troll Marker is also removed.
 7.  Then the whole process repeats for the next player in player order.
 
@@ -483,8 +483,7 @@ balance the game.
     which they may then keep or discard for a reward of 1 gold.
 -   Dwarven Elite Warriors: The Dwarves are fierce warriors. They have two 
     special units, which act as normal units in every way except that 
-    each unit counts as two
-    units for the purpose of combat.
+    each unit counts as two units for the purpose of combat.
 -   Elven Blessing: After the Elves have lost 3 units in combat, they are
     given the power to invoke a blessing for one battle once per turn that 
     gives them an bonus battle point and makes it so they can not be 
