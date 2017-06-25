@@ -56,13 +56,12 @@ Board:
 Special Rules:
 --------------
 
-1.  Territory 0• is the Great Mountain and is neutral territory. Players 
-    will never battle in territory 0•.
+1.  Territory 0• (in the middle of the board) is the Great Mountain 
+    and is neutral territory. Players will never battle in territory 0•.
 2.  • territories represent forests. Units in a forest territory are 
     safe from dragon attack.
-3.  ★ territories represent castles. Players or alliances need to 
-    control 3 castles in order to win the game. Units in a castle are 
-    safe from dragon attack.
+3.  ★ territories represent castles. Players need to control 3 castles 
+    to win the game. Units in a castle are safe from dragon attack.
 2.  A player controls a castle if they alone have at least one unit there.
     Hidden units have no effect on castle control.
 3.  Players in control of 3★ or 5★ have access to griffins and receive a
