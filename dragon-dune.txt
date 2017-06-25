@@ -10,12 +10,10 @@ Internet hates ampersands.
 
 So, let’s justify this things existence. Dune is a great game, but it
 has it’s drawbacks. The rules are kind of ambiguous. It can take a while
-to play. It can be tough to get 6 players together. It can be a little
-cutthroat for beginners. It can be cutthroat for everyone.
-
-Rex attempted to iron out some of these idiosyncrasies, but they got rid
-of things like binding agreements, which seem as fundamentally important
-to a political wheeling-and-dealing game like Dune.
+to play. It can be tough to get 6 players together. Rex attempted to
+iron out some of these idiosyncrasies, but they got rid of things like
+binding agreements, which seem as fundamentally important to a political
+wheeling-and-dealing game like Dune.
 
 This is an attempt to make a resource light game in the style of Dune,
 that is friendlier to beginners, easier logistically (4 players instead
