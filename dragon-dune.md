@@ -38,12 +38,13 @@ What You Need to Play:
 
 1.  The Board
 2.  Faction Unit Markers (4 factions, 10 per faction)
-3.  Gold Markers (approximately 60 total)
-4.  Deck of Standard Playing Cards
-5.  One Six-Sided Die
-6.  One Troll Marker
-7.  One Dragon Marker
-8.  One First Player Marker
+3.  Hidden Unit Markers (10 total)
+4.  Gold Markers (approximately 60 total)
+5.  Deck of Standard Playing Cards
+6.  One Six-Sided Die
+7.  One Troll Marker
+8.  One Dragon Marker
+9.  One First Player Marker
 
 * * *
 
