@@ -33,17 +33,20 @@ Github: <https://github.com/dragon-dune/dragon-dune>
 
 Web: <http://dragondune.inkfox.org>
 
+PDF: <http://pdf.dragondune.inkfox.org>
+
 What You Need to Play:
 ----------------------
 
 1.  The Board
 2.  Faction Unit Markers (4 factions, 10 per faction)
-3.  Gold Markers (approximately 60 total)
-4.  Deck of Standard Playing Cards
-5.  One Six-Sided Die
-6.  One Troll Marker
-7.  One Dragon Marker
-8.  One First Player Marker
+3.  Hidden Unit Markers (10 total)
+4.  Gold Markers (approximately 60 total)
+5.  Deck of Standard Playing Cards
+6.  One Six-Sided Die
+7.  One Troll Marker
+8.  One Dragon Marker
+9.  One First Player Marker
 
 ------------------------------------------------------------------------
 
@@ -55,13 +58,12 @@ Board:
 Special Rules:
 --------------
 
-1.  Territory 0• is the Great Mountain and is neutral territory. Players
-    will never battle in territory 0•.
+1.  Territory 0• (in the middle of the board) is the Great Mountain and
+    is neutral territory. Players will never battle in territory 0•.
 2.  • territories represent forests. Units in a forest territory are
     safe from dragon attack.
-3.  ★ territories represent castles. Players or alliances need to
-    control 3 castles in order to win the game. Units in a castle are
-    safe from dragon attack.
+3.  ★ territories represent castles. Players need to control 3 castles
+    to win the game. Units in a castle are safe from dragon attack.
 4.  A player controls a castle if they alone have at least one unit
     there. Hidden units have no effect on castle control.
 5.  Players in control of 3★ or 5★ have access to griffins and receive a
@@ -244,7 +246,8 @@ Players may discard a Special Cards to:
     Recruitment round.
 3.  Move through one additional territory with your moved units in in
     the Bidding and Recruitment round.
-4.  Ask what artifact is going to be played by your opponent in battle.
+4.  Ask the color of the artifact that is going to be played by your
+    opponent in battle. The answer to the question is binding.
 5.  May be played as an artifact in battle with a value of 1.
 
 ------------------------------------------------------------------------

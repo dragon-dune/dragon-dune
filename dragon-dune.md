@@ -33,6 +33,8 @@ Github: <https://github.com/dragon-dune/dragon-dune>
 
 Web: <http://dragondune.inkfox.org>
 
+PDF: <http://pdf.dragondune.inkfox.org>
+
 What You Need to Play:
 ----------------------
 
@@ -244,7 +246,8 @@ Players may discard a Special Cards to:
     Recruitment round.
 3.  Move through one additional territory with your moved units in
     in the Bidding and Recruitment round.
-4.  Ask what artifact is going to be played by your opponent in battle.
+4.  Ask the color of the artifact that is going to be played by your 
+    opponent in battle. The answer to the question is binding.
 5.  May be played as an artifact in battle with a value of 1.
 
 * * *
