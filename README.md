@@ -133,9 +133,9 @@ Special:
 1.  The Elves may see the artifact that is up for bid before
     bidding begins.
 2.  In battle with the Elves (or their allies), the Elves may ask the
-    color of their opponents artifact card, the value of the artifact
-    card, or to know how many units they are sending in to battle before
-    selecting their own card and units.
+    color of their opponent's artifact card or to ask how many units 
+    their opponent sending in to battle before selecting their own card 
+    and units.
 3.  At the beginning of the Recruitment and Movement Round, the Elves
     may see what the next event card will be.
 4.  Elven units may go into hiding in a territory in order to
@@ -217,20 +217,30 @@ Special:
 Cards:
 ======
 
--   Dwarven Graveyard (King of Diamonds)
--   Elven Graveyard (King of Hearts)
--   Goblins Graveyard (King of Clubs)
--   Orc Graveyard (King of Spades)
--   Orc Usurper (Queen of Spades)
--   Dwarven Usurper (Queen of Diamonds)
--   Elven Usurper (Queen of Hearts)
--   Goblin Usurper (Queen of Clubs)
--   Sabotaged Clubs Artifact (Jack of Clubs)
--   Sabotaged Diamond Artifact (Jack of Diamonds)
--   Sabotaged Heart Artifact (Jack of Hearts)
--   Sabotaged Spade Artifact (Jack of Spades)
--   Special Card (Aces, All Suits)
--   Artifacts (2 to 6, All Suits)
+1.  Player Cards
+
+    -   Dwarven Graveyard (King of Diamonds)
+    -   Elven Graveyard (King of Hearts)
+    -   Goblins Graveyard (King of Clubs)
+    -   Orc Graveyard (King of Spades)
+    -   Dwarven Usurper (Queen of Diamonds)
+    -   Elven Usurper (Queen of Hearts)
+    -   Goblin Usurper (Queen of Clubs)
+    -   Orc Usurper (Queen of Spades)
+    -   Sabotaged Clubs Artifact (Jack of Clubs)
+    -   Sabotaged Diamond Artifact (Jack of Diamonds)
+    -   Sabotaged Heart Artifact (Jack of Hearts)
+    -   Sabotaged Spade Artifact (Jack of Spades)
+
+2.  Artifact Deck
+
+    -   Special Card (Aces, All Suits)
+    -   Artifacts (2 to 6, All Suits)
+
+3.  Event Deck
+
+    -   Event Cards (7 to 10, All Suits)
+
 
 ![](art/ace.png)
 
@@ -350,6 +360,8 @@ maximum number of cards. For each card up for bid, one at a time.
 4.  The whole process repeats for the next player in player order.
     For each card, the next player after the current Starting Bidder 
     (in player order) becomes the next Starting Bidder.
+5.  At the end of the Bidding Round, the Elves are shown the next event 
+    card.
 
 ![](art/mounted-knight.png)
 
@@ -361,14 +373,14 @@ The Elves must declare if any of their units are coming out of hiding.
 Then, starting with the Starting Player, and the proceeding in player 
 order, all players may (in the following order):
 
-1.  If they current player is the Goblins (or their ally) they may 
-    disband some or all of the units in one territory. Disbanded units 
-    are removed from the board, but do not go to the graveyard.
-2.  The current player may remove 2 units from the players graveyard.
+1.  The current player may remove 2 units from the players graveyard.
 
     -  On the Orcs (and their ally's) turn, they may remove 3 units from 
        the graveyard.
 
+2.  If the current player is the Goblins (or their ally) they may 
+    disband some or all of the units in one territory. Disbanded units 
+    are removed from the board, but do not go to the graveyard.
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
 
@@ -402,9 +414,9 @@ order, all players may (in the following order):
     -   The player may play a Special Card to extend their movement 
         range by 1 territory.
 
-6.  Players may disband some, or all, of the units in one territory.
-    Disbanded units are removed from the board, but do not go to the 
-    graveyard.
+6.  The current player may disband some, or all, of the units in one 
+    territory. Disbanded units are removed from the board, but do not go 
+    to the graveyard.
 7.  If a player placed units in the same territory as the Troll Marker, 
     then 5 units in that territory are removed. If there are still units 
     then the Troll Marker is also removed.
@@ -421,8 +433,9 @@ the following (in the following order):
 
 1.  The player whose turn it is is the attacking player.
 2.  If the Elves (or their ally) are taking part in the battle, they may 
-    ask what artifact their opponent will play, or ask the size of the army 
-    they will send into battle. The answers to these questions are binding.
+    ask what color artifact their opponent will play, or ask the size of 
+    the army they will send into battle. The answers to these questions are 
+    binding.
 3.  Each player secretly records how many units they will send as an
     army into battle, and they may select one artifact to use in
     the battle. For each unit sent into battle the army receives two
