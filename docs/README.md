@@ -117,7 +117,7 @@ Special:
     Queen of Hearts and the Jack of Spades.
 3.  Special Card (Ace): You may use an ace as a Sabotaged
     Artifact (Jack) of the same suit.
-4.  Alliance Power: You pay half value (rounded up) for artifacts.
+4.  Alliance Power: Your ally pays half value (rounded up) for artifacts.
 
 ![](art/elf_portrait.png)
 
@@ -135,7 +135,7 @@ Special:
 
 1.  The Elves may see the artifact that is up for bid before
     bidding begins.
-2.  In battle with the Elves (or their allies), the Elves may ask the
+2.  In battle with the Elves (or their ally), the Elves may ask the
     color of their opponent's artifact card or to ask how many units 
     their opponent sending in to battle before selecting their own card 
     and units.
@@ -168,13 +168,13 @@ Special:
 
 1.  Goblins collect all gold spent on hiring Goblin mercenaries. Gold
     spent by the Goblins on mercenaries goes to the bank.
-2.  The Goblins (and their allies) pay half price (rounded up) for
+2.  The Goblins (and their ally) pay half price (rounded up) for
     Goblin mercenaries.
 3.  When the Goblins win an artifact cards, they get a second artifact
     card that is hidden from the Elves.
 4.  The Goblins may have up to 8 artifact cards (instead of 4).
-5.  The Goblins may disband units at the beginning of the movement round
-    (instead of at the end).
+5.  The Goblins (and their ally) may disband units at the beginning of 
+    the movement round (instead of at the end).
 6.  Special Card (Ace): You may discard a special card to stop a player 
     from hiring Goblin mercenaries that turn.
 7.  Alliance Power: Your ally may may half price (rounded up) for Goblin 
