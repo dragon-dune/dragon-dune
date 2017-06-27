@@ -60,10 +60,11 @@ Special Rules:
 
 1.  Territory 0• (in the middle of the board) is the Great Mountain and
     is neutral territory. Players will never battle in territory 0•.
-2.  • territories represent forests. Units in a forest territory are
-    safe from dragon attack.
-3.  ★ territories represent castles. Players need to control 3 castles
-    to win the game. Units in a castle are safe from dragon attack.
+2.  Forrest territories are represented by • (such as 16•). Units in a
+    forest territory are safe from dragon attack.
+3.  Castle territories are represented by ★ (such as 10★). Players need
+    to control 3 castles to win the game. Units in a castle are safe
+    from dragon attack.
 4.  A player controls a castle if they alone have at least one unit
     there. Hidden units have no effect on castle control.
 5.  Players in control of 3★ or 5★ have access to griffins and receive a
@@ -85,6 +86,9 @@ Special Rules:
     lose 5 units in that territory at the end of their movement round.
     If there are still units in the territory after the units are
     removed, then the Troll Marker is also removed.
+11. Players may exchange gold at any time and for any reason, although
+    players may never exchange artifacts.Players may exchange gold at
+    any time. Players may never exchange artifacts.
 
 ------------------------------------------------------------------------
 
@@ -485,6 +489,12 @@ VII. Victory Round:
     becomes the Starting Player for the next turn.
 3.  If any player controls three castles then they have won the game.
 4.  If 8 turns have passed without a winner, then the Orcs win.
+
+    -   If the Orcs are not playing, then whomever has the most
+        castles wins. If there is a tie, then the tied players may fight
+        with any units already present in 0• (normally a neutral
+        territory), with the winner of the battle winning the game.
+
 5.  If then game has not ended, then it goes back to the Dragon Round.
 
 ------------------------------------------------------------------------

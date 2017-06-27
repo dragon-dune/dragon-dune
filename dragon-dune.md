@@ -60,31 +60,35 @@ Special Rules:
 
 1.  Territory 0• (in the middle of the board) is the Great Mountain 
     and is neutral territory. Players will never battle in territory 0•.
-2.  • territories represent forests. Units in a forest territory are 
-    safe from dragon attack.
-3.  ★ territories represent castles. Players need to control 3 castles 
-    to win the game. Units in a castle are safe from dragon attack.
-2.  A player controls a castle if they alone have at least one unit there.
+2.  Forrest territories are represented by • (such as 16•). Units in a 
+    forest territory are safe from dragon attack.
+3.  Castle territories are represented by ★ (such as 10★). Players need 
+    to control 3 castles to win the game. Units in a castle are safe from 
+    dragon attack.
+4.  A player controls a castle if they alone have at least one unit there.
     Hidden units have no effect on castle control.
-3.  Players in control of 3★ or 5★ have access to griffins and receive a
+5.  Players in control of 3★ or 5★ have access to griffins and receive a
     travel bonus. They may move through four territories in the movement
     round (instead of 2).
-4.  Players may never have more than 10 units between on the board and
+6.  Players may never have more than 10 units between on the board and
     the player's graveyard at any one time.
-5.  No more than two players may have units in a castle at one time.
+7.  No more than two players may have units in a castle at one time.
     This does not count hidden units.
-6.  Public agreements made in the game are binding and must be carried
+8.  Public agreements made in the game are binding and must be carried
     out, if possible. Public agreements can only be broken if all parties 
     involved terminate the agreement.
-7.  Players may form alliances, but there can still be only one winning
+9.  Players may form alliances, but there can still be only one winning
     player. Forming an alliance grants your ally an alliance power.
     Alliances can only be formed or broken during a Great Council after
     a Red Dragon.
     (This is a change from Dune, which allows to players to share a victory.)
-8.  Players placing units in the same territory as the Troll Marker (3★)
+10. Players placing units in the same territory as the Troll Marker (3★)
     lose 5 units in that territory at the end of their movement round.
     If there are still units in the territory after the units are removed,
     then the Troll Marker is also removed.
+11. Players may exchange gold at any time and for any reason, although players 
+    may never exchange artifacts.Players may exchange gold at any time. 
+    Players may never exchange artifacts.
 
 * * *
 
@@ -481,6 +485,12 @@ VII. Victory Round:
     becomes the Starting Player for the next turn.
 2.  If any player controls three castles then they have won the game.
 3.  If 8 turns have passed without a winner, then the Orcs win.
+
+    -   If the Orcs are not playing, then whomever has the most castles
+        wins. If there is a tie, then the tied players may fight with any 
+        units already present in 0• (normally a neutral territory),
+        with the winner of the battle winning the game.
+        
 4.  If then game has not ended, then it goes back to the Dragon Round.
 
 * * *
