@@ -87,8 +87,7 @@ Special Rules:
     If there are still units in the territory after the units are removed,
     then the Troll Marker is also removed.
 11. Players may exchange gold at any time and for any reason, although players 
-    may never exchange artifacts.Players may exchange gold at any time. 
-    Players may never exchange artifacts.
+    may never exchange artifacts.
 
 * * *
 
