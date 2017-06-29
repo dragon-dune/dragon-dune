@@ -145,8 +145,8 @@ Special:
 4.  Elven units may go into hiding in a territory in order to
     escape conflict. Hidden units act in every way as though they did
     not exist. Hidden units may only come out of hiding if they move
-    into a empty territory or they may declare that they are coming out
-    of hiding at the end of the at the beginning of a turn.
+    into a empty territory or at the beginning of the Recruitment and
+    Movement round.
 5.  Special Card (Ace): You may discard a special card to place up to 2
     units on any one territory for free.
 6.  Alliance Power: Your ally may ask question before a battle just as
