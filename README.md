@@ -23,7 +23,7 @@ of 6), with greater rule clarity, and with a strong sense of theme
 About This Game
 ---------------
 
-The game is version 1.1.
+The game is version 1.2.
 
 This game is licensed Creative Commons Share-Alike 4.0.
 
@@ -259,9 +259,14 @@ Players may discard a Special Cards to:
     Recruitment round.
 3.  Move through one additional territory with your moved units in
     in the Bidding and Recruitment round.
-4.  Ask the color of the artifact that is going to be played by your 
-    opponent in battle. The answer to the question is binding.
+4.  Make your units in one territory hidden for one turn. This must
+    be done as soon as the units share a territory with another player's
+    units. The units come out of hiding at the the beginning of next 
+    turn's Recruitment and Movement round (at the same time that the
+    elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
+6.  If an artifact with a value of 6 is played in battle by either 
+    (or both) players, then a Spec
 
 * * *
 
@@ -377,6 +382,7 @@ IV. Recruitment and Movement Rounds:
 ------------------------------------
 
 The Elves must declare if any of their units are coming out of hiding.
+All non-elven hidden units come out of hiding.
 
 Then, starting with the Starting Player, and the proceeding in player 
 order, all players may (in the following order):
@@ -410,6 +416,9 @@ order, all players may (in the following order):
         armies in the Orcish territories, but they may not do both.
     -   The player may play a Special Card to pay half the standard price, 
         rounded up.
+    -   The Elves (or a player with a Special Card) must declare if their
+        units go into hiding if they now share the territory with another
+        player's units.
 
 5.  The current player may move some or all units from one location
     through two territories.
@@ -421,6 +430,9 @@ order, all players may (in the following order):
         or 5★) then they may move through four territories.
     -   The player may play a Special Card to extend their movement 
         range by 1 territory.
+    -   The Elves (or a player with a Special Card) must declare if their
+        units go into hiding if they now share the territory with another
+        player's units.
 
 6.  The current player may disband some, or all, of the units in one 
     territory. Disbanded units are removed from the board, but do not go 
@@ -453,20 +465,24 @@ the following (in the following order):
     artifact of that color, gets that amount added to their battle value.
     If two artifacts of the same color are played, the higher valued 
     artifact is discarded, regardless of who wins the battle.
+
+    -   If the two artifacts played are the same number and color, then 
+        both artifacts are destroyed.
+        
 6.  The player with the highest battle value wins the battle. In the case
     of a tie, the attacker wins.
 7.  The winner removes all units used in an army in the battle.
 8.  The loser removes all tokens from the territory, regardless of whether
     or not they took part in the battle. The loser also discards all
     artifact cards used.
-9.  If a player who took part in the battle has a their opponent as
+9. If a player who took part in the battle has a their opponent as
     their usurper, and has a sabotaged artifact of the same suit as the
     artifact their opponent played, then they may declare their
     treachery and automatically win the battle, taking no losses. The
     loser removes all units from the territory (even those not used in
     the battle), and discards any artifacts used in the battle.
-9.  This process continues until all battles for a player are resolved.
-10. Then the whole process repeats for the next player in player order.
+10. This process continues until all battles for a player are resolved.
+11. Then the whole process repeats for the next player in player order.
 
 ![](art/coins.png)
 
@@ -527,10 +543,11 @@ Players may discard 2 Special Cards to:
 1.  Make an extra movement during the Recruitment and Movement Round.
 2.  Ask one yes or no question of another player that must be answered
     honestly.
-3.  If a player is taking part in a battle where an artifact with a 
-    value of 6 has been played, a chaos monster can be summoned,
-    destroying all gold and units in the territory, and destroying all
-    artifacts used in the battle.
+3.  Cause a chaos monster to be summoned in a battle that player is taking 
+    part in where an artifact with a value of 6 has been played by either 
+    (or both) players. The chaos monster, somewhat predictably, destroys 
+    all gold and units in the  territory, as well as all artifacts used in 
+    the battle.
 4.  To destroy the castle walls of one territory, causing that territory
     to no longer be safe from dragon attack on the Dragon Round. The player
     must have a unit within 1 territory of the territory to be affected.

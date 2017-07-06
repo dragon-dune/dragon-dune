@@ -18,7 +18,7 @@
 <p>So, let’s justify this things existence. Dune is a great game, but it has it’s drawbacks. The rules are kind of ambiguous. It can take a while to play. It can be tough to get 6 players together. Rex attempted to iron out some of these idiosyncrasies, but they got rid of things like binding agreements, which seem as fundamentally important to a political wheeling-and-dealing game like Dune.</p>
 <p>This is an attempt to make a resource light game in the style of Dune, that is friendlier to beginners, easier logistically (4 players instead of 6), with greater rule clarity, and with a strong sense of theme (taking place in a fantasy setting).</p>
 <h2 id="about-this-game">About This Game</h2>
-<p>The game is version 1.1.</p>
+<p>The game is version 1.2.</p>
 <p>This game is licensed Creative Commons Share-Alike 4.0.</p>
 <p>Contact: <a href="mailto:dragon.dune.game@gmail.com">dragon.dune.game@gmail.com</a></p>
 <p>Github: <a href="https://github.com/dragon-dune/dragon-dune" class="uri">https://github.com/dragon-dune/dragon-dune</a></p>
@@ -172,8 +172,9 @@
 <li>Not pay for an artifact card in the bidding round.</li>
 <li>Pay half of regular price for mercenaries in the Bidding and Recruitment round.</li>
 <li>Move through one additional territory with your moved units in in the Bidding and Recruitment round.</li>
-<li>Ask the color of the artifact that is going to be played by your opponent in battle. The answer to the question is binding.</li>
+<li>Make your units in one territory hidden for one turn. This must be done as soon as the units share a territory with another player's units. The units come out of hiding at the the beginning of next turn's Recruitment and Movement round (at the same time that the elves choose to stay hidden or not).</li>
 <li>May be played as an artifact in battle with a value of 1.</li>
+<li>If an artifact with a value of 6 is played in battle by either (or both) players, then a Spec</li>
 </ol>
 <hr />
 <h1 id="how-to-play">How To Play:</h1>
@@ -250,7 +251,7 @@
 
 </div>
 <h2 id="iv.-recruitment-and-movement-rounds">IV. Recruitment and Movement Rounds:</h2>
-<p>The Elves must declare if any of their units are coming out of hiding.</p>
+<p>The Elves must declare if any of their units are coming out of hiding. All non-elven hidden units come out of hiding.</p>
 <p>Then, starting with the Starting Player, and the proceeding in player order, all players may (in the following order):</p>
 <ol style="list-style-type: decimal">
 <li><p>The current player may remove 2 units from the players graveyard.</p>
@@ -271,6 +272,7 @@
 <li>The Orcs may not hire mercenaries. Instead, they my raise armies in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, &amp; 2s) at no cost.</li>
 <li>If the Orcs are allied with the Goblins then they may hire goblin mercenaries to any valid location at the usual rate, or may raise armies in the Orcish territories, but they may not do both.</li>
 <li>The player may play a Special Card to pay half the standard price, rounded up.</li>
+<li>The Elves (or a player with a Special Card) must declare if their units go into hiding if they now share the territory with another player's units.</li>
 </ul></li>
 <li><p>The current player may move some or all units from one location through two territories.</p>
 <ul>
@@ -278,6 +280,7 @@
 <li>The Orcs may move through three territories.</li>
 <li>If the player has access to griffins (if they control of 3★ or 5★) then they may move through four territories.</li>
 <li>The player may play a Special Card to extend their movement range by 1 territory.</li>
+<li>The Elves (or a player with a Special Card) must declare if their units go into hiding if they now share the territory with another player's units.</li>
 </ul></li>
 <li>The current player may disband some, or all, of the units in one territory. Disbanded units are removed from the board, but do not go to the graveyard.</li>
 <li>If a player placed units in the same territory as the Troll Marker, then 5 units in that territory are removed. If there are still units then the Troll Marker is also removed.</li>
@@ -294,13 +297,16 @@
 <li>If the Elves (or their ally) are taking part in the battle, they may ask what color artifact their opponent will play, or ask the size of the army they will send into battle. The answers to these questions are binding.</li>
 <li>Each player secretly records how many units they will send as an army into battle, and they may select one artifact to use in the battle. For each unit sent into battle the army receives two points of battle value.</li>
 <li>Players reveal the size of their armies and their artifacts selected.</li>
-<li>For each color (red and black), whomever played the lower numbered artifact of that color, gets that amount added to their battle value. If two artifacts of the same color are played, the higher valued artifact is discarded, regardless of who wins the battle.</li>
+<li><p>For each color (red and black), whomever played the lower numbered artifact of that color, gets that amount added to their battle value. If two artifacts of the same color are played, the higher valued artifact is discarded, regardless of who wins the battle.</p>
+<ul>
+<li>If the two artifacts played are the same number and color, then both artifacts are destroyed.</li>
+</ul></li>
 <li>The player with the highest battle value wins the battle. In the case of a tie, the attacker wins.</li>
 <li>The winner removes all units used in an army in the battle.</li>
 <li>The loser removes all tokens from the territory, regardless of whether or not they took part in the battle. The loser also discards all artifact cards used.</li>
 <li>If a player who took part in the battle has a their opponent as their usurper, and has a sabotaged artifact of the same suit as the artifact their opponent played, then they may declare their treachery and automatically win the battle, taking no losses. The loser removes all units from the territory (even those not used in the battle), and discards any artifacts used in the battle.</li>
 <li>This process continues until all battles for a player are resolved.</li>
-<li>Then the whole process repeats for the next player in player order.</li>
+<li><p>Then the whole process repeats for the next player in player order.</p></li>
 </ol>
 <div class="figure">
 <img src="art/coins.png" />
@@ -341,7 +347,7 @@
 <ol style="list-style-type: decimal">
 <li>Make an extra movement during the Recruitment and Movement Round.</li>
 <li>Ask one yes or no question of another player that must be answered honestly.</li>
-<li>If a player is taking part in a battle where an artifact with a value of 6 has been played, a chaos monster can be summoned, destroying all gold and units in the territory, and destroying all artifacts used in the battle.</li>
+<li>Cause a chaos monster to be summoned in a battle that player is taking part in where an artifact with a value of 6 has been played by either (or both) players. The chaos monster, somewhat predictably, destroys all gold and units in the territory, as well as all artifacts used in the battle.</li>
 <li>To destroy the castle walls of one territory, causing that territory to no longer be safe from dragon attack on the Dragon Round. The player must have a unit within 1 territory of the territory to be affected.</li>
 <li>To control the dragons on the Dragon Round, causing them to be moved an amount selected by the player (between 1 and 6) instead of the die roll.</li>
 </ol>
