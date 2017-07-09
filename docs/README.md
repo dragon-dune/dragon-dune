@@ -265,8 +265,6 @@ Players may discard a Special Cards to:
     turn's Recruitment and Movement round (at the same time that the
     elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
-6.  If an artifact with a value of 6 is played in battle by either 
-    (or both) players, then a Spec
 
 * * *
 
