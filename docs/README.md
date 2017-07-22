@@ -327,14 +327,16 @@ I. Dragon Round:
 II. Event Round:
 ----------------
 
-1.  Any player other than the Orcs (the Elves are a good choice because
-    they already have the information) checks to see if the color of the
-    next event card is the same color as the event card at the top of the 
-    discard pile.
+1.  One card is revealed from the Event Deck. If the color of the revealed 
+    event card is the same color as the event card at the top of the discard 
+    pile, then the Red Dragon has appeared (after which you can place the 
+    revealed card a the bottom of the Event Deck).
 
-    -   If it is, then the Red Dragon has attacked the territory at the 
-        top of the event discard pile (the territory where the previous 
-        event took place). All units and gold in that territory are lost.
+2.  If the Red Dragon has appeared, then:
+
+    -   The Red Dragon has attacked the territory at the top of the event 
+        discard pile (the territory where the previous event took place). 
+        All units and gold in that territory are lost.
     -   If the Orcs are in the same territory as the Red Dragon, they 
         may move some or all of their units at that location to any
         other location.
@@ -344,10 +346,10 @@ II. Event Round:
         have passed or formed an alliance.
     -   The dragon marker does NOT go to the Red Dragons location. The
         dragon marker is only moved on the dragon round.
-
-2.  The next event card is revealed and placed on the top of the 
+        
+3.  Reveal another Event Card and place it place it the top of the 
     discard pile.
-3.  Gold is placed on that location, unless the dragon marker is at
+4.  Gold is placed on that location, unless the dragon marker is at
     that location. If the dragon marker is at that location, then
     no gold is placed this turn.
 

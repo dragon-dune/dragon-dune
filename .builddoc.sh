@@ -21,3 +21,18 @@ rm dragon-dune_unformatted.docx
 # make text
 pandoc dragon-dune.md -o dragon-dune.txt
 cat "dragon-dune board (text).txt" >> dragon-dune.txt
+
+# set to dos newlines
+unix2dos *.txt
+unix2dos *.md
+unix2dos *.html
+cd art
+unix2dos *.txt
+unix2dos *.md
+unix2dos *.html
+cd ..
+cd docs
+unix2dos *.txt
+unix2dos *.md
+unix2dos *.html
+cd ..
