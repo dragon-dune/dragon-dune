@@ -146,8 +146,8 @@ Special:
     not exist. Hidden units may only come out of hiding if they move
     into a empty territory or at the beginning of the Recruitment and 
     Movement round.
-5.  Special Card (Ace): You may discard a special card to place up to 
-    2 units on any one territory for free.
+5.  Special Card (Ace): In the Recruitment and Movement round, you 
+    may remove an 2 units from your graveyard.
 6.  Alliance Power: Your ally may ask question before a battle just as
     the elves do.
 
