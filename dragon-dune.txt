@@ -610,7 +610,7 @@ Dragon-Dune Text Board
 ======================
 
     Key: 
-    c (star) = castle, f (dot) = forrest, t (arrow) = travel bonus
+    c (star) = castle, f (dot) = forest, t (arrow) = travel bonus
     #########################################################
     #      #      #      #      3      #  4f  #   5c  (t)   #
     #  1c  #  1   #  2   #             #      #             #
