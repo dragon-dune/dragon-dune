@@ -35,6 +35,8 @@ Web: <http://dragondune.inkfox.org>
 
 PDF: <http://pdf.dragondune.inkfox.org>
 
+Booklet: <http://booklet.dragondune.inkfox.org>
+
 What You Need to Play:
 ----------------------
 
