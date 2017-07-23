@@ -10,8 +10,7 @@ cat "dragon-dune board (text).txt" >> README.md
 # make and copy html
 cp ./art/* ./docs/art
 cp ./dragon-dune.md ./docs/README.md
-pandoc -s dragon-dune.md -o dragon-dune.html
-cp ./dragon-dune.html ./docs/dragon-dune.html
+pandoc dragon-dune.md -s -c style.css -o ./docs/dragon_dune.html
 
 # make odt
 pandoc dragon-dune.md -o dragon-dune_unformatted.docx
