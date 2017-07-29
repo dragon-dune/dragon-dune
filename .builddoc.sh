@@ -13,9 +13,8 @@ cp ./dragon-dune.md ./docs/README.md
 pandoc dragon-dune.md -s -c style.css -o ./docs/dragon_dune.html
 
 # make odt
-pandoc dragon-dune.md -o dragon-dune_unformatted.docx
-pandoc dragon-dune_unformatted.docx -o dragon-dune_unformatted.odt
-rm dragon-dune_unformatted.docx
+# To set image dpi use: for file in *.png; do mogrify -density 160 -units PixelsPerInch $file; done
+pandoc dragon-dune.md -o dragon-dune_unformatted.odt
 
 # make text
 pandoc dragon-dune.md -o dragon-dune.txt
