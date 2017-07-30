@@ -15,12 +15,52 @@ iron out some of these idiosyncrasies, but they got rid of things like
 binding agreements, which seem as fundamentally important to a political 
 wheeling-and-dealing game like Dune.
 
-This is an attempt to make a resource light game in the style of Dune,
-that is friendlier to beginners, easier logistically (4 players instead
-of 6), with greater rule clarity, and with a strong sense of theme
-(taking place in a fantasy setting).
 
-About This Game
+About This Game:
+----------------
+
+This is a open-source, resource light game in the style of Avalon-Hill's
+Dune board game, that is friendlier to beginners, faster, easier 
+logistically (4 players instead of 6), with greater rule clarity, and a 
+strong sense of theme.
+
+Four factions fight to control the of the land of the Red Dragon: 
+
+The Dwarves, who sell their treasury of artifacts to the highest 
+bidder to fund their armies. 
+
+The Elves, cunning and mysterious, who possess arcane magic that 
+reveals future events.
+
+The Goblins, who's bloodthirsty mercenaries fight for gold, even 
+against their own king. Their thirst for treasure finds them with a 
+trove of artifacts.
+
+The Orcs, who control the wild lands of the west. They worship the 
+mighty Red Dragon dragon.  
+
+Players take turns, buying artifacts to use in battle, recruiting 
+forces and moving armies to collect gold and capture castles. All
+while a horde of wild dragons move through the land, decimating 
+everything that comes before them.
+
+Battle plans are made in secret and simultaneously revealed. Magic
+artifacts are used to support your armies,
+Even
+the winner of a battle can suffer terrible attrition.
+
+Deals made publicly between players are magically bound, and must
+be honored, if possible. This, along with the tremendous cost of
+battle, adds a strong political component to the game.
+
+Players may ally and share their advantages, but there can still be 
+only one winner. The first player to end a turn controlling 3 or 
+more castles has won the game. If there is no winner after 8 turns, 
+then the Red Dragon still rules the land, and it's patron, the Orcs, 
+win the game.
+
+
+Details & Links
 ---------------
 
 The game is version 1.2.
@@ -36,6 +76,7 @@ Web: <http://dragondune.inkfox.org>
 PDF: <http://pdf.dragondune.inkfox.org>
 
 Booklet: <http://booklet.dragondune.inkfox.org>
+
 
 What You Need to Play:
 ----------------------
@@ -126,8 +167,7 @@ Special:
 Elves (♥):
 -----------------------
 
-The ancient Elves have vast arcane knowledge, but they will need to be
-clever to turn knowledge into gain.
+The ancient Elves have magical knowledge of future events.
 
 Start With: 5 Gold, 1 Artifact.
 
@@ -347,7 +387,7 @@ II. Event Round:
     -   In response to the appearance of the Red Dragon, a Great Council 
         is called immediately. This is the only time players may form or
         break alliances. The Great Council continues until all players 
-        have passed or formed an alliance.
+        have passed or formed an alliance. Players may have only one ally.
     -   The dragon marker does NOT go to the Red Dragons location. The
         dragon marker is only moved on the dragon round.
         
