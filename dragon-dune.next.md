@@ -63,9 +63,10 @@ win the game.
 Details & Links
 ---------------
 
-The game is version 1.2.
+The game is version 1.3.
 
-This game is licensed Creative Commons Share-Alike 4.0.
+This game is licensed Creative Commons Share-Alike 4.0,
+by the Dragon Dune Game Group.
 
 Contact: <dragon.dune.game@gmail.com>
 
@@ -393,9 +394,9 @@ II. Event Round:
         
 3.  Reveal another Event Card and place it place it the top of the 
     discard pile.
-4.  Gold is placed on that location, unless the dragon marker is at
-    that location. If the dragon marker is at that location, then
-    no gold is placed this turn.
+4.  Gold is placed on that location, in the amount indicated by that 
+    location, unless the dragon marker is at that location. If the dragon 
+    marker is at that location, then no gold is placed this turn.
 
 ![](art/card-pickup.png)
 
