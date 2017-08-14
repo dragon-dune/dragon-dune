@@ -66,7 +66,7 @@ Details & Links
 The game is version 1.3.
 
 This game is licensed Creative Commons Share-Alike 4.0,
-by the Dragon Dune Game Group.
+by Vincent von Guard.
 
 Contact: <dragon.dune.game@gmail.com>
 
