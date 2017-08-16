@@ -646,3 +646,6 @@ source community.
     https://opengameart.org/content/overworld-tiles-0
 -   Throne king icon (by Delapouite under CC BY 3.0)
     http://game-icons.net/delapouite/originals/throne-king.html
+-   LO-FI 8x8 Fantasy Tiles (by Oryx under CC-BY-NC-ND)
+    https://forums.tigsource.com/index.php?topic=8970.0
+
