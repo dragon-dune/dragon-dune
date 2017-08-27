@@ -15,17 +15,57 @@ iron out some of these idiosyncrasies, but they got rid of things like
 binding agreements, which seem as fundamentally important to a political 
 wheeling-and-dealing game like Dune.
 
-This is an attempt to make a resource light game in the style of Dune,
-that is friendlier to beginners, easier logistically (4 players instead
-of 6), with greater rule clarity, and with a strong sense of theme
-(taking place in a fantasy setting).
 
 About This Game
 ---------------
 
-The game is version 1.2.
+This is a open-source, resource light game in the style of Avalon-Hill's
+Dune board game, that is friendlier to beginners, faster, easier 
+logistically (4 players instead of 6), with greater rule clarity, and a 
+strong sense of theme.
 
-This game is licensed Creative Commons Share-Alike 4.0.
+Four factions fight to control the of the land of the Red Dragon: 
+
+The Dwarves, who sell their treasury of artifacts to the highest 
+bidder to fund their armies. 
+
+The Elves, cunning and mysterious, who possess arcane magic that 
+reveals future events.
+
+The Goblins, who's bloodthirsty mercenaries fight for gold, even 
+against their own king. Their thirst for treasure finds them with a 
+trove of artifacts.
+
+The Orcs, who control the wild lands of the west. They worship the 
+mighty Red Dragon.  
+
+Players take turns, buying artifacts to use in battle, recruiting 
+forces and moving armies to collect gold and capture castles. All
+while a horde of wild dragons move through the land, decimating 
+everything that comes before them.
+
+Battle plans are made in secret and simultaneously revealed. Magic
+artifacts are used to support your armies. Even the winner of a 
+battle can suffer terrible attrition.
+
+Deals made publicly between players are magically bound, and must
+be honored, if possible. This, along with the tremendous cost of
+battle, adds a strong political component to the game.
+
+Players may ally and share their advantages, but there can still be 
+only one winner. The first player to end a turn controlling 3 or 
+more castles has won the game. If there is no winner after 6 turns, 
+then the Red Dragon still rules the land, and it's patron, the Orcs, 
+win the game.
+
+
+Details & Links
+---------------
+
+The game is version 1.3.
+
+This game is licensed Creative Commons Share-Alike 4.0,
+by Vincent von Guard.
 
 Contact: <dragon.dune.game@gmail.com>
 
@@ -36,6 +76,12 @@ Web: <http://dragondune.inkfox.org>
 PDF: <http://pdf.dragondune.inkfox.org>
 
 Booklet: <http://booklet.dragondune.inkfox.org>
+
+This is an attempt to make a resource light game in the style of Dune,
+that is friendlier to beginners, easier logistically (4 players instead
+of 6), with greater rule clarity, and with a strong sense of theme
+(taking place in a fantasy setting).
+
 
 What You Need to Play:
 ----------------------
@@ -90,6 +136,7 @@ Special Rules:
     then the Troll Marker is also removed.
 11. Players may exchange gold at any time and for any reason, although players 
     may never exchange artifacts.
+12. The game lasts for 6 turns.
 
 * * *
 
@@ -283,20 +330,23 @@ Setup:
 
 1.  The board is set up. Players place their starting units.
 2.  One player is picked at random to be the Stating Player.
-3.  The Dragon Marker is placed. Roll the die three times and add the 
-    numbers. This is the starting location of the Dragon Marker.
-4.  Place the Troll Marker on 3★. 
-3.  Each player is given the King of their faction from the deck.
+3.  The Dragon Marker is placed. Roll the die and multiply the number
+    by three, then roll the die again and add that amount. This is the 
+    starting location of the Dragon Marker.
+4.  Place the Troll Marker on 3★.
+5.  If any other factions are not being played, place a Troll Marker
+    in place of their starting units.
+6.  Each player is given the King of their faction from the deck.
     They place this card face up in front of them. This is their
     graveyard. This is the only card that has to be shown. All other
     cards may be kept secret until used.
-4.  Each player is dealt one of the Queens face down. Players may look
+7.  Each player is dealt one of the Queens face down. Players may look
     at them.
-5.  Each player is dealt one of the Jacks face down. Players may look
+8.  Each player is dealt one of the Jacks face down. Players may look
     at them.
-6.  Each player is dealt one artifact card face down. Players may look
+9.  Each player is dealt one artifact card face down. Players may look
     at them.
-7.  The Goblins are given a second artifact card face down, which they
+10. The Goblins are given a second artifact card face down, which they
     may look at.
 
 ![](art/dragon-head.png)
@@ -351,9 +401,9 @@ II. Event Round:
         
 3.  Reveal another Event Card and place it place it the top of the 
     discard pile.
-4.  Gold is placed on that location, unless the dragon marker is at
-    that location. If the dragon marker is at that location, then
-    no gold is placed this turn.
+4.  Gold is placed on that location, in the amount indicated by that 
+    location, unless the dragon marker is present. If the dragon 
+    marker is at that location, then no gold is placed this turn.
 
 ![](art/card-pickup.png)
 
@@ -492,9 +542,9 @@ VI. Collection Round:
 ---------------------
 
 1.  All players receive 1 gold.
-2.  Players collect gold from any territories they control. They can
-    collect two gold for every unit in the territory, up to the amount
-    of gold in the territory.
+2.  For any gold on the board, the player whom controls the territory 
+    the gold is in may collect two gold from the board for every unit 
+    in the territory, up to the amount of gold in the territory.
 4.  If players wish, they may discard some or all of their artifacts.
 
 ![](art/throne-king.png)
@@ -506,7 +556,7 @@ VII. Victory Round:
 1.  The next player (in player order) after the current Starting Player
     becomes the Starting Player for the next turn.
 2.  If any player controls three castles then they have won the game.
-3.  If 8 turns have passed without a winner, then the Orcs win.
+3.  If 6 turns have passed without a winner, then the Orcs win.
 
     -   If the Orcs are not playing, then whomever has the most castles
         wins. If there is a tie, then the tied players may fight with any 
@@ -527,9 +577,10 @@ balance the game.
 -   Orcish Plunder: The Orcs may steal artifacts. When they win a battle, 
     they may take one of your opponents artifacts (randomly chosen), 
     which they may then keep or discard for a reward of 1 gold.
--   Dwarven Elite Warriors: The Dwarves are fierce warriors. They have two 
-    special units, which act as normal units in every way except that 
-    each unit counts as two units for the purpose of combat.
+-   Dwarven Elite Warriors: The Dwarves are fierce warriors. Two of their
+    ten units are special units, which act as normal units in every way 
+    except that each unit counts as two units for the purpose of combat
+    (worth 4 battle points each, instead of the 2 for regular units).
 -   Elven Blessing: After the Elves have lost 3 units in combat, they are
     given the power to invoke a blessing for one battle once per turn that 
     gives them an bonus battle point and makes it so they can not be 
@@ -559,6 +610,9 @@ Players may discard 2 Special Cards to:
 
 Balancing Options:
 ==================
+
+The Goblins may be to powerful, and if this is found to be the case, 
+then all players should receive an additional conscription.
 
 An easy way to balance the game is to give a player more gold or to give
 them a greater reserve of units (for example, having 12 units available 
@@ -600,3 +654,5 @@ source community.
     https://opengameart.org/content/overworld-tiles-0
 -   Throne king icon (by Delapouite under CC BY 3.0)
     http://game-icons.net/delapouite/originals/throne-king.html
+-   LO-FI 8x8 Fantasy Tiles (by Oryx under CC-BY-NC-ND)
+    https://forums.tigsource.com/index.php?topic=8970.0
