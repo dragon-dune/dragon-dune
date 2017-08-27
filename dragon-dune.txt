@@ -25,18 +25,15 @@ strong sense of theme.
 
 Four factions fight to control the of the land of the Red Dragon:
 
-The Dwarves, who sell their treasury of artifacts to the highest bidder
-to fund their armies.
-
-The Elves, cunning and mysterious, who possess arcane magic that reveals
-future events.
-
-The Goblins, who's bloodthirsty mercenaries fight for gold, even against
-their own king. Their thirst for treasure finds them with a trove of
-artifacts.
-
-The Orcs, who control the wild lands of the west. They worship the
-mighty Red Dragon.
+-   The Dwarves, who sell their treasury of artifacts to the highest
+    bidder to fund their armies.
+-   The Elves, cunning and mysterious, who possess arcane magic that
+    reveals future events.
+-   The Goblins, who's bloodthirsty mercenaries fight for gold, even
+    against their own king. Their thirst for treasure finds them with a
+    trove of artifacts.
+-   The Orcs, who control the wild lands of the west. They worship the
+    mighty Red Dragon.
 
 Players take turns, buying artifacts to use in battle, recruiting forces
 and moving armies to collect gold and capture castles. All while a horde
