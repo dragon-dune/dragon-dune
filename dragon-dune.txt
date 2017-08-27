@@ -655,6 +655,14 @@ source community.
     http://game-icons.net/delapouite/originals/throne-king.html
 -   LO-FI 8x8 Fantasy Tiles (by Oryx under CC-BY-NC-ND)
     https://forums.tigsource.com/index.php?topic=8970.0
+-   Battle axe icon (by Lorc under CC BY 3.0)
+    http://game-icons.net/lorc/originals/battle-axe.html
+-   Wood club icon (by Delapouite under CC BY 3.0)
+    http://game-icons.net/delapouite/originals/wood-club.html
+-   Bow arrow icon (by Delapouite under CC BY 3.0)
+    http://game-icons.net/delapouite/originals/bow-arrow.html
+-   Sacrificial dagger icon (by Lorc under CC BY 3.0)
+    http://game-icons.net/lorc/originals/sacrificial-dagger.html
 
 Dragon-Dune Text Board
 ======================
