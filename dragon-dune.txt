@@ -129,7 +129,8 @@ Special Rules:
     removed, then the Troll Marker is also removed.
 11. Players may exchange gold at any time and for any reason, although
     players may never exchange artifacts.
-12. The game lasts for 6 turns.
+12. Units taking part in a battle are worth two battle points per unit.
+13. The game lasts for 6 turns.
 
 ------------------------------------------------------------------------
 
@@ -157,8 +158,9 @@ Special:
     as a Sabotaged Artifact (Jack). So, if they had the Queen of Spades
     and the Jack of Hearts, they could also play as though they had the
     Queen of Hearts and the Jack of Spades.
-3.  Special Card (Ace): You may use an ace as a Sabotaged
-    Artifact (Jack) of the same suit.
+3.  Special Card (Ace): In the Recruitment and Movement round, the
+    Dwarves may discard a Special Card to remove 2 units from
+    their graveyard.
 4.  Alliance Power: Your ally pays half value (rounded up)
     for artifacts.
 
@@ -189,8 +191,9 @@ Special:
     not exist. Hidden units may only come out of hiding if they move
     into a empty territory or at the beginning of the Recruitment and
     Movement round.
-5.  Special Card (Ace): In the Recruitment and Movement round, may
-    discard a Special Card to remove 2 units from your graveyard.
+5.  Special Card (Ace): Elves may ask both the color of their opponent's
+    artifact card and ask how many units their opponent sending in to
+    battle before selecting their own card and units.
 6.  Alliance Power: Your ally may ask question before a battle just as
     the elves do.
 
@@ -307,6 +310,15 @@ Players may discard a Special Cards to:
     next turn's Recruitment and Movement round (at the same time that
     the elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
+6.  May be played to stop the Elves from asking a battle question.
+7.  May be played to stop the Orcs from surviving a Red
+    Dragon encounter.
+8.  May be played to stop the Goblins from disbanding units at the
+    beginning of the Movement and Recruitment round (they may still
+    disband at the end of the round).
+9.  May be used to stop the Dwarves from using their Queen card as a
+    Sabotaged Artifact and their Jack card as a Usurper.
+10. Note: Special Cards cannot cancel out another special card action.
 
 ------------------------------------------------------------------------
 
