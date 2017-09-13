@@ -100,7 +100,7 @@ Board:
 
 ![](art/dragon-dune_board_small.png)
 
-Special Rules:
+Rules of Note:
 --------------
 
 1.  Territory 0• (in the middle of the board) is the Great Mountain 
@@ -134,9 +134,12 @@ Special Rules:
 11. Players may exchange gold at any time and for any reason, although players 
     may never exchange artifacts.
 12. Units taking part in a battle are worth two battle points per unit.
-13. The game lasts for 6 turns.
+13. Players get one movement and one recrutement per round, unless another
+    special effect allows it.
+14. The game lasts for 6 turns.
 
 * * *
+
 
 Factions:
 =========
