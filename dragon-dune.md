@@ -264,6 +264,7 @@ Special:
 10. Alliance Power: Your ally may remove 3 units from the graveyard
     and may conscript 2 units a turn.
 
+
 * * *
 
 ![](art/poker-hand.png)
@@ -316,14 +317,21 @@ Players may discard a Special Cards to:
     turn's Recruitment and Movement round (at the same time that the
     elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
-6.  May be played to stop the Elves from asking a battle question.
-7.  May be played to stop the Orcs from surviving a Red Dragon encounter.
-8.  May be played to stop the Goblins from disbanding units at the beginning
-    of the Movement and Recruitment round (they may still disband at the end
-    of the round).
-9.  May be used to stop the Dwarves from using their Queen card as a Sabotaged
+
+Special Cards may also be used to negate certan special ablitities:
+
+1.  May be played to stop the Elves (or ally) from asking a battle question.
+2.  May be played to stop the Orcs from surviving a Red Dragon encounter.
+3.  May be played to stop the Goblins  (or ally) from disbanding units at the 
+    beginning of the Movement and Recruitment round (they may still disband at 
+    the end of the round).
+4.  May be used to stop the Dwarves from using their Queen card as a Sabotaged
     Artifact and their Jack card as a Usurper.
-10. Note: Special Cards cannot cancel out another special card action.
+
+Note: Special Cards cannot negate another special card action. So, for example, 
+you could stop the elves from asking a battle question (per their normal power), 
+but you could not stop them from using a Special Card to ask two battle quesitons.
+
 
 * * *
 
@@ -674,6 +682,8 @@ source community.
     http://game-icons.net/delapouite/originals/bow-arrow.html
 -   Sacrificial dagger icon (by Lorc under CC BY 3.0)
     http://game-icons.net/lorc/originals/sacrificial-dagger.html
+-   Diablo skull icon (by Lorc under CC BY 3.0)
+    http://game-icons.net/lorc/originals/diablo-skull.html
 
     
     
