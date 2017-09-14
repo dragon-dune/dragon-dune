@@ -100,7 +100,7 @@ Board:
 
 ![](art/dragon-dune_board_small.png)
 
-Special Rules:
+Rules of Note:
 --------------
 
 1.  Territory 0• (in the middle of the board) is the Great Mountain 
@@ -134,9 +134,12 @@ Special Rules:
 11. Players may exchange gold at any time and for any reason, although players 
     may never exchange artifacts.
 12. Units taking part in a battle are worth two battle points per unit.
-13. The game lasts for 6 turns.
+13. Players get one movement and one recruitment per round, unless another
+    special effect allows it.
+14. The game lasts for 6 turns.
 
 * * *
+
 
 Factions:
 =========
@@ -254,12 +257,14 @@ Special:
     same location.
 7.  The Orcs may remove 3 units from the graveyard on their Recruitment
     and Movement round (instead of 2 units).
-8.  If no player has won at the end of the game, then Orcs are the
+8.  Units are removed from the graveyard at no cost.
+9.  If no player has won at the end of the game, then Orcs are the
     default winner.
-9.  Special Card (Ace): In the Dragon Round, you may move one stack of
+10. Special Card (Ace): In the Dragon Round, you may move one stack of
     units to any location.
-10. Alliance Power: Your ally may remove 3 units from the graveyard
-    and may conscript 2 units a turn.
+11. Alliance Power: Your ally may remove 1 additional unit from the 
+    graveyard at no cost. Your ally may conscript 1 additional unit a turn.
+
 
 * * *
 
@@ -313,14 +318,21 @@ Players may discard a Special Cards to:
     turn's Recruitment and Movement round (at the same time that the
     elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
-6.  May be played to stop the Elves from asking a battle question.
-7.  May be played to stop the Orcs from surviving a Red Dragon encounter.
-8.  May be played to stop the Goblins from disbanding units at the beginning
-    of the Movement and Recruitment round (they may still disband at the end
-    of the round).
-9.  May be used to stop the Dwarves from using their Queen card as a Sabotaged
+
+Special Cards may also be used to negate certain special abilities:
+
+1.  May be played to stop the Elves (or ally) from asking a battle question.
+2.  May be played to stop the Orcs from surviving a Red Dragon encounter.
+3.  May be played to stop the Goblins  (or ally) from disbanding units at the 
+    beginning of the Movement and Recruitment round (they may still disband at 
+    the end of the round).
+4.  May be used to stop the Dwarves from using their Queen card as a Sabotaged
     Artifact and their Jack card as a Usurper.
-10. Note: Special Cards cannot cancel out another special card action.
+
+Note: Special Cards cannot negate another special card action. So, for example, 
+you could stop the elves from asking a battle question (per their normal power), 
+but you could not stop them from using a Special Card to ask two battle questions.
+
 
 * * *
 
@@ -404,7 +416,7 @@ II. Event Round:
         break alliances. The Great Council continues until all players 
         have passed or formed an alliance.
     -   The dragon marker does NOT go to the Red Dragons location. The
-        dragon marker is only moved on the dragon round.
+        dragon marker is only moved on the Dragon round.
         
 3.  Reveal another Event Card and place it place it the top of the 
     discard pile.
@@ -446,10 +458,12 @@ All non-elven hidden units come out of hiding.
 Then, starting with the Starting Player, and the proceeding in player 
 order, all players may (in the following order):
 
-1.  The current player may remove 2 units from the players graveyard.
+1.  The current player may remove up to 2 units from the players graveyard.
 
-    -  On the Orcs (and their ally's) turn, they may remove 3 units from 
-       the graveyard.
+    -  The first unit removed is free. The second unit removed costs 1 gold.
+    -  On the Orcs (and their ally's) turn, they may remove an additional free
+       unit from the graveyard (up to a total of 3 units).
+    -  The Orcs do not need to pay to have units removed from their graveyard.
 
 2.  If the current player is the Goblins (or their ally) they may 
     disband some or all of the units in one territory. Disbanded units 
@@ -469,7 +483,7 @@ order, all players may (in the following order):
     -   rounded up.
     -   The Goblin's payment is made to the bank.
     -   The Orcs may not hire mercenaries. Instead, they my raise armies 
-        in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2s) at no cost.
+        in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2•) at no cost.
     -   If the Orcs are allied with the Goblins then they may hire goblin
         mercenaries to any valid location at the usual rate, or may raise 
         armies in the Orcish territories, but they may not do both.
@@ -520,6 +534,7 @@ the following (in the following order):
     the battle. For each unit sent into battle the army receives two
     points of battle value.
 4.  Players reveal the size of their armies and their artifacts selected.
+    Note that players may choose not to select an Artifact to use in battle.
 5.  For each color (red and black), whomever played the lower numbered
     artifact of that color, gets that amount added to their battle value.
     If two artifacts of the same color are played, the higher valued 
@@ -568,7 +583,9 @@ VII. Victory Round:
     -   If the Orcs are not playing, then whomever has the most castles
         wins. If there is a tie, then the tied players may fight with any 
         units already present in 0• (normally a neutral territory),
-        with the winner of the battle winning the game.
+        with the winner of the battle winning the game. If there is still
+        winner, then the first of the tied players in player order is the
+        winner.
         
 4.  If then game has not ended, then it goes back to the Dragon Round.
 
@@ -671,9 +688,12 @@ source community.
     http://game-icons.net/delapouite/originals/bow-arrow.html
 -   Sacrificial dagger icon (by Lorc under CC BY 3.0)
     http://game-icons.net/lorc/originals/sacrificial-dagger.html
+-   Diablo skull icon (by Lorc under CC BY 3.0)
+    http://game-icons.net/lorc/originals/diablo-skull.html
 
     
-    Dragon-Dune Text Board
+    
+Dragon-Dune Text Board
 ======================
 
     Key: 
