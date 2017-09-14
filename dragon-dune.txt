@@ -1,4 +1,3 @@
-![](art/A_Girl_and_her_Wyvern.png)
 
 Dragon Dune
 ===========
@@ -56,7 +55,7 @@ Dragon still rules the land, and it's patron, the Orcs, win the game.
 Details & Links
 ---------------
 
-The game is version 1.3.
+The game is version 1.4.
 
 This game is licensed Creative Commons Share-Alike 4.0, by Vincent von
 Guard.
@@ -94,7 +93,6 @@ What You Need to Play:
 Board:
 ======
 
-![](art/dragon-dune_board_small.png)
 
 Rules of Note:
 --------------
@@ -139,7 +137,6 @@ Rules of Note:
 Factions:
 =========
 
-![](art/dwarf_portrait.png)
 
 Dwarves (♦):
 ------------
@@ -166,7 +163,6 @@ Special:
 4.  Alliance Power: Your ally pays half value (rounded up)
     for artifacts.
 
-![](art/elf_portrait.png)
 
 Elves (♥):
 ----------
@@ -199,7 +195,6 @@ Special:
 6.  Alliance Power: Your ally may ask question before a battle just as
     the elves do.
 
-![](art/goblin_portrait.png)
 
 Goblins (♣):
 ------------
@@ -229,7 +224,6 @@ Special:
     mercenaries (even the Orcs may do this) and you may disband units at
     the beginning of the movement round.
 
-![](art/orc_portrait.png)
 
 Orcs (♠):
 ---------
@@ -265,7 +259,6 @@ Special:
 
 ------------------------------------------------------------------------
 
-![](art/poker-hand.png)
 
 Cards:
 ======
@@ -294,7 +287,6 @@ Cards:
 
     -   Event Cards (7 to 10, All Suits)
 
-![](art/ace.png)
 
 Special Card Actions:
 ---------------------
@@ -315,7 +307,7 @@ Players may discard a Special Cards to:
     the elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
 
-Special Cards may also be used to negate certain special abilities:
+Special Cards may also be discarded to negate certain special abilities:
 
 1.  May be played to stop the Elves (or ally) from asking a
     battle question.
@@ -337,7 +329,6 @@ Card to ask two battle questions.
 How To Play:
 ============
 
-![](art/red_dragon1.png)
 
 Rounds:
 =======
@@ -366,7 +357,6 @@ Setup:
 10. The Goblins are given a second artifact card face down, which they
     may look at.
 
-![](art/dragon-head.png)
 
 I. Dragon Round:
 ----------------
@@ -391,7 +381,6 @@ I. Dragon Round:
     units at or move units through or to a territory with the
     dragon marker.
 
-![](art/locked-chest.png)
 
 II. Event Round:
 ----------------
@@ -414,7 +403,7 @@ II. Event Round:
         break alliances. The Great Council continues until all players
         have passed or formed an alliance.
     -   The dragon marker does NOT go to the Red Dragons location. The
-        dragon marker is only moved on the Dragon round.
+        dragon marker is only moved on the Dragon Round.
 
 3.  Reveal another Event Card and place it place it the top of the
     discard pile.
@@ -422,7 +411,6 @@ II. Event Round:
     location, unless the dragon marker is present. If the dragon marker
     is at that location, then no gold is placed this turn.
 
-![](art/card-pickup.png)
 
 III. Bidding Round:
 -------------------
@@ -446,7 +434,6 @@ maximum number of cards. For each card up for bid, one at a time.
 5.  At the end of the Bidding Round, the Elves are shown the next
     event card.
 
-![](art/mounted-knight.png)
 
 IV. Recruitment and Movement Rounds:
 ------------------------------------
@@ -521,7 +508,6 @@ order, all players may (in the following order):
     then the Troll Marker is also removed.
 8.  Then the whole process repeats for the next player in player order.
 
-![](art/crossed-swords.png)
 
 V. Battle Round:
 ----------------
@@ -565,7 +551,6 @@ do the following (in the following order):
 10. This process continues until all battles for a player are resolved.
 11. Then the whole process repeats for the next player in player order.
 
-![](art/coins.png)
 
 VI. Collection Round:
 ---------------------
@@ -576,7 +561,6 @@ VI. Collection Round:
     the territory, up to the amount of gold in the territory.
 3.  If players wish, they may discard some or all of their artifacts.
 
-![](art/throne-king.png)
 
 VII. Victory Round:
 -------------------

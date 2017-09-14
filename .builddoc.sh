@@ -19,6 +19,7 @@ pandoc dragon-dune.md -o dragon-dune_unformatted.odt
 # make text
 pandoc dragon-dune.md -o dragon-dune.txt
 cat "dragon-dune board (text).txt" >> dragon-dune.txt
+sed -i '/^[@!]/ d' dragon-dune.txt
 
 # set to dos newlines
 unix2dos *.txt

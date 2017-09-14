@@ -59,7 +59,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is version 1.3.
+The game is version 1.4.
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -319,7 +319,7 @@ Players may discard a Special Cards to:
     elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
 
-Special Cards may also be used to negate certain special abilities:
+Special Cards may also be discarded to negate certain special abilities:
 
 1.  May be played to stop the Elves (or ally) from asking a battle question.
 2.  May be played to stop the Orcs from surviving a Red Dragon encounter.
@@ -379,7 +379,7 @@ I. Dragon Round:
     the same numerical value, so the dragon would go to both 1★ and 1
     when the dragon was at 1. 
 
-    - Note that the dragon marker never moves to territory 0•
+    -   Note that the dragon marker never moves to territory 0•
 
 2.  Any units or gold the dragon marker encounters as it moves 
     through the board that are not in a castle or forest are 
@@ -416,7 +416,7 @@ II. Event Round:
         break alliances. The Great Council continues until all players 
         have passed or formed an alliance.
     -   The dragon marker does NOT go to the Red Dragons location. The
-        dragon marker is only moved on the Dragon round.
+        dragon marker is only moved on the Dragon Round.
         
 3.  Reveal another Event Card and place it place it the top of the 
     discard pile.
@@ -438,8 +438,8 @@ maximum number of cards. For each card up for bid, one at a time.
 2.  Players, starting with the Starting Bidder, bid on card.
 3.  The winner receives the card and pays the Dwarves.
 
-    - If the Dwarves win the artifact, their payment is payed to the bank.
-    - The winner may play a Special Card to avoid paying.
+    -   If the Dwarves win the artifact, their payment is payed to the bank.
+    -   The winner may play a Special Card to avoid paying.
 
 4.  The whole process repeats for the next player in player order.
     For each card, the next player after the current Starting Bidder 
