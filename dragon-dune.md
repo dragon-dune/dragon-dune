@@ -59,7 +59,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is version 1.3.
+The game is version 1.4.
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
