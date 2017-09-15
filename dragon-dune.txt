@@ -55,7 +55,7 @@ Dragon still rules the land, and it's patron, the Orcs, win the game.
 Details & Links
 ---------------
 
-The game is version 1.4.
+The game is the revised edition (version 1.4).
 
 This game is licensed Creative Commons Share-Alike 4.0, by Vincent von
 Guard.
@@ -121,15 +121,15 @@ Rules of Note:
     power. Alliances can only be formed or broken during a Great Council
     after a Red Dragon. (This is a change from Dune, which allows to
     players to share a victory.)
-10. Players placing units in the same territory as the Troll Marker (3★)
+10. Players get one movement and one recruitment per round, unless
+    another special effect allows it.
+11. Players placing units in the same territory as the Troll Marker (3★)
     lose 5 units in that territory at the end of their movement round.
     If there are still units in the territory after the units are
     removed, then the Troll Marker is also removed.
-11. Players may exchange gold at any time and for any reason, although
+12. Players may exchange gold at any time and for any reason, although
     players may never exchange artifacts.
-12. Units taking part in a battle are worth two battle points per unit.
-13. Players get one movement and one recruitment per round, unless
-    another special effect allows it.
+13. Units taking part in a battle are worth two battle points per unit.
 14. The game lasts for 6 turns.
 
 ------------------------------------------------------------------------
@@ -248,7 +248,8 @@ Special:
     same location.
 7.  The Orcs may remove 3 units from the graveyard on their Recruitment
     and Movement round (instead of 2 units).
-8.  Units are removed from the graveyard at no cost.
+8.  Units are removed from the graveyard at no cost (instead of only
+    receiving 1 free revival).
 9.  If no player has won at the end of the game, then Orcs are the
     default winner.
 10. Special Card (Ace): In the Dragon Round, you may move one stack of
@@ -547,7 +548,8 @@ do the following (in the following order):
     artifact their opponent played, then they may declare their
     treachery and automatically win the battle, taking no losses. The
     loser removes all units from the territory (even those not used in
-    the battle), and discards any artifacts used in the battle.
+    the battle), and discards any artifacts used in the battle. The
+    winner also receives two gold.
 10. This process continues until all battles for a player are resolved.
 11. Then the whole process repeats for the next player in player order.
 
@@ -582,8 +584,8 @@ VII. Victory Round:
 
 ------------------------------------------------------------------------
 
-Advanced Faction Powers:
-========================
+Optional Advanced Faction Powers:
+=================================
 
 What could be more Dune-like than having optional rules that no one can
 agree on. Here are additional faction powers that may add depth or help
@@ -605,8 +607,8 @@ balance the game.
     Recruitment and Movement round at any time, regardless of
     player order.
 
-Advanced Special Card Actions:
-==============================
+Optional Advanced Special Card Actions:
+=======================================
 
 Players may discard 2 Special Cards to:
 
@@ -682,6 +684,8 @@ source community.
     http://game-icons.net/lorc/originals/sacrificial-dagger.html
 -   Diablo skull icon (by Lorc under CC BY 3.0)
     http://game-icons.net/lorc/originals/diablo-skull.html
+-   Crown coin icon (by Lorc under CC BY 3.0)
+    http://game-icons.net/lorc/originals/crown-coin.html
 
 Dragon-Dune Text Board
 ======================

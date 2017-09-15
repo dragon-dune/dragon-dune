@@ -59,7 +59,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is version 1.4.
+The game is the revised edition (version 1.4).
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -92,6 +92,7 @@ What You Need to Play:
 7.  One Troll Marker
 8.  One Dragon Marker
 9.  One First Player Marker
+
 
 * * *
 
@@ -127,19 +128,19 @@ Rules of Note:
     Alliances can only be formed or broken during a Great Council after
     a Red Dragon.
     (This is a change from Dune, which allows to players to share a victory.)
-10. Players placing units in the same territory as the Troll Marker (3★)
+10. Players get one movement and one recruitment per round, unless another
+    special effect allows it.
+11. Players placing units in the same territory as the Troll Marker (3★)
     lose 5 units in that territory at the end of their movement round.
     If there are still units in the territory after the units are removed,
     then the Troll Marker is also removed.
-11. Players may exchange gold at any time and for any reason, although players 
+12. Players may exchange gold at any time and for any reason, although players 
     may never exchange artifacts.
-12. Units taking part in a battle are worth two battle points per unit.
-13. Players get one movement and one recruitment per round, unless another
-    special effect allows it.
+13. Units taking part in a battle are worth two battle points per unit.
 14. The game lasts for 6 turns.
 
-* * *
 
+* * *
 
 Factions:
 =========
@@ -257,7 +258,8 @@ Special:
     same location.
 7.  The Orcs may remove 3 units from the graveyard on their Recruitment
     and Movement round (instead of 2 units).
-8.  Units are removed from the graveyard at no cost.
+8.  Units are removed from the graveyard at no cost (instead of only
+    receiving 1 free revival).
 9.  If no player has won at the end of the game, then Orcs are the
     default winner.
 10. Special Card (Ace): In the Dragon Round, you may move one stack of
@@ -368,6 +370,7 @@ Setup:
 10. The Goblins are given a second artifact card face down, which they
     may look at.
 
+
 ![](art/dragon-head.png)
 
 I. Dragon Round:
@@ -392,6 +395,7 @@ I. Dragon Round:
 4.  In the Recruitment and Movement round, players may never recruit 
     units at or move units through or to a territory with the dragon 
     marker.
+
 
 ![](art/locked-chest.png)
 
@@ -424,6 +428,7 @@ II. Event Round:
     location, unless the dragon marker is present. If the dragon 
     marker is at that location, then no gold is placed this turn.
 
+
 ![](art/card-pickup.png)
 
 III. Bidding Round:
@@ -447,6 +452,7 @@ maximum number of cards. For each card up for bid, one at a time.
 5.  At the end of the Bidding Round, the Elves are shown the next event 
     card.
 
+
 ![](art/mounted-knight.png)
 
 IV. Recruitment and Movement Rounds:
@@ -460,10 +466,10 @@ order, all players may (in the following order):
 
 1.  The current player may remove up to 2 units from the players graveyard.
 
-    -  The first unit removed is free. The second unit removed costs 1 gold.
-    -  On the Orcs (and their ally's) turn, they may remove an additional free
-       unit from the graveyard (up to a total of 3 units).
-    -  The Orcs do not need to pay to have units removed from their graveyard.
+    -   The first unit removed is free. The second unit removed costs 1 gold.
+    -   On the Orcs (and their ally's) turn, they may remove an additional free
+        unit from the graveyard (up to a total of 3 units).
+    -   The Orcs do not need to pay to have units removed from their graveyard.
 
 2.  If the current player is the Goblins (or their ally) they may 
     disband some or all of the units in one territory. Disbanded units 
@@ -471,7 +477,7 @@ order, all players may (in the following order):
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
 
-    -  On the Orcs (and their ally's) turn they may conscript 2 units.
+    -   On the Orcs (and their ally's) turn they may conscript 2 units.
     
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
@@ -513,7 +519,8 @@ order, all players may (in the following order):
 7.  If a player placed units in the same territory as the Troll Marker, 
     then 5 units in that territory are removed. If there are still units 
     then the Troll Marker is also removed.
-7.  Then the whole process repeats for the next player in player order.
+8.  Then the whole process repeats for the next player in player order.
+
 
 ![](art/crossed-swords.png)
 
@@ -554,9 +561,11 @@ the following (in the following order):
     artifact their opponent played, then they may declare their
     treachery and automatically win the battle, taking no losses. The
     loser removes all units from the territory (even those not used in
-    the battle), and discards any artifacts used in the battle.
+    the battle), and discards any artifacts used in the battle. The winner 
+    also receives two gold.
 10. This process continues until all battles for a player are resolved.
 11. Then the whole process repeats for the next player in player order.
+
 
 ![](art/coins.png)
 
@@ -567,7 +576,7 @@ VI. Collection Round:
 2.  For any gold on the board, the player whom controls the territory 
     the gold is in may collect two gold from the board for every unit 
     in the territory, up to the amount of gold in the territory.
-4.  If players wish, they may discard some or all of their artifacts.
+3.  If players wish, they may discard some or all of their artifacts.
 
 ![](art/throne-king.png)
 
@@ -575,10 +584,10 @@ VII. Victory Round:
 -------------------
 
 1.  The next player in player order becomes the Emperor.
-1.  The next player (in player order) after the current Starting Player
+2.  The next player (in player order) after the current Starting Player
     becomes the Starting Player for the next turn.
-2.  If any player controls three castles then they have won the game.
-3.  If 6 turns have passed without a winner, then the Orcs win.
+3.  If any player controls three castles then they have won the game.
+4.  If 6 turns have passed without a winner, then the Orcs win.
 
     -   If the Orcs are not playing, then whomever has the most castles
         wins. If there is a tie, then the tied players may fight with any 
@@ -587,12 +596,12 @@ VII. Victory Round:
         winner, then the first of the tied players in player order is the
         winner.
         
-4.  If then game has not ended, then it goes back to the Dragon Round.
+5.  If then game has not ended, then it goes back to the Dragon Round.
 
 * * *
 
-Advanced Faction Powers:
-========================
+Optional Advanced Faction Powers:
+=================================
 
 What could be more Dune-like than having optional rules that no one can 
 agree on. Here are additional faction powers that may add depth or help
@@ -612,8 +621,8 @@ balance the game.
 -   Goblin Initiative: The Goblins may take their turn in the Recruitment 
     and Movement round at any time, regardless of player order.
 
-Advanced Special Card Actions:
-==============================
+Optional Advanced Special Card Actions:
+=======================================
 
 Players may discard 2 Special Cards to:
 
@@ -690,6 +699,8 @@ source community.
     http://game-icons.net/lorc/originals/sacrificial-dagger.html
 -   Diablo skull icon (by Lorc under CC BY 3.0)
     http://game-icons.net/lorc/originals/diablo-skull.html
+-   Crown coin icon (by Lorc under CC BY 3.0)
+    http://game-icons.net/lorc/originals/crown-coin.html   
 
     
     
