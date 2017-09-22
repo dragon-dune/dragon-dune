@@ -59,7 +59,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is the revised edition (version 1.4).
+The game is the revised edition (version 1.5).
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -106,7 +106,7 @@ Rules of Note:
 
 1.  Territory 0• (in the middle of the board) is the Great Mountain 
     and is neutral territory. Players will never battle in territory 0•.
-2.  Forrest territories are represented by • (such as 16•). Units in a 
+2.  Forest territories are represented by • (such as 16•). Units in a 
     forest territory are safe from dragon attack.
 3.  Castle territories are represented by ★ (such as 10★). Players need 
     to control 3 castles to win the game. Units in a castle are safe from 
@@ -119,7 +119,8 @@ Rules of Note:
 6.  Players may never have more than 10 units between on the board and
     the player's graveyard at any one time.
 7.  No more than two players may have units in a castle at one time.
-    This does not count hidden units.
+    Note that hidden units and the troll token do not count as units
+    for the purpose of this limit.
 8.  Public agreements made in the game are binding and must be carried
     out, if possible. Public agreements can only be broken if all parties 
     involved terminate the agreement.
@@ -131,7 +132,7 @@ Rules of Note:
 10. Players get one movement and one recruitment per round, unless another
     special effect allows it.
 11. Players placing units in the same territory as the Troll Marker (3★)
-    lose 5 units in that territory at the end of their movement round.
+    lose 4 units in that territory at the end of their movement round.
     If there are still units in the territory after the units are removed,
     then the Troll Marker is also removed.
 12. Players may exchange gold at any time and for any reason, although players 
@@ -440,7 +441,9 @@ One card is placed up for bid for each player that does not have their
 maximum number of cards. For each card up for bid, one at a time.
 
 1.  The Elves, and only the Elves, are shown the card.
-2.  Players, starting with the Starting Bidder, bid on card.
+2.  Players, starting with the Starting Bidder, bid on card. Note that 
+    players may continue to bid even if previously they had passed on 
+    the card.
 3.  The winner receives the card and pays the Dwarves.
 
     -   If the Dwarves win the artifact, their payment is payed to the bank.
@@ -517,7 +520,7 @@ order, all players may (in the following order):
     territory. Disbanded units are removed from the board, but do not go 
     to the graveyard.
 7.  If a player placed units in the same territory as the Troll Marker, 
-    then 5 units in that territory are removed. If there are still units 
+    then 4 units in that territory are removed. If there are still units 
     then the Troll Marker is also removed.
 8.  Then the whole process repeats for the next player in player order.
 
