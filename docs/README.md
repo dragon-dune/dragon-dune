@@ -19,7 +19,7 @@ wheeling-and-dealing game like Dune.
 About This Game
 ---------------
 
-This is a open-source, resource light game in the style of Avalon-Hill's
+This is an open-source, resource light game in the style of Avalon-Hill's
 Dune board game, that is friendlier to beginners, faster, easier 
 logistically (4 players instead of 6), with greater rule clarity, and a 
 strong sense of theme.
