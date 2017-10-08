@@ -59,7 +59,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is the revised edition (version 1.5).
+The game is the **2nd Revision** edition (version 1.6).
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -131,8 +131,8 @@ Rules of Note:
     (This is a change from Dune, which allows to players to share a victory.)
 10. Players get one movement and one recruitment per round, unless another
     special effect allows it.
-11. Players placing units in the same territory as the Troll Marker (3★)
-    lose 4 units in that territory at the end of their movement round.
+11. All players placing units in the same territory as the Troll Marker (3★)
+    lose 4 units in that territory at the end of the Movement Round.
     If there are still units in the territory after the units are removed,
     then the Troll Marker is also removed.
 12. Players may exchange gold at any time and for any reason, although players 
@@ -169,7 +169,8 @@ Special:
     Queen of Hearts and the Jack of Spades.
 3.  Special Card (Ace): In the Recruitment and Movement round, the Dwarves
     may discard a Special Card to remove 2 units from their graveyard.
-4.  Alliance Power: Your ally pays half value (rounded up) for artifacts.
+4.  Alliance Power: Your ally receives one free artifact card per turn.
+
 
 ![](art/elf_portrait.png)
 
@@ -221,18 +222,21 @@ Special:
 
 1.  Goblins collect all gold spent on hiring Goblin mercenaries. Gold
     spent by the Goblins on mercenaries goes to the bank.
-2.  The Goblins (and their ally) pay half price (rounded up) for
+2.  The Goblins (and their ally) pay half price (rounded down) for
     Goblin mercenaries.
 3.  When the Goblins win an artifact cards, they get a second artifact
     card that is hidden from the Elves.
 4.  The Goblins may have up to 8 artifact cards (instead of 4).
 5.  The Goblins (and their ally) may disband units at the beginning of 
     the movement round (instead of at the end).
-6.  Special Card (Ace): You may discard a special card to stop a player 
+6.  The Goblins (and their ally) may disband units for free (instead of
+    one gold per token).
+    the movement round (instead of at the end).
+7.  Special Card (Ace): You may discard a special card to stop a player 
     from hiring Goblin mercenaries that turn.
-7.  Alliance Power: Your ally may may half price (rounded up) for Goblin 
-    mercenaries (even the Orcs may do this) and you may disband units at 
-    the beginning of the movement round.
+8.  Alliance Power: Your ally may may half price (rounded down) for Goblin 
+    mercenaries (even the Orcs may do this); you may disband units at 
+    the beginning of the movement round; you may disband units for free.
 
 ![](art/orc_portrait.png)
 
@@ -351,24 +355,25 @@ Setup:
 ------
 
 1.  The board is set up. Players place their starting units.
-2.  One player is picked at random to be the Stating Player.
-3.  The Dragon Marker is placed. Roll the die and multiply the number
+2.  If there are any Oracles, they make their victory predictions.
+3.  One player is picked at random to be the Stating Player.
+4.  The Dragon Marker is placed. Roll the die and multiply the number
     by three, then roll the die again and add that amount. This is the 
     starting location of the Dragon Marker.
-4.  Place the Troll Marker on 3★.
-5.  If any other factions are not being played, place a Troll Marker
+5.  Place the Troll Marker on 3★.
+6.  If any other factions are not being played, place a Troll Marker
     in place of their starting units.
-6.  Each player is given the King of their faction from the deck.
+7.  Each player is given the King of their faction from the deck.
     They place this card face up in front of them. This is their
     graveyard. This is the only card that has to be shown. All other
     cards may be kept secret until used.
-7.  Each player is dealt one of the Queens face down. Players may look
+8.  Each player is dealt one of the Queens face down. Players may look
     at them.
-8.  Each player is dealt one of the Jacks face down. Players may look
+9.  Each player is dealt one of the Jacks face down. Players may look
     at them.
-9.  Each player is dealt one artifact card face down. Players may look
+10. Each player is dealt one artifact card face down. Players may look
     at them.
-10. The Goblins are given a second artifact card face down, which they
+11. The Goblins are given a second artifact card face down, which they
     may look at.
 
 
@@ -448,6 +453,7 @@ maximum number of cards. For each card up for bid, one at a time.
 
     -   If the Dwarves win the artifact, their payment is payed to the bank.
     -   The winner may play a Special Card to avoid paying.
+    -   The ally of the Dwarves my elect (on one card per turn) not to pay.
 
 4.  The whole process repeats for the next player in player order.
     For each card, the next player after the current Starting Bidder 
@@ -470,12 +476,12 @@ order, all players may (in the following order):
 1.  The current player may remove up to 2 units from the players graveyard.
 
     -   The first unit removed is free. The second unit removed costs 1 gold.
-    -   On the Orcs (and their ally's) turn, they may remove an additional free
-        unit from the graveyard (up to a total of 3 units).
+    -   On the Orcs (and their ally's) turn, they may remove an additional   
+        free unit from the graveyard (up to a total of 3 units).
     -   The Orcs do not need to pay to have units removed from their graveyard.
 
-2.  If the current player is the Goblins (or their ally) they may 
-    disband some or all of the units in one territory. Disbanded units 
+2.  If the current player is the Goblins (or their ally) they may disband 
+    some or all of the units in one territory at no cost. Disbanded units 
     are removed from the board, but do not go to the graveyard.
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
@@ -488,8 +494,8 @@ order, all players may (in the following order):
 
     -   Goblin mercenaries may not be hired in any territory where the
         dragon marker is present.
-    -   Payments made by the Goblins (and their ally) are half price, 
-    -   rounded up.
+    -   Payments made by the Goblins (and their ally) are half price   
+        (rounded down).
     -   The Goblin's payment is made to the bank.
     -   The Orcs may not hire mercenaries. Instead, they my raise armies 
         in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2•) at no cost.
@@ -517,12 +523,12 @@ order, all players may (in the following order):
         player's units.
 
 6.  The current player may disband some, or all, of the units in one 
-    territory. Disbanded units are removed from the board, but do not go 
-    to the graveyard.
-7.  If a player placed units in the same territory as the Troll Marker, 
-    then 4 units in that territory are removed. If there are still units 
-    then the Troll Marker is also removed.
-8.  Then the whole process repeats for the next player in player order.
+    territory at the cost of one gold per token. Disbanded units are 
+    removed from the board, but do not go to the graveyard.
+7.  Then the whole process repeats for the next player in player order.
+8.  After all players have taken their turns, then each player with units 
+    in the same territory as the Troll Marker has 4 units removed from that 
+    territory. If there are still units then the Troll Marker is also removed.
 
 
 ![](art/crossed-swords.png)
@@ -603,6 +609,23 @@ VII. Victory Round:
 
 * * *
 
+Optional Gameplay Mechanic:
+===========================
+
+Oracles
+-------
+
+Before the game, players may decide to have have one or more Oracles. 
+If a player is an Oracle then they secretly record the faction that predict 
+to win the game, the turn they will win the game, and one castle that they 
+will control when they win. Neither an Oracle victory or an Orc 6th round 
+default victory may be predicted.
+
+If the Oracle is correct in their prediction, then they are the winner. If
+two or more Oracles have predicted the win, then the player whose victory
+they predicted is the winner.
+
+
 Optional Advanced Faction Powers:
 =================================
 
@@ -623,6 +646,7 @@ balance the game.
     sabotaged for that battle.
 -   Goblin Initiative: The Goblins may take their turn in the Recruitment 
     and Movement round at any time, regardless of player order.
+
 
 Optional Advanced Special Card Actions:
 =======================================
