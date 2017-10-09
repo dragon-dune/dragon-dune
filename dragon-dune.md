@@ -230,8 +230,7 @@ Special:
 5.  The Goblins (and their ally) may disband units at the beginning of 
     the movement round (instead of at the end).
 6.  The Goblins (and their ally) may disband units for free (instead of
-    one gold per token).
-    the movement round (instead of at the end).
+    one gold per unit).
 7.  Special Card (Ace): You may discard a special card to stop a player 
     from hiring Goblin mercenaries that turn.
 8.  Alliance Power: Your ally may may half price (rounded down) for Goblin 
