@@ -55,7 +55,7 @@ Dragon still rules the land, and it's patron, the Orcs, win the game.
 Details & Links
 ---------------
 
-The game is the **2nd Revision** edition (version 1.6).
+The game is the **3rd Revision** edition (version 1.7).
 
 This game is licensed Creative Commons Share-Alike 4.0, by Vincent von
 Guard.
@@ -390,10 +390,9 @@ I. Dragon Round:
 II. Event Round:
 ----------------
 
-1.  One card is revealed from the Event Deck. If the color of the
-    revealed event card is the same color as the event card at the top
-    of the discard pile, then the Red Dragon has appeared (after which
-    you can place the revealed card a the bottom of the Event Deck).
+1.  One card is revealed from the Event Deck. If it is a red card, then
+    the Red Dragon appears. This card is then placed at the bottom of
+    the Event Deck (not in the discard pile).
 
 2.  If the Red Dragon has appeared, then:
 
@@ -550,7 +549,7 @@ do the following (in the following order):
 6.  The player with the highest battle value wins the battle. In the
     case of a tie, the attacker wins.
 7.  The winner removes all units used in an army in the battle.
-8.  The loser removes all tokens from the territory, regardless of
+8.  The loser removes all units from the territory, regardless of
     whether or not they took part in the battle. The loser also discards
     all artifact cards used.
 9.  If a player who took part in the battle has a their opponent as
