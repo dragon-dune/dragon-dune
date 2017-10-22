@@ -9,11 +9,12 @@ This was formally called Dragons, Usurpers, and Empires (DU&E),
 but the Internet hates ampersands.
 
 So, let’s justify this thing's existence. Dune is a great game, but it
-has its drawbacks. The rules are kind of ambiguous. It can take a while
-to play. It can be tough to get 6 players together. Rex attempted to 
-iron out some of these idiosyncrasies, but they removed things like 
-binding agreements, which seem fundamentally important to a political 
-wheeling-and-dealing game like Dune.
+has its drawbacks. It's been out of print for 30+ years. The rules are 
+kind of ambiguous. It can take a while to play. It can be tough to 
+get 6 players together. Rex attempted to iron out some of these 
+idiosyncrasies, but they removed things like binding agreements, which 
+seem fundamentally important to a political wheeling-and-dealing game 
+like Dune.
 
 
 About This Game
