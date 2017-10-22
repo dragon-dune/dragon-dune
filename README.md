@@ -450,6 +450,8 @@ maximum number of cards. For each card up for bid, one at a time.
 3.  The winner receives the card and pays the Dwarves.
 
     -   If the Dwarves win the artifact, their payment is payed to the bank.
+    -   If the Goblins win the artifact, they receive a second artifact
+        that is not revealed to the Elves.
     -   The winner may play a Special Card to avoid paying.
     -   The ally of the Dwarves my elect (on one card per turn) not to pay.
 
