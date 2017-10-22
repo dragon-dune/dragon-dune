@@ -590,11 +590,10 @@ VI. Collection Round:
 VII. Victory Round:
 -------------------
 
-1.  The next player in player order becomes the Emperor.
-2.  The next player (in player order) after the current Starting Player
+1.  The next player (in player order) after the current Starting Player
     becomes the Starting Player for the next turn.
-3.  If any player controls three castles then they have won the game.
-4.  If 6 turns have passed without a winner, then the Orcs win.
+2.  If any player controls three castles then they have won the game.
+3.  If 6 turns have passed without a winner, then the Orcs win.
 
     -   If the Orcs are not playing, then whomever has the most castles
         wins. If there is a tie, then the tied players may fight with any 
@@ -603,7 +602,8 @@ VII. Victory Round:
         winner, then the first of the tied players in player order is the
         winner.
         
-5.  If then game has not ended, then it goes back to the Dragon Round.
+4.  If then game has not ended, then it goes back to the Dragon Round.
+
 
 * * *
 
