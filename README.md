@@ -195,11 +195,12 @@ Special:
     and units.
 3.  At the beginning of the Recruitment and Movement Round, the Elves
     may see what the next event card will be.
-4.  Elven units may go into hiding in a territory in order to
-    escape conflict. Hidden units act in every way as though they did
-    not exist. Hidden units may only come out of hiding if they move
-    into a empty territory or at the beginning of the Recruitment and 
-    Movement round.
+4.  Elven units may go into hiding in a territory in order to escape 
+    conflict. Hidden units act in every way as though they did not exist. 
+    So, for example, they may not engage in combat, collect gold, be 
+    attacked by the Troll, or control a castle. Hidden units may only 
+    come out of hiding at the beginning of the Recruitment and Movement 
+    round or by moving into a territory where their units are not hiding.
 5.  Special Card (Ace): Elves may ask both the color of their opponent's 
     artifact card and ask how many units their opponent sending in to 
     battle before selecting their own card and units.
@@ -314,7 +315,7 @@ Aces are considered Special Cards.
 Players may discard a Special Cards to:
 
 1.  Not pay for an artifact card in the bidding round.
-2.  Pay half of regular price for mercenaries in the Bidding and 
+2.  Pay half of regular price (rounded down) for mercenaries in the Bidding and 
     Recruitment round.
 3.  Move through one additional territory with your moved units in
     in the Bidding and Recruitment round.
@@ -470,6 +471,18 @@ IV. Recruitment and Movement Rounds:
 The Elves must declare if any of their units are coming out of hiding.
 All non-elven hidden units come out of hiding.
 
+Notes on Hidden Units:
+
+-   The Elves (or a player with a Special Card) must declare if their
+    units go into hiding as soon as they share the territory with another
+    player's units or with the Troll. They may not decide to go into 
+    hiding after the fact.
+-   If a player conscripts, moves, or recruits units into a territory where 
+    they already have units, then they must have the same status (hidden 
+    or unhidden) as the units that were already in the territory. If hidden 
+    units are moved into an empty territory then they may elect to come
+    out of hiding.
+
 Then, starting with the Starting Player, and the proceeding in player 
 order, all players may (in the following order):
 
@@ -484,7 +497,8 @@ order, all players may (in the following order):
     some or all of the units in one territory at no cost. Disbanded units 
     are removed from the board, but do not go to the graveyard.
 3.  The current player may conscript 1 units from the bank onto
-    any territory where they already have a unit. This action is free.    
+    any territory where they already have a unit. This action is free.
+    If hidden units are involved see "Notes on Hidden Units."
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
     into any other territory. The payment is made directly to the Goblins.
@@ -499,11 +513,9 @@ order, all players may (in the following order):
     -   If the Orcs are allied with the Goblins then they may hire goblin
         mercenaries to any valid location at the usual rate, or may raise 
         armies in the Orcish territories, but they may not do both.
-    -   The player may play a Special Card to pay half the standard price, 
-        rounded up.
-    -   The Elves (or a player with a Special Card) must declare if their
-        units go into hiding if they now share the territory with another
-        player's units.
+    -   The player may play a Special Card to pay half the standard price 
+        (rounded down).
+    -   See "Notes on Hidden Units."
 
 5.  The current player may move some or all units from one location
     through two territories.
@@ -515,17 +527,16 @@ order, all players may (in the following order):
         or 5★) then they may move through four territories.
     -   The player may play a Special Card to extend their movement 
         range by 1 territory.
-    -   The Elves (or a player with a Special Card) must declare if their
-        units go into hiding if they now share the territory with another
-        player's units.
+    -   See "Notes on Hidden Units."
 
 6.  The current player may disband some, or all, of the units in one 
     territory at the cost of one gold per token. Disbanded units are 
     removed from the board, but do not go to the graveyard.
-7.  Then the whole process repeats for the next player in player order.
-8.  After all players have taken their turns, then each player with units 
-    in the same territory as the Troll Marker has 4 units removed from that 
-    territory. If there are still units then the Troll Marker is also removed.
+7.  The whole process repeats for the next player in player order.
+
+After all players have taken their turns, then each player with units 
+in the same territory as the Troll Marker has 4 units removed from that 
+territory. If there are still units then the Troll Marker is also removed.
 
 
 ![](art/crossed-swords.png)
