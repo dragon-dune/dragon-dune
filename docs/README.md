@@ -498,7 +498,6 @@ order, all players may (in the following order):
     are removed from the board, but do not go to the graveyard.
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
-    If hidden units are involved see "Notes on Hidden Units."
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
     into any other territory. The payment is made directly to the Goblins.
@@ -515,7 +514,6 @@ order, all players may (in the following order):
         armies in the Orcish territories, but they may not do both.
     -   The player may play a Special Card to pay half the standard price 
         (rounded down).
-    -   See "Notes on Hidden Units."
 
 5.  The current player may move some or all units from one location
     through two territories.
@@ -527,7 +525,6 @@ order, all players may (in the following order):
         or 5★) then they may move through four territories.
     -   The player may play a Special Card to extend their movement 
         range by 1 territory.
-    -   See "Notes on Hidden Units."
 
 6.  The current player may disband some, or all, of the units in one 
     territory at the cost of one gold per token. Disbanded units are 

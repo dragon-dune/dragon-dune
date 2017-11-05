@@ -118,11 +118,11 @@ Rules of Note:
 8.  Public agreements made in the game are binding and must be carried
     out, if possible. Public agreements can only be broken if all
     parties involved terminate the agreement.
-9.  Players may form alliances, but there can still be only one
-    winning player. Forming an alliance grants your ally an alliance
-    power. Alliances can only be formed or broken during a Great Council
-    after a Red Dragon. (This is a change from Dune, which allows to
-    players to share a victory.)
+9.  Players may form alliances, but there can still be only one winning
+    player. Forming an alliance grants your ally an alliance power.
+    Alliances can only be formed or broken during a Great Council after
+    a Red Dragon. (This is a change from Dune, which allows to players
+    to share a victory.)
 10. Players get one movement and one recruitment per round, unless
     another special effect allows it.
 11. All players placing units in the same territory as the Troll Marker
@@ -152,16 +152,15 @@ Starting Units: None.
 
 Special:
 
-1.  The Dwarves collect all gold spent by other players on on
-    artifact cards. Gold spent by the Dwarves on artifact cards goes to
-    the bank.
+1.  The Dwarves collect all gold spent by other players on on artifact
+    cards. Gold spent by the Dwarves on artifact cards goes to the bank.
 2.  The Dwarves may use their Jack as a Usurper (Queen) and their Queen
     as a Sabotaged Artifact (Jack). So, if they had the Queen of Spades
     and the Jack of Hearts, they could also play as though they had the
     Queen of Hearts and the Jack of Spades.
 3.  Special Card (Ace): In the Recruitment and Movement round, the
-    Dwarves may discard a Special Card to remove 2 units from
-    their graveyard.
+    Dwarves may discard a Special Card to remove 2 units from their
+    graveyard.
 4.  Alliance Power: Your ally receives one free artifact card per turn.
 
 
@@ -177,21 +176,21 @@ Starting Units: 5 units in 5★.
 
 Special:
 
-1.  The Elves may see the artifact that is up for bid before
-    bidding begins.
+1.  The Elves may see the artifact that is up for bid before bidding
+    begins.
 2.  In battle with the Elves (or their ally), the Elves may ask the
     color of their opponent's artifact card or to ask how many units
     their opponent sending in to battle before selecting their own card
     and units.
 3.  At the beginning of the Recruitment and Movement Round, the Elves
     may see what the next event card will be.
-4.  Elven units may go into hiding in a territory in order to
-    escape conflict. Hidden units act in every way as though they did
-    not exist. So, for example, they may not engage in combat, collect
-    gold, be attacked by the Troll, or control a castle. Hidden units
-    may only come out of hiding at the beginning of the Recruitment and
-    Movement round or by moving into a territory where their units are
-    not hiding.
+4.  Elven units may go into hiding in a territory in order to escape
+    conflict. Hidden units act in every way as though they did not
+    exist. So, for example, they may not engage in combat, collect gold,
+    be attacked by the Troll, or control a castle. Hidden units may only
+    come out of hiding at the beginning of the Recruitment and Movement
+    round or by moving into a territory where their units are not
+    hiding.
 5.  Special Card (Ace): Elves may ask both the color of their opponent's
     artifact card and ask how many units their opponent sending in to
     battle before selecting their own card and units.
@@ -306,18 +305,18 @@ Players may discard a Special Cards to:
 3.  Move through one additional territory with your moved units in in
     the Bidding and Recruitment round.
 4.  Make your units in one territory hidden for one turn. This must be
-    done as soon as the units share a territory with another
-    player's units. The units come out of hiding at the the beginning of
-    next turn's Recruitment and Movement round (at the same time that
-    the elves choose to stay hidden or not).
+    done as soon as the units share a territory with another player's
+    units. The units come out of hiding at the the beginning of next
+    turn's Recruitment and Movement round (at the same time that the
+    elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
 
 Special Cards may also be discarded to negate certain special abilities:
 
-1.  May be played to stop the Elves (or ally) from asking a
-    battle question.
-2.  May be played to stop the Orcs from surviving a Red
-    Dragon encounter.
+1.  May be played to stop the Elves (or ally) from asking a battle
+    question.
+2.  May be played to stop the Orcs from surviving a Red Dragon
+    encounter.
 3.  May be played to stop the Goblins (or ally) from disbanding units at
     the beginning of the Movement and Recruitment round (they may still
     disband at the end of the round).
@@ -356,8 +355,8 @@ Setup:
     kept secret until used.
 8.  Each player is dealt one of the Queens face down. Players may look
     at them.
-9.  Each player is dealt one of the Jacks face down. Players may look
-    at them.
+9.  Each player is dealt one of the Jacks face down. Players may look at
+    them.
 10. Each player is dealt one artifact card face down. Players may look
     at them.
 11. The Goblins are given a second artifact card face down, which they
@@ -376,16 +375,16 @@ I. Dragon Round:
     -   Note that the dragon marker never moves to territory 0•
 
 2.  Any units or gold the dragon marker encounters as it moves through
-    the board that are not in a castle or forest are removed form
-    the game.
+    the board that are not in a castle or forest are removed form the
+    game.
 
     -   Note that Orcs only take half losses, rounded up.
 
 3.  When the dragon marker reaches territory 18, it will next move to
     the 1★ and 1.
 4.  In the Recruitment and Movement round, players may never recruit
-    units at or move units through or to a territory with the
-    dragon marker.
+    units at or move units through or to a territory with the dragon
+    marker.
 
 
 II. Event Round:
@@ -431,19 +430,19 @@ maximum number of cards. For each card up for bid, one at a time.
     the card.
 3.  The winner receives the card and pays the Dwarves.
 
-    -   If the Dwarves win the artifact, their payment is payed to
-        the bank.
+    -   If the Dwarves win the artifact, their payment is payed to the
+        bank.
     -   If the Goblins win the artifact, they receive a second artifact
         that is not revealed to the Elves.
     -   The winner may play a Special Card to avoid paying.
-    -   The ally of the Dwarves my elect (on one card per turn) not
-        to pay.
+    -   The ally of the Dwarves my elect (on one card per turn) not to
+        pay.
 
 4.  The whole process repeats for the next player in player order. For
     each card, the next player after the current Starting Bidder (in
     player order) becomes the next Starting Bidder.
-5.  At the end of the Bidding Round, the Elves are shown the next
-    event card.
+5.  At the end of the Bidding Round, the Elves are shown the next event
+    card.
 
 
 IV. Recruitment and Movement Rounds:
@@ -460,9 +459,9 @@ Notes on Hidden Units:
     into hiding after the fact.
 -   If a player conscripts, moves, or recruits units into a territory
     where they already have units, then they must have the same status
-    (hidden or unhidden) as the units that were already in
-    the territory. If hidden units are moved into an empty territory
-    then they may elect to come out of hiding.
+    (hidden or unhidden) as the units that were already in the
+    territory. If hidden units are moved into an empty territory then
+    they may elect to come out of hiding.
 
 Then, starting with the Starting Player, and the proceeding in player
 order, all players may (in the following order):
@@ -477,15 +476,14 @@ order, all players may (in the following order):
 
 2.  If the current player is the Goblins (or their ally) they may
     disband some or all of the units in one territory at no cost.
-    Disbanded units are removed from the board, but do not go to
-    the graveyard.
+    Disbanded units are removed from the board, but do not go to the
+    graveyard.
 3.  The current player may conscript 1 units from the bank onto any
-    territory where they already have a unit. This action is free. If
-    hidden units are involved see "Notes on Hidden Units."
+    territory where they already have a unit. This action is free.
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
-    into any other territory. The payment is made directly to
-    the Goblins.
+    into any other territory. The payment is made directly to the
+    Goblins.
 
     -   Goblin mercenaries may not be hired in any territory where the
         dragon marker is present.
@@ -493,15 +491,14 @@ order, all players may (in the following order):
         (rounded down).
     -   The Goblin's payment is made to the bank.
     -   The Orcs may not hire mercenaries. Instead, they my raise armies
-        in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2•) at
-        no cost.
+        in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2•) at no
+        cost.
     -   If the Orcs are allied with the Goblins then they may hire
         goblin mercenaries to any valid location at the usual rate, or
-        may raise armies in the Orcish territories, but they may not
-        do both.
+        may raise armies in the Orcish territories, but they may not do
+        both.
     -   The player may play a Special Card to pay half the standard
         price (rounded down).
-    -   See "Notes on Hidden Units."
 
 5.  The current player may move some or all units from one location
     through two territories.
@@ -509,11 +506,10 @@ order, all players may (in the following order):
     -   Units may not move through or to any location where the dragon
         marker is present.
     -   The Orcs may move through three territories.
-    -   If the player has access to griffins (if they control of 3★
-        or 5★) then they may move through four territories.
+    -   If the player has access to griffins (if they control of 3★ or
+        5★) then they may move through four territories.
     -   The player may play a Special Card to extend their movement
         range by 1 territory.
-    -   See "Notes on Hidden Units."
 
 6.  The current player may disband some, or all, of the units in one
     territory at the cost of one gold per token. Disbanded units are
@@ -539,9 +535,9 @@ do the following (in the following order):
     the army they will send into battle. The answers to these questions
     are binding.
 3.  Each player secretly records how many units they will send as an
-    army into battle, and they may select one artifact to use in
-    the battle. For each unit sent into battle the army receives two
-    points of battle value.
+    army into battle, and they may select one artifact to use in the
+    battle. For each unit sent into battle the army receives two points
+    of battle value.
 4.  Players reveal the size of their armies and their artifacts
     selected. Note that players may choose not to select an Artifact to
     use in battle.
@@ -588,12 +584,12 @@ VII. Victory Round:
 2.  If any player controls three castles then they have won the game.
 3.  If 6 turns have passed without a winner, then the Orcs win.
 
-    -   If the Orcs are not playing, then whomever has the most
-        castles wins. If there is a tie, then the tied players may fight
-        with any units already present in 0• (normally a neutral
-        territory), with the winner of the battle winning the game. If
-        there is still winner, then the first of the tied players in
-        player order is the winner.
+    -   If the Orcs are not playing, then whomever has the most castles
+        wins. If there is a tie, then the tied players may fight with
+        any units already present in 0• (normally a neutral territory),
+        with the winner of the battle winning the game. If there is
+        still winner, then the first of the tied players in player order
+        is the winner.
 
 4.  If then game has not ended, then it goes back to the Dragon Round.
 
@@ -628,15 +624,15 @@ balance the game.
 -   Dwarven Elite Warriors: The Dwarves are fierce warriors. Two of
     their ten units are special units, which act as normal units in
     every way except that each unit counts as two units for the purpose
-    of combat (worth 4 battle points each, instead of the 2 for
-    regular units).
+    of combat (worth 4 battle points each, instead of the 2 for regular
+    units).
 -   Elven Blessing: After the Elves have lost 3 units in combat, they
     are given the power to invoke a blessing for one battle once per
     turn that gives them an bonus battle point and makes it so they can
     not be sabotaged for that battle.
 -   Goblin Initiative: The Goblins may take their turn in the
-    Recruitment and Movement round at any time, regardless of
-    player order.
+    Recruitment and Movement round at any time, regardless of player
+    order.
 
 Optional Advanced Special Card Actions:
 =======================================
@@ -644,8 +640,8 @@ Optional Advanced Special Card Actions:
 Players may discard 2 Special Cards to:
 
 1.  Make an extra movement during the Recruitment and Movement Round.
-2.  Ask one yes or no question of another player that must be
-    answered honestly.
+2.  Ask one yes or no question of another player that must be answered
+    honestly.
 3.  Cause a chaos monster to be summoned in a battle that player is
     taking part in where an artifact with a value of 6 has been played
     by either (or both) players. The chaos monster, somewhat
@@ -653,8 +649,8 @@ Players may discard 2 Special Cards to:
     as all artifacts used in the battle.
 4.  To destroy the castle walls of one territory, causing that territory
     to no longer be safe from dragon attack on the Dragon Round. The
-    player must have a unit within 1 territory of the territory to
-    be affected.
+    player must have a unit within 1 territory of the territory to be
+    affected.
 5.  To control the dragons on the Dragon Round, causing them to be moved
     an amount selected by the player (between 1 and 6) instead of the
     die roll.
