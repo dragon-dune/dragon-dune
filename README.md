@@ -60,7 +60,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is the **3rd Revision** edition (version 1.7).
+The game is the **4th Revision** (version 1.8).
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -719,8 +719,6 @@ source community.
     https://opengameart.org/content/overworld-tiles-0
 -   Throne king icon (by Delapouite under CC BY 3.0)
     http://game-icons.net/delapouite/originals/throne-king.html
--   LO-FI 8x8 Fantasy Tiles (by Oryx under CC-BY-NC-ND)
-    https://forums.tigsource.com/index.php?topic=8970.0
 -   Battle axe icon (by Lorc under CC BY 3.0)
     http://game-icons.net/lorc/originals/battle-axe.html
 -   Wood club icon (by Delapouite under CC BY 3.0)
