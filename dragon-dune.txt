@@ -674,43 +674,6 @@ Special Thanks:
 
 I would like to thank the creators of Dune and Rex.
 
-I would like to thank artists that make their work available to the open
-source community.
-
--   Jinn’s Icons (by Jinn) https://opengameart.org/content/jinns-icons
--   Wyvern and Girl (by 5hiroi)
-    https://opengameart.org/content/wyvern-and-girl
--   Dragon head icon (by Lorc)
-    http://game-icons.net/lorc/originals/dragon-head.html
--   Crossed swords icon (by Lorc)
-    http://game-icons.net/lorc/originals/crossed-swords.html
--   Locked chest icon (by Lorc)
-    http://game-icons.net/lorc/originals/locked-chest.html
--   Card pickup icon (by Quoting)
-    http://game-icons.net/quoting/originals/card-pickup.html
--   Mounted knight icon (by Skoll)
-    http://game-icons.net/skoll/originals/mounted-knight.html
--   Coins icon (by Delapouite)
-    http://game-icons.net/delapouite/originals/coins.html
--   Poker Hand icon (by Lorc)
-    http://game-icons.net/lorc/originals/poker-hand.html
--   Ace icon (by Lorc) http://game-icons.net/lorc/originals/ace.html
--   Overworld Tiles (by Buch)
-    https://opengameart.org/content/overworld-tiles-0
--   Throne king icon (by Delapouite under CC BY 3.0)
-    http://game-icons.net/delapouite/originals/throne-king.html
--   Battle axe icon (by Lorc under CC BY 3.0)
-    http://game-icons.net/lorc/originals/battle-axe.html
--   Wood club icon (by Delapouite under CC BY 3.0)
-    http://game-icons.net/delapouite/originals/wood-club.html
--   Bow arrow icon (by Delapouite under CC BY 3.0)
-    http://game-icons.net/delapouite/originals/bow-arrow.html
--   Sacrificial dagger icon (by Lorc under CC BY 3.0)
-    http://game-icons.net/lorc/originals/sacrificial-dagger.html
--   Diablo skull icon (by Lorc under CC BY 3.0)
-    http://game-icons.net/lorc/originals/diablo-skull.html
--   Crown coin icon (by Lorc under CC BY 3.0)
-    http://game-icons.net/lorc/originals/crown-coin.html
 
 Dragon-Dune Text Board
 ======================
