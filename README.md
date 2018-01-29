@@ -52,7 +52,7 @@ battle, adds a strong political component to the game.
 
 Players may ally and share their advantages, but there can still be 
 only one winner. The first player to end a turn controlling 3 or 
-more castles has won the game. If there is no winner after 6 turns, 
+more castles has won the game. If there is no winner after 8 turns, 
 then the Red Dragon still rules the land, and it's patron, the Orcs, 
 win the game.
 
@@ -60,7 +60,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is the **4th Revision** (version 1.8).
+The game is the **6th Revision** (version 1.10).
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -139,7 +139,7 @@ Rules of Note:
 12. Players may exchange gold at any time and for any reason, although players 
     may never exchange artifacts.
 13. Units taking part in a battle are worth two battle points per unit.
-14. The game lasts for 6 turns.
+14. The game lasts for 8 turns.
 
 
 * * *
@@ -168,9 +168,10 @@ Special:
     as a Sabotaged Artifact (Jack). So, if they had the Queen of Spades 
     and the Jack of Hearts, they could also play as though they had the 
     Queen of Hearts and the Jack of Spades.
-3.  Special Card (Ace): In the Recruitment and Movement round, the Dwarves
+3.  In battle, the Dwarves add a bonus of 1 battle point to their total.
+4.  Special Card (Ace): In the Recruitment and Movement round, the Dwarves
     may discard a Special Card to remove 2 units from their graveyard.
-4.  Alliance Power: Your ally receives one free artifact card per turn.
+5.  Alliance Power: Your ally receives one free artifact card per turn.
 
 
 ![](art/elf_portrait.png)
@@ -263,13 +264,14 @@ Special:
     same location.
 6.  The Orcs may remove 3 units from the graveyard on their Recruitment
     and Movement round (instead of 2 units).
-7.  The Orcs may remove units from the graveyard at no cost (instead of 
+7.  The Orcs may remove 2 units from the graveyard at no cost (instead of 
     only receiving 1 free revival).
-8.  If no player has won at the end of the game, then Orcs are the
+8.  In battle, the Orcs add a bonus of 1 battle point to their total.
+9.  If no player has won at the end of the game, then Orcs are the
     default winner.
-9.  Special Card (Ace): In the Dragon Round, you may move one stack of
+10. Special Card (Ace): In the Dragon Round, you may move one stack of
     units to any location.
-10. Alliance Power: Your ally may remove 1 additional unit from the 
+11. Alliance Power: Your ally may remove 1 additional unit from the 
     graveyard at no cost.
 
 
@@ -299,6 +301,8 @@ Cards:
 
     -   Special Card (Aces, All Suits)
     -   Artifacts (2 to 6, All Suits)
+        -   Fire Artifacts (Hearts and Diamonds)
+        -   Ice Artifacts (Spades and Clubs)
 
 3.  Event Deck
 
@@ -600,7 +604,7 @@ VII. Victory Round:
 1.  The next player (in player order) after the current Starting Player
     becomes the Starting Player for the next turn.
 2.  If any player controls three castles then they have won the game.
-3.  If 6 turns have passed without a winner, then the Orcs win.
+3.  If 8 turns have passed without a winner, then the Orcs win.
 
     -   If the Orcs are not playing, then whomever has the most castles
         wins. If there is a tie, then the tied players may fight with any 
@@ -614,7 +618,7 @@ VII. Victory Round:
 
 * * *
 
-Optional Gameplay Mechanic:
+Optional Gameplay Mechanics:
 ===========================
 
 Oracles
@@ -630,6 +634,15 @@ If the Oracle is correct in their prediction, then they are the winner. If
 two or more Oracles have predicted the win, then the player whose victory
 they predicted is the winner.
 
+Weaknesses
+----------  
+
+Orcs and Goblins are weak against Ice Artifacts, Elves and Dwarves are 
+weak against Fire Artifacts. In any battle in which your opponent plays
+an Artifact that you are weak against, you lose 2 battle points from 
+your total for that battle.
+
+
 
 Optional Advanced Faction Powers:
 =================================
@@ -639,7 +652,7 @@ agree on. Here are additional faction powers that may add depth or help
 balance the game.
 
 -   Orcish Plunder: The Orcs may steal artifacts. When they win a battle, 
-    they may take one of your opponents artifacts (randomly chosen), 
+    they may take one of their opponents artifacts (randomly chosen), 
     which they may then keep or discard for a reward of 1 gold.
 -   Dwarven Elite Warriors: The Dwarves are fierce warriors. Two of their
     ten units are special units, which act as normal units in every way 
@@ -676,14 +689,17 @@ Players may discard 2 Special Cards to:
 Balancing Options:
 ==================
 
-The Goblins may be to powerful, and if this is found to be the case, 
+The Goblins may be too powerful, and if this is found to be the case, 
 then all players should receive an additional conscription.
 
-An easy way to balance the game is to give a player more gold or to give
-them a greater reserve of units (for example, having 12 units available 
-instead of 10). You could dial forward or back faction abilities, unit 
-regeneration, unit conscription, anything. Really, it's a game. Play it 
-however makes you happy.
+The Orcs may be too powerful, and if this is the case, the Orcs should 
+only be allowed to revive 2 units, instead of 3.
+
+The Dwarves may be too powerful, and if this is the case the Emperor should
+receive 1 less gold for each artifact purchased (the 1 gold goes to the bank).
+
+If the Elves are too powerful, then I don't know. Maybe they start with 5 gold.
+
 
 * * *
 

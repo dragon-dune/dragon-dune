@@ -29,9 +29,9 @@
 <p>Players take turns, buying artifacts to use in battle, recruiting forces and moving armies to collect gold and capture castles. All while a horde of wild dragons move through the land, decimating everything that comes before them.</p>
 <p>Battle plans are made in secret and simultaneously revealed. Magic artifacts are used to support your armies. Even the winner of a battle can suffer terrible attrition.</p>
 <p>Deals made publicly between players are magically bound, and must be honored, if possible. This, along with the tremendous cost of battle, adds a strong political component to the game.</p>
-<p>Players may ally and share their advantages, but there can still be only one winner. The first player to end a turn controlling 3 or more castles has won the game. If there is no winner after 6 turns, then the Red Dragon still rules the land, and it's patron, the Orcs, win the game.</p>
+<p>Players may ally and share their advantages, but there can still be only one winner. The first player to end a turn controlling 3 or more castles has won the game. If there is no winner after 8 turns, then the Red Dragon still rules the land, and it's patron, the Orcs, win the game.</p>
 <h2 id="details-links">Details &amp; Links</h2>
-<p>The game is the <strong>4th Revision</strong> (version 1.8).</p>
+<p>The game is the <strong>6th Revision</strong> (version 1.10).</p>
 <p>This game is licensed Creative Commons Share-Alike 4.0, by Vincent von Guard.</p>
 <p>Contact: <a href="mailto:dragon.dune.game@gmail.com">dragon.dune.game@gmail.com</a></p>
 <p>Github: <a href="https://github.com/dragon-dune/dragon-dune" class="uri">https://github.com/dragon-dune/dragon-dune</a></p>
@@ -72,7 +72,7 @@
 <li>All players placing units in the same territory as the Troll Marker (3★) lose 4 units in that territory at the end of the Movement Round. If there are still units in the territory after the units are removed, then the Troll Marker is also removed.</li>
 <li>Players may exchange gold at any time and for any reason, although players may never exchange artifacts.</li>
 <li>Units taking part in a battle are worth two battle points per unit.</li>
-<li>The game lasts for 6 turns.</li>
+<li>The game lasts for 8 turns.</li>
 </ol>
 <hr />
 <h1 id="factions">Factions:</h1>
@@ -88,6 +88,7 @@
 <ol style="list-style-type: decimal">
 <li>The Dwarves collect all gold spent by other players on on artifact cards. Gold spent by the Dwarves on artifact cards goes to the bank.</li>
 <li>The Dwarves may use their Jack as a Usurper (Queen) and their Queen as a Sabotaged Artifact (Jack). So, if they had the Queen of Spades and the Jack of Hearts, they could also play as though they had the Queen of Hearts and the Jack of Spades.</li>
+<li>In battle, the Dwarves add a bonus of 1 battle point to their total.</li>
 <li>Special Card (Ace): In the Recruitment and Movement round, the Dwarves may discard a Special Card to remove 2 units from their graveyard.</li>
 <li>Alliance Power: Your ally receives one free artifact card per turn.</li>
 </ol>
@@ -143,7 +144,8 @@
 <li>The Orcs take no losses from the Red Dragon, which they worship.</li>
 <li>The Orcs may ride the Red Dragon when it appears, if they are in the same location.</li>
 <li>The Orcs may remove 3 units from the graveyard on their Recruitment and Movement round (instead of 2 units).</li>
-<li>The Orcs may remove units from the graveyard at no cost (instead of only receiving 1 free revival).</li>
+<li>The Orcs may remove 2 units from the graveyard at no cost (instead of only receiving 1 free revival).</li>
+<li>In battle, the Orcs add a bonus of 1 battle point to their total.</li>
 <li>If no player has won at the end of the game, then Orcs are the default winner.</li>
 <li>Special Card (Ace): In the Dragon Round, you may move one stack of units to any location.</li>
 <li>Alliance Power: Your ally may remove 1 additional unit from the graveyard at no cost.</li>
@@ -173,7 +175,11 @@
 <li><p>Artifact Deck</p>
 <ul>
 <li>Special Card (Aces, All Suits)</li>
-<li>Artifacts (2 to 6, All Suits)</li>
+<li>Artifacts (2 to 6, All Suits)
+<ul>
+<li>Fire Artifacts (Hearts and Diamonds)</li>
+<li>Ice Artifacts (Spades and Clubs)</li>
+</ul></li>
 </ul></li>
 <li><p>Event Deck</p>
 <ul>
@@ -358,21 +364,23 @@
 <ol style="list-style-type: decimal">
 <li>The next player (in player order) after the current Starting Player becomes the Starting Player for the next turn.</li>
 <li>If any player controls three castles then they have won the game.</li>
-<li><p>If 6 turns have passed without a winner, then the Orcs win.</p>
+<li><p>If 8 turns have passed without a winner, then the Orcs win.</p>
 <ul>
 <li>If the Orcs are not playing, then whomever has the most castles wins. If there is a tie, then the tied players may fight with any units already present in 0• (normally a neutral territory), with the winner of the battle winning the game. If there is still winner, then the first of the tied players in player order is the winner.</li>
 </ul></li>
 <li><p>If then game has not ended, then it goes back to the Dragon Round.</p></li>
 </ol>
 <hr />
-<h1 id="optional-gameplay-mechanic">Optional Gameplay Mechanic:</h1>
+<h1 id="optional-gameplay-mechanics">Optional Gameplay Mechanics:</h1>
 <h2 id="oracles">Oracles</h2>
 <p>Before the game, players may decide to have have one or more Oracles. If a player is an Oracle then they secretly record the faction that predict to win the game, the turn they will win the game, and one castle that they will control when they win. Neither an Oracle victory or an Orc 6th round default victory may be predicted.</p>
 <p>If the Oracle is correct in their prediction, then they are the winner. If two or more Oracles have predicted the win, then the player whose victory they predicted is the winner.</p>
+<h2 id="weaknesses">Weaknesses</h2>
+<p>Orcs and Goblins are weak against Ice Artifacts, Elves and Dwarves are weak against Fire Artifacts. In any battle in which your opponent plays an Artifact that you are weak against, you lose 2 battle points from your total for that battle.</p>
 <h1 id="optional-advanced-faction-powers">Optional Advanced Faction Powers:</h1>
 <p>What could be more Dune-like than having optional rules that no one can agree on. Here are additional faction powers that may add depth or help balance the game.</p>
 <ul>
-<li>Orcish Plunder: The Orcs may steal artifacts. When they win a battle, they may take one of your opponents artifacts (randomly chosen), which they may then keep or discard for a reward of 1 gold.</li>
+<li>Orcish Plunder: The Orcs may steal artifacts. When they win a battle, they may take one of their opponents artifacts (randomly chosen), which they may then keep or discard for a reward of 1 gold.</li>
 <li>Dwarven Elite Warriors: The Dwarves are fierce warriors. Two of their ten units are special units, which act as normal units in every way except that each unit counts as two units for the purpose of combat (worth 4 battle points each, instead of the 2 for regular units).</li>
 <li>Elven Blessing: After the Elves have lost 3 units in combat, they are given the power to invoke a blessing for one battle once per turn that gives them an bonus battle point and makes it so they can not be sabotaged for that battle.</li>
 <li>Goblin Initiative: The Goblins may take their turn in the Recruitment and Movement round at any time, regardless of player order.</li>
@@ -387,8 +395,10 @@
 <li>To control the dragons on the Dragon Round, causing them to be moved an amount selected by the player (between 1 and 6) instead of the die roll.</li>
 </ol>
 <h1 id="balancing-options">Balancing Options:</h1>
-<p>The Goblins may be to powerful, and if this is found to be the case, then all players should receive an additional conscription.</p>
-<p>An easy way to balance the game is to give a player more gold or to give them a greater reserve of units (for example, having 12 units available instead of 10). You could dial forward or back faction abilities, unit regeneration, unit conscription, anything. Really, it's a game. Play it however makes you happy.</p>
+<p>The Goblins may be too powerful, and if this is found to be the case, then all players should receive an additional conscription.</p>
+<p>The Orcs may be too powerful, and if this is the case, the Orcs should only be allowed to revive 2 units, instead of 3.</p>
+<p>The Dwarves may be too powerful, and if this is the case the Emperor should receive 1 less gold for each artifact purchased (the 1 gold goes to the bank).</p>
+<p>If the Elves are too powerful, then I don't know. Maybe they start with 5 gold.</p>
 <hr />
 <h1 id="special-thanks">Special Thanks:</h1>
 <p>I would like to thank the creators of Dune and Rex.</p>
