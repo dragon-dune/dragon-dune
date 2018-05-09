@@ -95,7 +95,7 @@ What You Need to Play:
 9.  One First Player Marker
 
 
-* * *
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Board:
 ======
@@ -128,8 +128,8 @@ Rules of Note:
 9.  Players may form alliances, but there can still be only one winning
     player. Forming an alliance grants your ally an alliance power.
     Alliances can only be formed or broken during a Great Council after
-    a Red Dragon.
-    (This is a change from Dune, which allows to players to share a victory.)
+    a Red Dragon. (This is a change from Dune, which allows to players 
+    to share a victory.)
 10. Players get one movement and one recruitment per round, unless another
     special effect allows it.
 11. All players placing units in the same territory as the Troll Marker (3★)
@@ -141,8 +141,8 @@ Rules of Note:
 13. Units taking part in a battle are worth two battle points per unit.
 14. The game lasts for 8 turns.
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
-* * *
 
 Factions:
 =========
@@ -168,10 +168,13 @@ Special:
     as a Sabotaged Artifact (Jack). So, if they had the Queen of Spades 
     and the Jack of Hearts, they could also play as though they had the 
     Queen of Hearts and the Jack of Spades.
-3.  In battle, the Dwarves add a bonus of 1 battle point to their total.
+3.  In battle, the Dwarves add a bonus of 2 battle point to their total,
+    unless they are battling the Orcs.
 4.  Special Card (Ace): In the Recruitment and Movement round, the Dwarves
     may discard a Special Card to remove 2 units from their graveyard.
-5.  Alliance Power: Your ally receives one free artifact card per turn.
+5.  Alliance Power: Your ally receives one free artifact card per turn; 
+    your ally receives 1 gold from the bank every turn during the 
+    collection round.
 
 
 ![](art/elf_portrait.png)
@@ -208,6 +211,7 @@ Special:
 6.  Alliance Power: Your ally may ask question before a battle just as
     the elves do.
 
+
 ![](art/goblin_portrait.png)
 
 Goblins (♣):
@@ -240,6 +244,7 @@ Special:
     mercenaries (even the Orcs may do this); you may disband units at 
     the beginning of the movement round; you may disband units for free.
 
+
 ![](art/orc_portrait.png)
 
 Orcs (♠):
@@ -262,17 +267,16 @@ Special:
 4.  The Orcs take no losses from the Red Dragon, which they worship.
 5.  The Orcs may ride the Red Dragon when it appears, if they are in the
     same location.
-6.  The Orcs may remove 3 units from the graveyard on their Recruitment
-    and Movement round (instead of 2 units).
-7.  The Orcs may remove 2 units from the graveyard at no cost (instead of 
-    only receiving 1 free revival).
+6.  The Orcs may remove all 3 units from the graveyard at no cost 
+    (instead of only receiving 1 free removal).
 8.  In battle, the Orcs add a bonus of 1 battle point to their total.
 9.  If no player has won at the end of the game, then Orcs are the
     default winner.
-10. Special Card (Ace): In the Dragon Round, you may move one stack of
-    units to any location.
-11. Alliance Power: Your ally may remove 1 additional unit from the 
-    graveyard at no cost.
+10. Special Card (Ace): In the Dragon Round, you may move some or 
+    all of your units in any one territory to any other location.
+11. Alliance Power: Your ally may remove 2 additional units from the 
+    graveyard at no cost (instead of 1); your ally takes no losses from 
+    the Red Dragon.
 
 
 * * *
@@ -490,16 +494,21 @@ Notes on Hidden Units:
 Then, starting with the Starting Player, and the proceeding in player 
 order, all players may (in the following order):
 
-1.  The current player may remove up to 2 units from the players graveyard.
-    The first unit removed is free. The second unit removed costs 1 gold.
+1.  The current player may remove up to 3 units from the players graveyard.
+    The first unit removed is free. The second and third units removed 
+    costs 1 gold each.
     
-    -   The ally of the Orcs may remove an additional unit from their
+    -   The ally of the Orcs may remove an the second unit from their 
         graveyard at no cost.
     -   The Orcs may remove 3 units from their graveyard at no cost.
 
 2.  If the current player is the Goblins (or their ally) they may disband 
     some or all of the units in one territory at no cost. Disbanded units 
-    are removed from the board, but do not go to the graveyard.
+    are removed from the board, but do not go to the graveyard. 
+    
+    -   Note that disbanding units at the beginning of the turn frees 
+        up units to be recruited at another location in that same turn.
+    
 3.  The current player may conscript 1 units from the bank onto
     any territory where they already have a unit. This action is free.
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
@@ -591,10 +600,12 @@ VI. Collection Round:
 ---------------------
 
 1.  All players receive 1 gold.
-2.  For any gold on the board, the player whom controls the territory 
+2.  Players receive 1 gold for each castle they control.
+3.  For any gold on the board, the player whom controls the territory 
     the gold is in may collect two gold from the board for every unit 
     in the territory, up to the amount of gold in the territory.
-3.  If players wish, they may discard some or all of their artifacts.
+4.  If players wish, they may discard some or all of their artifacts.
+
 
 ![](art/throne-king.png)
 
@@ -638,9 +649,9 @@ Weaknesses
 ----------  
 
 Orcs and Goblins are weak against Ice Artifacts, Elves and Dwarves are 
-weak against Fire Artifacts. In any battle in which your opponent plays
-an Artifact that you are weak against, you lose 2 battle points from 
-your total for that battle.
+weak against Fire Artifacts. In any battle in which your opponent 
+successfully plays an Artifact that you are weak against, you lose 2 
+battle points from your total for that battle.
 
 
 
