@@ -1,5 +1,6 @@
 ![](art/A_Girl_and_her_Wyvern.png)
 
+
 Dragon Dune
 ===========
 
@@ -34,7 +35,7 @@ Four factions fight to control the of the land of the Red Dragon:
 -   The Goblins, who's bloodthirsty mercenaries fight for gold, even 
     against their own king. Their thirst for treasure finds them with a 
     trove of artifacts.
--   The Orcs, who control the wild lands of the west. They worship the 
+-   The Orcs, who control the lands of the west. They worship the 
     mighty Red Dragon.  
 
 Players take turns, buying artifacts to use in battle, recruiting 
@@ -169,7 +170,7 @@ Special:
     and the Jack of Hearts, they could also play as though they had the 
     Queen of Hearts and the Jack of Spades.
 3.  In battle, the Dwarves add a bonus of 2 battle point to their total,
-    unless they are battling the Orcs.
+    unless they are fighting the Orcs.
 4.  Special Card (Ace): In the Recruitment and Movement round, the Dwarves
     may discard a Special Card to remove 2 units from their graveyard.
 5.  Alliance Power: Your ally receives one free artifact card per turn; 
@@ -250,7 +251,7 @@ Special:
 Orcs (♠):
 ----------------------
 
-The Orcs control the wild territories of the west. They worship the
+The Orcs control the territories of the west. They worship the
 mighty Red Dragon.
 
 Start With: 3 Gold, 1 artifact.
@@ -274,9 +275,9 @@ Special:
     default winner.
 10. Special Card (Ace): In the Dragon Round, you may move some or 
     all of your units in any one territory to any other location.
-11. Alliance Power: Your ally may remove 2 additional units from the 
-    graveyard at no cost (instead of 1); your ally takes no losses from 
-    the Red Dragon.
+11. Alliance Power: Your ally may remove 2 units from the 
+    graveyard at no cost (instead of 1 free removal); your ally 
+    takes no losses from the Red Dragon.
 
 
 * * *
@@ -416,11 +417,17 @@ I. Dragon Round:
 II. Event Round:
 ----------------
 
-1.  One card is revealed from the Event Deck. If it is a red card, then 
-    the Red Dragon appears. This card is then placed at the bottom of the 
-    Event Deck (not in the discard pile).
+1.  One card is revealed from the Event Deck. If it is the same suit as
+    the card on the top of the discard pile, then the the Red Dragon
+    appears at that location. 
 
-2.  If the Red Dragon has appeared, then:
+2.  Two gold are placed on the location corresponding to the revealed card,
+    unless the dragon marker is at that location.
+
+3.  The revealed card is then placed at the bottom of the Event Deck (and 
+    not in the discard pile).
+
+4.  If the Red Dragon has appeared, then:
 
     -   The Red Dragon has attacked the territory at the top of the event 
         discard pile (the territory where the previous event took place). 
@@ -435,9 +442,9 @@ II. Event Round:
     -   The dragon marker does NOT go to the Red Dragons location. The
         dragon marker is only moved on the Dragon Round.
         
-3.  Reveal another Event Card and place it place it the top of the 
+5.  Reveal another Event Card and place it place it the top of the 
     discard pile.
-4.  Gold is placed on that location, in the amount indicated by that 
+6.  Gold is placed on that location, in the amount indicated by that 
     location, unless the dragon marker is present. If the dragon 
     marker is at that location, then no gold is placed this turn.
 
@@ -498,9 +505,9 @@ order, all players may (in the following order):
     The first unit removed is free. The second and third units removed 
     costs 1 gold each.
     
-    -   The ally of the Orcs may remove an the second unit from their 
+    -   The ally of the Orcs may remove a the second unit from their 
         graveyard at no cost.
-    -   The Orcs may remove 3 units from their graveyard at no cost.
+    -   The Orcs may remove all 3 units from their graveyard at no cost.
 
 2.  If the current player is the Goblins (or their ally) they may disband 
     some or all of the units in one territory at no cost. Disbanded units 
@@ -521,7 +528,7 @@ order, all players may (in the following order):
         (rounded down).
     -   The Goblin's payment is made to the bank.
     -   The Orcs may not hire mercenaries. Instead, they my raise armies 
-        in Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2•) at no cost.
+        in Orcish territories (16, 16•, 17, 18, 1, 1★, 2, & 2•) at no cost.
     -   If the Orcs are allied with the Goblins then they may hire goblin
         mercenaries to any valid location at the usual rate, or may raise 
         armies in the Orcish territories, but they may not do both.
