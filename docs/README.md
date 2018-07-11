@@ -36,7 +36,7 @@ Four factions fight to control the of the land of the Red Dragon:
     against their own king. Their thirst for treasure finds them with a 
     trove of artifacts.
 -   The Orcs, who control the lands of the west. They worship the 
-    mighty Red Dragon.  
+    mighty Red Dragon.
 
 Players take turns, buying artifacts to use in battle, recruiting 
 forces and moving armies to collect gold and capture castles. All
@@ -427,7 +427,7 @@ II. Event Round:
 3.  The revealed card is then placed at the bottom of the Event Deck (and 
     not in the discard pile).
 
-4.  If the Red Dragon has appeared, then:
+4.  If the Red Dragon appears, then:
 
     -   The Red Dragon has attacked the territory at the top of the event 
         discard pile (the territory where the previous event took place). 
@@ -524,7 +524,7 @@ order, all players may (in the following order):
 
     -   Goblin mercenaries may not be hired in any territory where the
         dragon marker is present.
-    -   Payments made by the Goblins (and their ally) are half price   
+    -   Payments made by the Goblins (and their ally) are half price
         (rounded down).
     -   The Goblin's payment is made to the bank.
     -   The Orcs may not hire mercenaries. Instead, they my raise armies 
@@ -716,7 +716,7 @@ only be allowed to revive 2 units, instead of 3.
 The Dwarves may be too powerful, and if this is the case the Emperor should
 receive 1 less gold for each artifact purchased (the 1 gold goes to the bank).
 
-If the Elves are too powerful, then I don't know. Maybe they start with 5 gold.
+If the Elves are too powerful, then I don't know; maybe they start with 3 gold.
 
 
 * * *
@@ -764,7 +764,7 @@ source community.
 -   Diablo skull icon (by Lorc under CC BY 3.0)
     http://game-icons.net/lorc/originals/diablo-skull.html
 -   Crown coin icon (by Lorc under CC BY 3.0)
-    http://game-icons.net/lorc/originals/crown-coin.html   
+    http://game-icons.net/lorc/originals/crown-coin.html
 
     
     

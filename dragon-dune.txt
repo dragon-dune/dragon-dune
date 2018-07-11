@@ -406,7 +406,7 @@ II. Event Round:
 3.  The revealed card is then placed at the bottom of the Event Deck
     (and not in the discard pile).
 
-4.  If the Red Dragon has appeared, then:
+4.  If the Red Dragon appears, then:
 
     -   The Red Dragon has attacked the territory at the top of the
         event discard pile (the territory where the previous event took
@@ -503,7 +503,7 @@ order, all players may (in the following order):
 
     -   Goblin mercenaries may not be hired in any territory where the
         dragon marker is present.
-    -   Payments made by the Goblins (and their ally) are half price\
+    -   Payments made by the Goblins (and their ally) are half price
         (rounded down).
     -   The Goblin's payment is made to the bank.
     -   The Orcs may not hire mercenaries. Instead, they my raise armies
@@ -693,8 +693,8 @@ The Dwarves may be too powerful, and if this is the case the Emperor
 should receive 1 less gold for each artifact purchased (the 1 gold goes
 to the bank).
 
-If the Elves are too powerful, then I don't know. Maybe they start with
-5 gold.
+If the Elves are too powerful, then I don't know; maybe they start with
+3 gold.
 
 ------------------------------------------------------------------------
 

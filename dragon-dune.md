@@ -716,7 +716,7 @@ only be allowed to revive 2 units, instead of 3.
 The Dwarves may be too powerful, and if this is the case the Emperor should
 receive 1 less gold for each artifact purchased (the 1 gold goes to the bank).
 
-If the Elves are too powerful, then I don't know; maybe they start with 5 gold.
+If the Elves are too powerful, then I don't know; maybe they start with 3 gold.
 
 
 * * *
