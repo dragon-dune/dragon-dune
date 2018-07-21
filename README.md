@@ -90,10 +90,9 @@ What You Need to Play:
 3.  Hidden Unit Markers (10 total)
 4.  Gold Markers (approximately 60 total)
 5.  Deck of Standard Playing Cards
-6.  One Six-Sided Die
-7.  One Troll Marker
-8.  One Dragon Marker
-9.  One First Player Marker
+6.  One Troll Marker
+7.  One Dragon Marker
+8.  One First Player Marker
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -391,11 +390,12 @@ Setup:
 I. Dragon Round:
 ----------------
 
-1.  A six-sided dice is rolled, and the dragon marker is moved from
-    its starting position that amount through the board, in
-    numerical order. The dragon goes through all territories with
-    the same numerical value, so the dragon would go to both 1★ and 1
-    when the dragon was at 1. 
+1.  The top card of the Artifact Deck is revealed. The Dragon Marker is 
+    moved that amount from its starting position through the board, in
+    numerical order. The dragon goes through all territories with the 
+    same numerical value, so the dragon would go to both 1★ and 1 when 
+    the dragon was at 1. The revealed card is then placed in the Artifact
+    discard pile.
 
     -   Note that the dragon marker never moves to territory 0•
 
@@ -417,17 +417,13 @@ I. Dragon Round:
 II. Event Round:
 ----------------
 
-1.  One card is revealed from the Event Deck. If it is the same suit as
-    the card on the top of the discard pile, then the the Red Dragon
-    appears at that location. 
+1.  A first card is revealed from the Event Deck and set aside. Then a 
+    second card is revealed from the Event Deck. If the second card 
+    revealed is the same suit as the card on the top of the discard pile, 
+    then the the Red Dragon appears at the at location of the card at the 
+    top of the discard pile.
 
-2.  Two gold are placed on the location corresponding to the revealed card,
-    unless the dragon marker is at that location.
-
-3.  The revealed card is then placed at the bottom of the Event Deck (and 
-    not in the discard pile).
-
-4.  If the Red Dragon appears, then:
+2.  If the Red Dragon appears, then:
 
     -   The Red Dragon has attacked the territory at the top of the event 
         discard pile (the territory where the previous event took place). 
@@ -441,12 +437,15 @@ II. Event Round:
         have passed or formed an alliance.
     -   The dragon marker does NOT go to the Red Dragons location. The
         dragon marker is only moved on the Dragon Round.
-        
-5.  Reveal another Event Card and place it place it the top of the 
-    discard pile.
-6.  Gold is placed on that location, in the amount indicated by that 
-    location, unless the dragon marker is present. If the dragon 
-    marker is at that location, then no gold is placed this turn.
+
+3.  Two gold are placed on the location corresponding to the second revealed 
+    card, unless the dragon marker is at that location. The second card
+    revealed is then placed on the Event Discard pile.
+
+4.  The amount of gold indicated on the board is placed on the location
+    corresponding to the first card revealed, unless the dragon marker is 
+    at that location. The first card revealed is then placed on the Event
+    Discard pile.
 
 
 ![](art/card-pickup.png)
@@ -702,7 +701,7 @@ Players may discard 2 Special Cards to:
     must have a unit within 1 territory of the territory to be affected.
 5.  To control the dragons on the Dragon Round, causing them to be moved
     an amount selected by the player (between 1 and 6) instead of the 
-    die roll. 
+    revealed Artifact card. 
 
 Balancing Options:
 ==================
@@ -711,7 +710,7 @@ The Goblins may be too powerful, and if this is found to be the case,
 then all players should receive an additional conscription.
 
 The Orcs may be too powerful, and if this is the case, the Orcs should 
-only be allowed to revive 2 units, instead of 3.
+only be allowed to revive 2 units for free, instead of 3.
 
 The Dwarves may be too powerful, and if this is the case the Emperor should
 receive 1 less gold for each artifact purchased (the 1 gold goes to the bank).
