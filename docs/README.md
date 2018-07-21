@@ -76,11 +76,6 @@ PDF: <http://pdf.dragondune.inkfox.org>
 
 Booklet: <http://booklet.dragondune.inkfox.org>
 
-This is an attempt to make a resource light game in the style of Dune,
-that is friendlier to beginners, easier logistically (4 players instead
-of 6), with greater rule clarity, and with a strong sense of theme
-(taking place in a fantasy setting).
-
 
 What You Need to Play:
 ----------------------
