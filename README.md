@@ -61,7 +61,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is the **6th Revision** (version 1.10).
+The game is the **7th Revision**.
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -256,22 +256,26 @@ Special:
 
 1.  Orcs may not hire mercenaries. Instead, they my raise armies in
     Orcish territories (16, 16• , 17, 18, 1, 1★, 2, & 2•) at no cost.
-2.  The Orcs may move units 3 territories in the movement round
-    (instead of 2).
-3.  The Orcs take only half losses (rounded up) against Dragons.
-4.  The Orcs take no losses from the Red Dragon, which they worship.
+2.  The Orcs (and their ally) may move units 3 territories in the 
+    movement round (instead of 2).
+3.  The Orcs take only half losses (rounded down) against Dragons
+    in the Dragon Round.
+4.  The Orcs (and their ally) take no losses from the Red Dragon, which 
+    they worship.
 5.  The Orcs may ride the Red Dragon when it appears, if they are in the
     same location.
-6.  The Orcs may remove all 3 units from the graveyard at no cost 
-    (instead of only receiving 1 free removal).
+6.  The Orcs (and their ally) may remove up to 3 units from the graveyard 
+    at no cost (instead of only receiving 1 free removal).
 8.  In battle, the Orcs add a bonus of 1 battle point to their total.
 9.  If no player has won at the end of the game, then Orcs are the
     default winner.
 10. Special Card (Ace): In the Dragon Round, you may move some or 
     all of your units in any one territory to any other location.
-11. Alliance Power: Your ally may remove 2 units from the 
+11. Alliance Power: Your ally may remove up to 3 units from the 
     graveyard at no cost (instead of 1 free removal); your ally 
-    takes no losses from the Red Dragon.
+    takes no losses from the Red Dragon; your ally may remove up to 3 
+    units from the graveyard at no cost (instead of only receiving 1 
+    free removal).
 
 
 * * *
@@ -398,7 +402,7 @@ I. Dragon Round:
     through the board that are not in a castle or forest are 
     removed form the game. 
 
-    -   Note that Orcs only take half losses, rounded up.
+    -   Note that Orcs only take half losses, rounded down.
 
 3.  When the dragon marker reaches  territory 18, it will next move 
     to the 1★ and 1.
@@ -499,9 +503,8 @@ order, all players may (in the following order):
     The first unit removed is free. The second and third units removed 
     costs 1 gold each.
     
-    -   The ally of the Orcs may remove a the second unit from their 
+    -   The Orcs (and their ally) may remove all 3 units from their 
         graveyard at no cost.
-    -   The Orcs may remove all 3 units from their graveyard at no cost.
 
 2.  If the current player is the Goblins (or their ally) they may disband 
     some or all of the units in one territory at no cost. Disbanded units 
@@ -534,7 +537,7 @@ order, all players may (in the following order):
 
     -   Units may not move through or to any location where the dragon 
         marker is present.
-    -   The Orcs may move through three territories.
+    -   The Orcs (and their ally) may move through up to three territories.
     -   If the player has access to griffins (if they control of 3★ 
         or 5★) then they may move through four territories.
     -   The player may play a Special Card to extend their movement 
@@ -572,8 +575,9 @@ the following (in the following order):
     Note that players may choose not to select an Artifact to use in battle.
 5.  For each color (red and black), whomever played the lower numbered
     artifact of that color, gets that amount added to their battle value.
-    If two artifacts of the same color are played, the higher valued 
-    artifact is discarded, regardless of who wins the battle.
+    
+    -   If two artifacts of the same color are played, the higher valued 
+        artifact is discarded, regardless of who wins the battle.
 
     -   If the two artifacts played are the same number and color, then 
         both artifacts are destroyed.
@@ -602,10 +606,11 @@ VI. Collection Round:
 
 1.  All players receive 1 gold.
 2.  Players receive 1 gold for each castle they control.
-3.  For any gold on the board, the player whom controls the territory 
+3.  The Dwarves ally receives 1 gold.
+4.  For any gold on the board, the player whom controls the territory 
     the gold is in may collect two gold from the board for every unit 
     in the territory, up to the amount of gold in the territory.
-4.  If players wish, they may discard some or all of their artifacts.
+5.  If players wish, they may discard some or all of their artifacts.
 
 
 ![](art/throne-king.png)
