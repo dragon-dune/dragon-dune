@@ -209,7 +209,7 @@ Special:
 
 ![](art/goblin_portrait.png)
 
-Goblins (♣):
+Goblins (♠):
 ------------------------
 
 The Goblins are ruthless mercenaries who fight for coin, even against
@@ -242,7 +242,7 @@ Special:
 
 ![](art/orc_portrait.png)
 
-Orcs (♠):
+Orcs (♣):
 ----------------------
 
 The Orcs control the territories of the west. They worship the
@@ -289,12 +289,12 @@ Cards:
 
     -   Dwarven Graveyard (King of Diamonds)
     -   Elven Graveyard (King of Hearts)
-    -   Goblins Graveyard (King of Clubs)
-    -   Orc Graveyard (King of Spades)
+    -   Goblins Graveyard (King of Spades)
+    -   Orc Graveyard (King of Clubs)
     -   Dwarven Usurper (Queen of Diamonds)
     -   Elven Usurper (Queen of Hearts)
-    -   Goblin Usurper (Queen of Clubs)
-    -   Orc Usurper (Queen of Spades)
+    -   Goblin Usurper (Queen of Spades)
+    -   Orc Usurper (Queen of Clubs)
     -   Sabotaged Clubs Artifact (Jack of Clubs)
     -   Sabotaged Diamond Artifact (Jack of Diamonds)
     -   Sabotaged Heart Artifact (Jack of Hearts)
@@ -333,7 +333,8 @@ Players may discard a Special Cards to:
     elves choose to stay hidden or not).
 5.  May be played as an artifact in battle with a value of 1.
 
-Special Cards may also be discarded to negate certain special abilities:
+Special Cards may also be discarded (by any player) to negate certain 
+special abilities:
 
 1.  May be played to stop the Elves (or ally) from asking a battle question.
 2.  May be played to stop the Orcs from surviving a Red Dragon encounter.
