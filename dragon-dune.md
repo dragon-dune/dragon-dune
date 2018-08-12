@@ -273,9 +273,8 @@ Special:
     all of your units in any one territory to any other location.
 11. Alliance Power: Your ally may remove up to 3 units from the 
     graveyard at no cost (instead of 1 free removal); your ally 
-    takes no losses from the Red Dragon; your ally may remove up to 3 
-    units from the graveyard at no cost (instead of only receiving 1 
-    free removal).
+    takes no losses from the Red Dragon; your ally may move units 3 
+    territories in the movement round (instead of 2).
 
 
 * * *
@@ -331,7 +330,6 @@ Players may discard a Special Cards to:
     units. The units come out of hiding at the the beginning of next 
     turn's Recruitment and Movement round (at the same time that the
     elves choose to stay hidden or not).
-5.  May be played as an artifact in battle with a value of 1.
 
 Special Cards may also be discarded (by any player) to negate certain 
 special abilities:
