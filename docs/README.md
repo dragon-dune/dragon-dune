@@ -61,7 +61,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is the **7th Revision**.
+The game is the **8th Revision**.
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -115,7 +115,7 @@ Rules of Note:
 6.  Players may never have more than 10 units between on the board and
     the player's graveyard at any one time.
 7.  No more than two players may have units in a castle at one time.
-    Note that hidden units and the troll token do not count as units
+    Note that hidden units and the troll do not count as units
     for the purpose of this limit.
 8.  Public agreements made in the game are binding and must be carried
     out, if possible. Public agreements can only be broken if all parties 
@@ -512,7 +512,7 @@ order, all players may (in the following order):
     -   Note that disbanding units at the beginning of the turn frees 
         up units to be recruited at another location in that same turn.
     
-3.  The current player may conscript 1 units from the bank onto
+3.  The current player may conscript up to 2 units from the bank onto
     any territory where they already have a unit. This action is free.
 4.  The current player may hire Goblin mercenaries at a cost of 1 gold
     per mercenary if it is in a city, or 2 gold per mercenary if it is
@@ -543,7 +543,7 @@ order, all players may (in the following order):
         range by 1 territory.
 
 6.  The current player may disband some, or all, of the units in one 
-    territory at the cost of one gold per token. Disbanded units are 
+    territory at the cost of one gold per unit. Disbanded units are 
     removed from the board, but do not go to the graveyard.
 7.  The whole process repeats for the next player in player order.
 
@@ -672,8 +672,8 @@ balance the game.
     which they may then keep or discard for a reward of 1 gold.
 -   Dwarven Elite Warriors: The Dwarves are fierce warriors. Two of their
     ten units are special units, which act as normal units in every way 
-    except that each unit counts as two units for the purpose of combat
-    (worth 4 battle points each, instead of the 2 for regular units).
+    except that each special unit has a battle value of 3 (instead of 2 
+    for regular units).
 -   Elven Blessing: After the Elves have lost 3 units in combat, they are
     given the power to invoke a blessing for one battle once per turn that 
     gives them an bonus battle point and makes it so they can not be 
@@ -685,22 +685,20 @@ balance the game.
 Optional Advanced Special Card Actions:
 =======================================
 
-Players may discard 2 Special Cards to:
+Players may discard the following cards to take special actions:
 
-1.  Make an extra movement during the Recruitment and Movement Round.
-2.  Ask one yes or no question of another player that must be answered
-    honestly.
-3.  Cause a chaos monster to be summoned in a battle that player is taking 
-    part in where an artifact with a value of 6 has been played by either 
-    (or both) players. The chaos monster, somewhat predictably, destroys 
-    all gold and units in the  territory, as well as all artifacts used in 
-    the battle.
-4.  To destroy the castle walls of one territory, causing that territory
-    to no longer be safe from dragon attack on the Dragon Round. The player
-    must have a unit within 1 territory of the territory to be affected.
-5.  To control the dragons on the Dragon Round, causing them to be moved
-    an amount selected by the player (between 1 and 6) instead of the 
-    revealed Artifact card. 
+-   Six of Clubs: Discard during the Dragon Round to control the movement
+    of the wild dragons, causing them to be moved an amount selected by 
+    the player (between 1 and 6) instead of the revealed Artifact card. 
+-   Six of Diamonds: Discard during the Recruitment and Movement round to 
+    to remove 2 units from your graveyard.
+-   Six of Hearts: Discard during the Recruitment and Movement Round to 
+    to make a second movement (but not an extra shipping or extra 
+    conscription).
+-   Six of Spades: Discard to destroy the castle walls of one territory, 
+    as long as the player has a unit in that territory or an adjacent 
+    territory. Then, for the remainder of the game, that territory is no 
+    longer be safe from dragon attack on the Dragon Round. 
 
 Balancing Options:
 ==================
