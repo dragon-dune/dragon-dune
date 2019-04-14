@@ -321,8 +321,8 @@ Aces are considered Special Cards.
 Players may discard a Special Cards to:
 
 1.  Not pay for an artifact card in the bidding round.
-2.  Pay half of regular price (rounded down) for mercenaries in the Bidding and 
-    Recruitment round.
+2.  Pay half of regular price (rounded down) for mercenaries in the 
+    Bidding and Recruitment round.
 3.  Move through one additional territory with your moved units in
     in the Bidding and Recruitment round.
 4.  Make your units in one territory hidden for one turn. This must
@@ -336,15 +336,16 @@ special abilities:
 
 1.  May be played to stop the Elves (or ally) from asking a battle question.
 2.  May be played to stop the Orcs from surviving a Red Dragon encounter.
-3.  May be played to stop the Goblins  (or ally) from disbanding units at the 
-    beginning of the Movement and Recruitment round (they may still disband at 
-    the end of the round).
-4.  May be used to stop the Dwarves from using their Queen card as a Sabotaged
-    Artifact and their Jack card as a Usurper.
+3.  May be played to stop the Goblins  (or ally) from disbanding units at 
+    the beginning of the Movement and Recruitment round (they may still 
+    disband at the end of the round).
+4.  May be used to stop the Dwarves from using their Queen card as a 
+    Sabotaged Artifact and their Jack card as a Usurper.
 
-Note: Special Cards cannot negate another special card action. So, for example, 
-you could stop the elves from asking a battle question (per their normal power), 
-but you could not stop them from using a Special Card to ask two battle questions.
+Note: Special Cards cannot negate another special card action. So, for 
+example, you could stop the elves from asking a battle question (per 
+their normal power), but you could not stop them from using a Special 
+Card to ask two battle questions.
 
 
 * * *
@@ -689,7 +690,7 @@ Players may discard the following cards to take special actions:
 
 -   Six of Clubs: Discard during the Dragon Round to control the movement
     of the wild dragons, causing them to be moved an amount selected by 
-    the player (between 1 and 6) instead of the revealed Artifact card. 
+    the player (between 0 and 7) instead of the revealed Artifact card. 
 -   Six of Diamonds: Discard during the Recruitment and Movement round to 
     to remove 2 units from your graveyard.
 -   Six of Hearts: Discard during the Recruitment and Movement Round to 

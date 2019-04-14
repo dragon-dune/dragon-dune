@@ -665,7 +665,7 @@ Players may discard the following cards to take special actions:
 
 -   Six of Clubs: Discard during the Dragon Round to control the
     movement of the wild dragons, causing them to be moved an amount
-    selected by the player (between 1 and 6) instead of the revealed
+    selected by the player (between 0 and 7) instead of the revealed
     Artifact card.
 -   Six of Diamonds: Discard during the Recruitment and Movement round
     to to remove 2 units from your graveyard.
