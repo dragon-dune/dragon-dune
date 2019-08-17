@@ -61,7 +61,7 @@ win the game.
 Details & Links
 ---------------
 
-The game is the **8th Revision**.
+The game is the **9th Revision**.
 
 This game is licensed Creative Commons Share-Alike 4.0,
 by Vincent von Guard.
@@ -188,22 +188,25 @@ Special:
 
 1.  The Elves may see the artifact that is up for bid before
     bidding begins.
-2.  In battle with the Elves (or their ally), the Elves may ask the
+2.  At any time, the Elves may look at all but one of another players 
+    artifact cards. The Elves' target may select which card to keep 
+    secret. The Goblins may keep half their cards (rounded up) secret.
+3.  In battle with the Elves (or their ally), the Elves may ask the
     color of their opponent's artifact card or to ask how many units 
     their opponent sending in to battle before selecting their own card 
     and units.
-3.  At the beginning of the Recruitment and Movement Round, the Elves
+4.  At the beginning of the Recruitment and Movement Round, the Elves
     may see what the next event card will be.
-4.  Elven units may go into hiding in a territory in order to escape 
+5.  Elven units may go into hiding in a territory in order to escape 
     conflict. Hidden units act in every way as though they did not exist. 
     So, for example, they may not engage in combat, collect gold, be 
     attacked by the Troll, or control a castle. Hidden units may only 
     come out of hiding at the beginning of the Recruitment and Movement 
     round or by moving into a territory where their units are not hiding.
-5.  Special Card (Ace): Elves may ask both the color of their opponent's 
+6.  Special Card (Ace): Elves may ask both the color of their opponent's 
     artifact card and ask how many units their opponent sending in to 
     battle before selecting their own card and units.
-6.  Alliance Power: Your ally may ask question before a battle just as
+7.  Alliance Power: Your ally may ask question before a battle just as
     the elves do.
 
 
@@ -690,7 +693,7 @@ Players may discard the following cards to take special actions:
 
 -   Six of Clubs: Discard during the Dragon Round to control the movement
     of the wild dragons, causing them to be moved an amount selected by 
-    the player (between 0 and 7) instead of the revealed Artifact card. 
+    the player (between 0 and 10) instead of the revealed Artifact card. 
 -   Six of Diamonds: Discard during the Recruitment and Movement round to 
     to remove 2 units from your graveyard.
 -   Six of Hearts: Discard during the Recruitment and Movement Round to 
