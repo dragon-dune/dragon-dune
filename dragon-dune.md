@@ -123,7 +123,7 @@ Rules of Note:
 9.  Players may form alliances, but there can still be only one winning
     player. Forming an alliance grants your ally an alliance power.
     Alliances can only be formed or broken during a Great Council after
-    a Red Dragon. (This is a change from Dune, which allows to players 
+    a Red Dragon. (This is a change from Dune, which allows two players 
     to share a victory.)
 10. Players get one movement and one recruitment per round, unless another
     special effect allows it.
@@ -238,7 +238,7 @@ Special:
     one gold per unit).
 7.  Special Card (Ace): You may discard a special card to stop a player 
     from hiring Goblin mercenaries that turn.
-8.  Alliance Power: Your ally may may half price (rounded down) for Goblin 
+8.  Alliance Power: Your ally may pay half price (rounded down) for Goblin 
     mercenaries (even the Orcs may do this); you may disband units at 
     the beginning of the movement round; you may disband units for free.
 
@@ -366,7 +366,7 @@ Setup:
 
 1.  The board is set up. Players place their starting units.
 2.  If there are any Oracles, they make their victory predictions.
-3.  One player is picked at random to be the Stating Player.
+3.  One player is picked at random to be the Starting Player.
 4.  The Dragon Marker is placed. Roll the die and multiply the number
     by three, then roll the die again and add that amount. This is the 
     starting location of the Dragon Marker.
@@ -470,7 +470,7 @@ maximum number of cards. For each card up for bid, one at a time.
     -   If the Goblins win the artifact, they receive a second artifact
         that is not revealed to the Elves.
     -   The winner may play a Special Card to avoid paying.
-    -   The ally of the Dwarves my elect (on one card per turn) not to pay.
+    -   The ally of the Dwarves may elect (on one card per turn) not to pay.
 
 4.  The whole process repeats for the next player in player order.
     For each card, the next player after the current Starting Bidder 
@@ -591,7 +591,7 @@ the following (in the following order):
 8.  The loser removes all units from the territory, regardless of whether
     or not they took part in the battle. The loser also discards all
     artifact cards used.
-9. If a player who took part in the battle has a their opponent as
+9. If a player who took part in the battle has had their opponent as
     their usurper, and has a sabotaged artifact of the same suit as the
     artifact their opponent played, then they may declare their
     treachery and automatically win the battle, taking no losses. The
@@ -629,11 +629,11 @@ VII. Victory Round:
     -   If the Orcs are not playing, then whomever has the most castles
         wins. If there is a tie, then the tied players may fight with any 
         units already present in 0• (normally a neutral territory),
-        with the winner of the battle winning the game. If there is still
+        with the winner of the battle winning the game. If there is still no
         winner, then the first of the tied players in player order is the
         winner.
         
-4.  If then game has not ended, then it goes back to the Dragon Round.
+4.  If the game has not ended, then it goes back to the Dragon Round.
 
 
 * * *
