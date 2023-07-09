@@ -26,7 +26,7 @@ Dune board game, that is friendlier to beginners, faster, easier
 logistically (4 players instead of 6), with greater rule clarity, and a 
 strong sense of theme.
 
-Four factions fight to control the of the land of the Red Dragon: 
+Four factions fight to control the land of the Red Dragon: 
 
 -   The Dwarves, who sell their treasury of artifacts to the highest 
     bidder to fund their armies. 
